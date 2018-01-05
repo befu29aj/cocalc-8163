@@ -21,10 +21,10 @@
 \WhichCoursefalse
 \ifWhichCourse
 \newcommand{\CourseName}{Statistics for Food Technology}
-\newcommand{\CourseNumber}{2441}
+\newcommand{\CourseNumber}{1441}
 \else
 \newcommand{\CourseName}{Calculus for Geomatics}
-\newcommand{\CourseNumber}{2511}
+\newcommand{\CourseNumber}{1511}
 \fi
 
 \title{Functions}
@@ -32,7 +32,7 @@
 
 \author{\CourseName}
 
-\date{January 5, 2018}
+\date{January 4, 2017}
 
 % \begin{figure}[h]
 % \includegraphics[scale=.3]{./extrema1.png}
