@@ -326,6 +326,9 @@ INPUT ./indeterminate.png
 INPUT ./lai.png
 INPUT ./lai.png
 INPUT ./lai.png
+INPUT ./limsinxoverx.png
+INPUT ./limsinxoverx.png
+INPUT ./limsinxoverx.png
 OUTPUT gc-02-Limits.nav
 OUTPUT gc-02-Limits.toc
 OUTPUT gc-02-Limits.snm
