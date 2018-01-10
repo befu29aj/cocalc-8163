@@ -1,0 +1,140 @@
+% 
+
+\documentclass[11pt]{article}
+\usepackage{enumerate}
+\usepackage{syllogism} 
+\usepackage{october}
+\usepackage[table]{xcolor}
+
+% testing overleaf
+
+\newif\ifWhichCourse
+\WhichCoursetrue
+% \WhichCoursefalse
+\ifWhichCourse
+\newcommand{\CourseName}{Technical Mathematics for Food Technology}
+\newcommand{\CourseNumber}{1441}
+\else
+\newcommand{\CourseName}{Technical Mathematics for Geomatics}
+\newcommand{\CourseNumber}{1511}
+\fi
+
+\begin{document}
+
+\textbf{Work Sheet Logarithms and Exponents}
+
+\emph{\CourseName, MATH \CourseNumber}
+
+Solve the following equations,
+  \begin{equation}
+    \label{eq:rohkiine}
+    4^{1-2x}=2
+  \end{equation}
+  \begin{equation}
+    \label{eq:zahsuini}
+    8^{6+3x}=4
+  \end{equation}
+  \begin{equation}
+    \label{eq:iaphaeya}
+    3^{x^{2}+x}=\sqrt{3}
+  \end{equation}
+  \begin{equation}
+    \label{eq:iebaiviu}
+    4^{x-x^{2}}=\frac{1}{2}
+  \end{equation}
+  \begin{equation}
+    \label{eq:maareiju}
+    \log_{x}64=-3
+  \end{equation}
+  \begin{equation}
+    \label{eq:sheuroov}
+    \log_{\sqrt{2}}x=-6
+  \end{equation}
+  \begin{equation}
+    \label{eq:dairithe}
+    5^{x}=3^{x+2}
+  \end{equation}
+  \begin{equation}
+    \label{eq:seizieng}
+    5^{x+2}=7^{x-2}
+  \end{equation}
+  \begin{equation}
+    \label{eq:ceivapuw}
+    9^{2x}=27^{3x-4}
+  \end{equation}
+  \begin{equation}
+    \label{eq:eefohvoh}
+    25^{2x}=5^{x^{2}-12}
+  \end{equation}
+  \begin{equation}
+    \label{eq:xiefepib}
+    \log_{3}\sqrt{x-2}=2
+  \end{equation}
+  \begin{equation}
+    \label{eq:eegaifah}
+    2^{x+1}\cdot{}8^{-x}=4
+  \end{equation}
+  \begin{equation}
+    \label{eq:phahmobu}
+    8=4^{x^{2}}\cdot{}2^{5x}
+  \end{equation}
+  \begin{equation}
+    \label{eq:xonguoge}
+    2^{x}\cdot{}5=10^{x}
+  \end{equation}
+  \begin{equation}
+    \label{eq:aeshaite}
+    \log_{6}(x+3)+\log_{6}(x+4)=1
+  \end{equation}
+  \begin{equation}
+    \label{eq:eequabae}
+    \log(7x-12)=2\log{}x
+  \end{equation}
+  \begin{equation}
+    \label{eq:niephait}
+    e^{1-x}=5
+  \end{equation}
+  \begin{equation}
+    \label{eq:eophooki}
+    e^{1-2x}=4
+  \end{equation}
+  \begin{equation}
+    \label{eq:eevaicei}
+    2^{3x}=3^{2x+1}
+  \end{equation}
+  \begin{equation}
+    \label{eq:ohquaiva}
+    2^{x^{3}}=3^{x^{2}}
+  \end{equation}
+  \begin{equation}
+    \label{eq:poikeeng}
+    2^{\frac{2}{\log_{5}x}}=\frac{1}{16}
+  \end{equation}
+
+  A small lake is stocked with a certain species of fish. The fish
+  population is modeled by the function
+  \begin{equation}
+    \label{eq:peongeex}
+    P=\frac{10}{1+4e^{-0.8t}}
+  \end{equation}
+where $P$ is the number of fish in thousands and $t$ is measured in
+years since the lake was stocked.
+\begin{enumerate}
+\item Find the fish population after 3 years.
+\item After how many years will the fish population reach 5000 fish?
+\end{enumerate}
+
+A culture starts with 8600 bacteria. After one hour the count is
+$10,000$.
+\begin{enumerate}
+\item Find a function that models the number of bacteria $n(t)$ after $t$ hours.
+\item Find the number of bacteria after 2 hours.
+\item After how many hours will the number of bacteria double?
+\end{enumerate}
+
+% \begin{figure}[h]
+% \includegraphics[scale=.6]{./prob02.jpg}
+% \end{figure}
+
+\end{document}
+

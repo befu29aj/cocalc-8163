@@ -1,31 +1,7 @@
 % gc-01-Functions.tex
 
 \documentclass[xcolor=dvipsnames]{beamer}
-
-\usepackage{graphicx}
-\usepackage{wrapfig}
-\usepackage{colortbl}
-\definecolor{myblue}{rgb}{0.8,0.85,1}
-
-\mode<presentation>
-{
-  \usetheme{Warsaw}
-  \setbeamercovered{transparent}
-}
-% \usecolortheme[named=OliveGreen]{structure}
-\setbeamertemplate{navigation symbols}{} 
-\setbeamertemplate{blocks}[rounded][shadow=true] 
-
-\newif\ifWhichCourse
-\WhichCoursetrue
-\WhichCoursefalse
-\ifWhichCourse
-\newcommand{\CourseName}{Statistics for Food Technology}
-\newcommand{\CourseNumber}{2441}
-\else
-\newcommand{\CourseName}{Calculus for Geomatics}
-\newcommand{\CourseNumber}{2511}
-\fi
+\usepackage{teachbeamer}
 
 \title{Functions}
 \subtitle{MATH {\CourseNumber}, BCIT}
