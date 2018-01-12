@@ -81,6 +81,11 @@
     "eq:ceekohto"
     "eq:waengohn"
     "eq:aiceiphu"
-    "eq:iidooziu"))
+    "eq:iidooziu"
+    "eq:eneephai"
+    "eq:oogaetei"
+    "eq:eetheijo"
+    "eq:oatojeib"
+    "eq:phemohpo"))
  :latex)
 
