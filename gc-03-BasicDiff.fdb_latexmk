@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1516037112 "gc-03-BasicDiff.tex" "gc-03-BasicDiff.pdf" "gc-03-BasicDiff" 1516037114
+["pdflatex"] 1516049012 "gc-03-BasicDiff.tex" "gc-03-BasicDiff.pdf" "gc-03-BasicDiff" 1516049013
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -211,16 +211,16 @@
   "diagrams/regiontangent.png" 1515705713 20899 81045623c0872e1e514b3565957c1223 ""
   "diagrams/tangent1.png" 1515696296 771348 a790aa822d8323ad910bdf0dba2aabc6 ""
   "diagrams/tangent2.png" 1515696296 560876 d13eea43ae5ef2a01c36202d21c4ab81 ""
-  "gc-03-BasicDiff.aux" 1516037113 6666 f7715cdfb889dd6fbef1387fa3a185ea ""
-  "gc-03-BasicDiff.nav" 1516037113 2171 7188158e54cd93954d4db22668bcc816 ""
-  "gc-03-BasicDiff.out" 1516037113 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "gc-03-BasicDiff.tex" 1516037106 8979 4f37ab6ef285a14a9035f6a700827c63 ""
-  "teachbeamer.sty" 1515687472 1591 3fa32860b06b1270afb7c21dbcf413a2 ""
+  "gc-03-BasicDiff.aux" 1516049013 7734 c3e77c13f42521097b107422ba07fa03 ""
+  "gc-03-BasicDiff.nav" 1516049013 2729 bdfca6c190082268f33e6c618dfc8197 ""
+  "gc-03-BasicDiff.out" 1516049013 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-03-BasicDiff.tex" 1516048989 10050 e51416cadf5632e5e3e1060e57c2e2d6 ""
+  "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
-  "gc-03-BasicDiff.out"
+  "gc-03-BasicDiff.pdf"
+  "gc-03-BasicDiff.aux"
+  "gc-03-BasicDiff.log"
   "gc-03-BasicDiff.snm"
   "gc-03-BasicDiff.toc"
+  "gc-03-BasicDiff.out"
   "gc-03-BasicDiff.nav"
-  "gc-03-BasicDiff.aux"
-  "gc-03-BasicDiff.pdf"
-  "gc-03-BasicDiff.log"
