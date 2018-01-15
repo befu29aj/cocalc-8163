@@ -46,6 +46,9 @@
     "eq:ohzahcer"
     "eq:mothoofi"
     "eq:aiquooyo"
-    "eq:achaingo"))
+    "eq:achaingo"
+    "eq:coojeing"
+    "eq:aurieroo"
+    "eq:zoogheem"))
  :latex)
 
