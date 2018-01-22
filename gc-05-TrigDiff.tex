@@ -25,17 +25,12 @@
 Make sure to remember that the trigonometric functions (sine, cosine,
 tangent, cotangent, etc.) are functions from the real numbers into the
 real numbers. An angle is a real number in terms of its
-\alert{radians} measure. If the angle is in degrees, it can be
+\alert{radian} measure. If the angle is in degrees, it can be
 converted to radians as in the following example,
 \begin{equation}
   \label{eq:eedeehuc}
   42^{\circ}=42\cdot\frac{\pi}{180}\approx{}0.73304
 \end{equation}
-% The derivative of $f(\vartheta)=\sin\vartheta$ is 
-% \begin{equation}
-%   \label{eq:eishooro}
-%   f'(\vartheta)=\cos\vartheta
-% \end{equation}
 % For a proof, see James Stewart, \emph{Single Variable Calculus}, Sixth
 % Edition, page 190f (or page 135). 
 % \emph{Exercise:} Differentiate $f(x)=x^{2}\sin{}x$.
@@ -43,14 +38,13 @@ converted to radians as in the following example,
 
 \begin{frame}
   \frametitle{Trigonometric Functions Review}
-  This reference triangle serves as a reminder how the sine and cosine
-  are defined. Any right triangle whose hypotenuse is of length $c'=1$
-  can be inserted into the unit circle so that one of the two shorter
-  sides rests on the $x$-axis and one of the vertices is at the
-  origin. Then the vertex $B$ in the diagram has the coordinates
-  $(\cos\alpha,\sin\alpha)$.
+  Any right triangle whose hypotenuse is of length $c'=1$ can be
+  inserted into the unit circle so that one of the two shorter sides
+  rests on the $x$-axis and one of the vertices is at the origin
+  (reference triangle). Then the vertex $B$ in the diagram has the
+  coordinates $(\cos\alpha,\sin\alpha)$.
     \begin{figure}[h]
-    \includegraphics[scale=.5]{./diagrams/cosine.eps}
+    \includegraphics[scale=.45]{./diagrams/cosine.eps}
   \end{figure}
 \end{frame}
 
@@ -77,8 +71,7 @@ converted to radians as in the following example,
 
 \begin{frame}
   \frametitle{Trigonometric Functions Review}
-  The graph of the sine and cosine functions looks approximately like
-  this,
+  Here is a graph of the sine and cosine functions.
   \begin{figure}[h]
     \includegraphics[scale=2]{./diagrams/sinecosine.png}
   \end{figure}
@@ -86,12 +79,7 @@ converted to radians as in the following example,
 
 \begin{frame}
   \frametitle{Trigonometric Functions Review}
-  The graph of the tangent functions looks approximately like
-  this,
-\begin{equation}
-  \label{eq:bebiefee}
-  \tan\alpha=\frac{\sin\alpha}{\cos\alpha}
-\end{equation}
+  Here is a graph of the tangent function.
   \begin{figure}[h]
     \includegraphics[scale=.5]{./diagrams/tangent.png}
   \end{figure}
@@ -101,7 +89,8 @@ converted to radians as in the following example,
   \frametitle{Trigonometric Functions Review}
   Consider the following table of well-known inverse functions
   commonly used in calculus:
-  \begin{tabular}{|r|r|}\hline
+
+  \begin{tabular}{|l|l|}\hline
     \textbf{function} & \textbf{inverse} \\ \hline
     $e^{x}$ & $\ln{}x$ \\ \hline
     $\sin{}x$ & $\arcsin{}x\mbox{ or }\sin^{-1}$ \\ \hline
@@ -119,15 +108,15 @@ converted to radians as in the following example,
   \end{equation}
 \begin{equation}
   \label{eq:iegaexah}
-  \sin(-\alpha)=-\sin\alpha
+  \sin(-x)=-\sin{}x
 \end{equation}
 \begin{equation}
   \label{eq:gaijohra}
-  \cos(-\alpha)=\cos\alpha
+  \cos(-x)=\cos{}x
 \end{equation}
 \begin{equation}
   \label{eq:doajeigh}
-  \tan(-\alpha)=-\tan\alpha
+  \tan(-x)=-\tan{}x
 \end{equation}
 \end{frame}
 
@@ -136,31 +125,31 @@ converted to radians as in the following example,
   Consider the following most important trigonometric identities:
 \begin{equation}
   \label{eq:dieteipa}
-  \sin(90^{\circ}-\alpha)=\cos\alpha
+  \sin(90^{\circ}-x)=\cos{}x
 \end{equation}
 \begin{equation}
   \label{eq:oepoodoh}
-  \cos(90^{\circ}-\alpha)=\sin\alpha
+  \cos(90^{\circ}-x)=\sin{}x
 \end{equation}
 \begin{equation}
   \label{eq:aiwatong}
-  \tan(90^{\circ}-\alpha)=\cot\alpha
+  \tan(90^{\circ}-x)=\cot{}x
 \end{equation}
 \begin{equation}
   \label{eq:jahpeexu}
-  \sin(\alpha+180^{\circ})=-\sin\alpha
+  \sin(x+180^{\circ})=-\sin{}x
 \end{equation}
 \begin{equation}
   \label{eq:aephuemo}
-  \cos(\alpha+180^{\circ})=-\cos\alpha
+  \cos(x+180^{\circ})=-\cos{}x
 \end{equation}
 \begin{equation}
   \label{eq:xaiyahcu}
-  \tan(\alpha+180^{\circ})=\tan\alpha
+  \tan(x+180^{\circ})=\tan{}x
 \end{equation}
 \begin{equation}
   \label{eq:aitahwae}
-  \cot(\alpha+180^{\circ})=\cot\alpha
+  \cot(x+180^{\circ})=\cot{}x
 \end{equation}
 \end{frame}
 
@@ -169,21 +158,21 @@ converted to radians as in the following example,
   Here are the angle sum identities,
   \begin{equation}
   \label{eq:eitaiquu}
-  \sin(\alpha+\beta)=\sin\alpha\cos\beta+\cos\alpha\sin\beta
+  \sin(x+y)=\sin{}x\cos{}y+\cos{}x\sin{}y
 \end{equation}
 \begin{equation}
   \label{eq:iasoojou}
-  \cos(\alpha+\beta)=\cos\alpha\cos\beta-\sin\alpha\sin\beta
+  \cos(x+y)=\cos{}x\cos{}y-\sin{}x\sin{}y
 \end{equation}
 from which we have, immediately following, the double angle
 identities,
   \begin{equation}
     \label{eq:icuchodo}
-    \sin(2\alpha)=2\cos\alpha\sin\alpha
+    \sin(2x)=2\cos{}x\sin{}x
   \end{equation}
   \begin{equation}
     \label{eq:woojahtu}
-    \cos(2\alpha)=\cos^{2}\alpha-\sin^{2}\alpha
+    \cos(2x)=\cos^{2}x-\sin^{2}x
   \end{equation}
 \end{frame}
 

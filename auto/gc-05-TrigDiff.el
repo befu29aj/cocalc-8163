@@ -22,7 +22,6 @@
     "eq:dohquohb"
     "eq:eengohqu"
     "eq:eipuoxei"
-    "eq:bebiefee"
     "eq:shutooth"
     "eq:iegaexah"
     "eq:gaijohra"
