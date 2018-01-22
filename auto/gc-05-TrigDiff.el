@@ -54,11 +54,11 @@
     "eq:uulohjeo"
     "eq:shooceid"
     "eq:hupuxahz"
+    "eq:hoirohfo"
     "eq:vithooke"
     "eq:chaequin"
     "eq:hohxenoo"
-    "eq:tohsohgh"
     "eq:zichoope"
-    "eq:hoirohfo"))
+    "eq:tohsohgh"))
  :latex)
 
