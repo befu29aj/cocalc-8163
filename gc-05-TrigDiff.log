@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  22 JAN 2018 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  22 JAN 2018 19:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1015,18 +1015,18 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 34.
+line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1034,21 +1034,99 @@ thkerncmss.
 )
 [2
 
-] [3
+]
+Package epstopdf Info: Source file: <./diagrams/cosine.eps>
+(epstopdf)                    date: 2018-01-22 16:52:39
+(epstopdf)                    size: 62234 bytes
+(epstopdf)             Output file: <./diagrams/cosine-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-01-22 16:52:46
+(epstopdf)                    size: 7914 bytes
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/cosine-eps-conv
+erted-to.pdf ./diagrams/cosine.eps>
+(epstopdf)             \includegraphics on input line 48.
+Package epstopdf Info: Output file is already uptodate.
+ <./diagrams/cosine-eps-converted-to.pdf, id=45, 400.49625pt x 400.49625pt>
+File: ./diagrams/cosine-eps-converted-to.pdf Graphic file (type pdf)
 
-] [4
+<use ./diagrams/cosine-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/cosine-eps-converted-to.pdf used on input l
+ine 48.
+(pdftex.def)             Requested size: 180.22165pt x 180.22165pt.
 
-] <./diagrams/trigdiff.png, id=63, 417.56pt x 284.06125pt>
+Overfull \vbox (29.41676pt too high) detected at line 48
+ []
+
+[3
+
+ <./diagrams/cosine-eps-converted-to.pdf>] [4
+
+]
+<./diagrams/sinecosine.png, id=78, 144.54pt x 79.7379pt>
+File: ./diagrams/sinecosine.png Graphic file (type png)
+
+<use ./diagrams/sinecosine.png>
+Package pdftex.def Info: ./diagrams/sinecosine.png used on input line 77.
+(pdftex.def)             Requested size: 289.07925pt x 159.4754pt.
+ [5
+
+ <./diagrams/sinecosine.png>]
+<./diagrams/tangent.png, id=87, 408.52625pt x 344.28625pt>
+File: ./diagrams/tangent.png Graphic file (type png)
+
+<use ./diagrams/tangent.png>
+Package pdftex.def Info: ./diagrams/tangent.png used on input line 85.
+(pdftex.def)             Requested size: 204.26262pt x 172.1427pt.
+ [6
+
+ <./diagrams/tangent.png>] [7
+
+] [8
+
+] [9
+
+] [10
+
+]
+[11
+
+] <./diagrams/limsinxoverx.png, id=144, 1010.77625pt x 884.30376pt>
+File: ./diagrams/limsinxoverx.png Graphic file (type png)
+
+<use ./diagrams/limsinxoverx.png>
+Package pdftex.def Info: ./diagrams/limsinxoverx.png used on input line 194.
+(pdftex.def)             Requested size: 242.59125pt x 212.23723pt.
+ [12
+
+ <./diagrams/limsinxoverx.png>] [13
+
+]
+[14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+]
+<./diagrams/trigdiff.png, id=208, 417.56pt x 284.06125pt>
 File: ./diagrams/trigdiff.png Graphic file (type png)
 
 <use ./diagrams/trigdiff.png>
-Package pdftex.def Info: ./diagrams/trigdiff.png used on input line 71.
+Package pdftex.def Info: ./diagrams/trigdiff.png used on input line 304.
 (pdftex.def)             Requested size: 250.53792pt x 170.43805pt.
- [5
+ [19
 
- <./diagrams/trigdiff.png>] [6
+ <./diagrams/trigdiff.png>] [20
 
-] [7
+] [21
+
+] [22
+
+]
+[23
 
 ]
 \tf@nav=\write6
@@ -1060,12 +1138,11 @@ Package pdftex.def Info: ./diagrams/trigdiff.png used on input line 71.
 \tf@snm=\write8
 \openout8 = `gc-05-TrigDiff.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
-
-(./gc-05-TrigDiff.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
+ (./gc-05-TrigDiff.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
 Package rerunfilecheck Info: File `gc-05-TrigDiff.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1073,27 +1150,32 @@ Package rerunfilecheck Info: File `gc-05-TrigDiff.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 358.
  ) 
 Here is how much of TeX's memory you used:
- 19923 strings out of 493029
- 394615 string characters out of 6136234
- 463570 words of memory out of 5000000
- 22954 multiletter control sequences out of 15000+600000
- 10746 words of font info for 39 fonts, out of 8000000 for 9000
+ 20076 strings out of 493029
+ 396673 string characters out of 6136234
+ 465341 words of memory out of 5000000
+ 23039 multiletter control sequences out of 15000+600000
+ 10684 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,418b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on gc-05-TrigDiff.pdf (7 pages, 79659 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb>
+Output written on gc-05-TrigDiff.pdf (23 pages, 241646 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 302 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
