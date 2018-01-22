@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  17 JAN 2018 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  22 JAN 2018 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**gc-03-BasicDiff.tex
-(./gc-03-BasicDiff.tex
+**gc-05-TrigDiff.tex
+(./gc-05-TrigDiff.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -828,8 +828,8 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
 \c@expls=\count163
 \c@exercise=\count164
-) (./gc-03-BasicDiff.aux)
-\openout1 = `gc-03-BasicDiff.aux'.
+) (./gc-05-TrigDiff.aux)
+\openout1 = `gc-05-TrigDiff.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -924,9 +924,9 @@ LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
 
-(./gc-03-BasicDiff.out) (./gc-03-BasicDiff.out)
+(./gc-05-TrigDiff.out) (./gc-05-TrigDiff.out)
 \@outlinefile=\write5
-\openout5 = `gc-03-BasicDiff.out'.
+\openout5 = `gc-05-TrigDiff.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 17.
@@ -1007,7 +1007,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 17.
 
-(./gc-03-BasicDiff.nav)
+(./gc-05-TrigDiff.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 21.
@@ -1015,169 +1015,85 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<./diagrams/regiontangent.png, id=33, 853.1875pt x 301.125pt>
-File: ./diagrams/regiontangent.png Graphic file (type png)
-
-<use ./diagrams/regiontangent.png>
-Package pdftex.def Info: ./diagrams/regiontangent.png used on input line 31.
-(pdftex.def)             Requested size: 298.6201pt x 105.39532pt.
- [2
-
- <./diagrams/regiontangent.png>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 43.
+line 34.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-[3
+[2
+
+] [3
 
 ] [4
 
-] [5
+] <./diagrams/trigdiff.png, id=63, 417.56pt x 284.06125pt>
+File: ./diagrams/trigdiff.png Graphic file (type png)
 
-] [6
+<use ./diagrams/trigdiff.png>
+Package pdftex.def Info: ./diagrams/trigdiff.png used on input line 71.
+(pdftex.def)             Requested size: 250.53792pt x 170.43805pt.
+ [5
 
-] <./diagrams/tangent2.png, id=81, 205.7286pt x 148.8762pt>
-File: ./diagrams/tangent2.png Graphic file (type png)
+ <./diagrams/trigdiff.png>] [6
 
-<use ./diagrams/tangent2.png>
-Package pdftex.def Info: ./diagrams/tangent2.png used on input line 108.
-(pdftex.def)             Requested size: 144.00903pt x 104.21263pt.
- [7
-
- <./diagrams/tangent2.png (PNG copy)>] [8
-
-]
-<./diagrams/tangent1.png, id=98, 273.6624pt x 152.7306pt>
-File: ./diagrams/tangent1.png Graphic file (type png)
-
-<use ./diagrams/tangent1.png>
-Package pdftex.def Info: ./diagrams/tangent1.png used on input line 140.
-(pdftex.def)             Requested size: 191.56236pt x 106.91069pt.
- [9
-
- <./diagrams/tangent1.png (PNG copy)>] [10
-
-]
-<./diagrams/derivs2.png, id=113, 137.7948pt x 96.36pt>
-File: ./diagrams/derivs2.png Graphic file (type png)
-
-<use ./diagrams/derivs2.png>
-Package pdftex.def Info: ./diagrams/derivs2.png used on input line 158.
-(pdftex.def)             Requested size: 248.03043pt x 173.44781pt.
- [11
-
- <./diagrams/derivs2.png>]
-<./diagrams/derivs1.png, id=121, 403.5075pt x 337.26pt>
-File: ./diagrams/derivs1.png Graphic file (type png)
-
-<use ./diagrams/derivs1.png>
-Package pdftex.def Info: ./diagrams/derivs1.png used on input line 165.
-(pdftex.def)             Requested size: 242.10637pt x 202.35756pt.
- [12
-
- <./diagrams/derivs1.png>] [13
-
-] [14
-
-] [15
-
-]
-[16
-
-] [17
-
-]
-Overfull \hbox (8.0534pt too wide) detected at line 270
-[][][] [] [] \OT1/cmss/m/n/10.95 = [] [] =[]
- []
-
-[18
-
-] [19
-
-] [20
-
-] [21
-
-] [22
-
-] [23
-
-] [24
-
-] [25
-
-] [26
-
-] [27
-
-] [28
-
-] [29
+] [7
 
 ]
 \tf@nav=\write6
-\openout6 = `gc-03-BasicDiff.nav'.
+\openout6 = `gc-05-TrigDiff.nav'.
 
 \tf@toc=\write7
-\openout7 = `gc-03-BasicDiff.toc'.
+\openout7 = `gc-05-TrigDiff.toc'.
 
 \tf@snm=\write8
-\openout8 = `gc-03-BasicDiff.snm'.
+\openout8 = `gc-05-TrigDiff.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 369.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 369.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
 
-(./gc-03-BasicDiff.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 369.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 369.
-Package rerunfilecheck Info: File `gc-03-BasicDiff.out' has not changed.
+(./gc-05-TrigDiff.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package rerunfilecheck Info: File `gc-05-TrigDiff.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 369.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 20143 strings out of 493029
- 398436 string characters out of 6136234
- 469029 words of memory out of 5000000
- 23105 multiletter control sequences out of 15000+600000
- 10684 words of font info for 39 fonts, out of 8000000 for 9000
+ 19923 strings out of 493029
+ 394615 string characters out of 6136234
+ 463570 words of memory out of 5000000
+ 22954 multiletter control sequences out of 15000+600000
+ 10746 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,16n,72p,419b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxf
-ont/line10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbo
-ls/msbm10.pfb>
-Output written on gc-03-BasicDiff.pdf (29 pages, 1592692 bytes).
+ 58i,16n,72p,418b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on gc-05-TrigDiff.pdf (7 pages, 79659 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
- 92 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 27 named destinations out of 1000 (max. 500000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
 

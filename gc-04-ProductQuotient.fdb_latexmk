@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1516119518 "gc-04-ProductQuotient.tex" "gc-04-ProductQuotient.pdf" "gc-04-ProductQuotient" 1516119519
+["pdflatex"] 1516206276 "gc-04-ProductQuotient.tex" "gc-04-ProductQuotient.pdf" "gc-04-ProductQuotient" 1516206277
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -202,16 +202,16 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1506161354 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
   "diagrams/onenote_ft_09_ProductQuotientRule_02.png" 1515696296 69743 970b840be18b7103ea6784236613bd30 ""
-  "gc-04-ProductQuotient.aux" 1516119519 3821 118b454040424fc578b5d08b35610030 ""
-  "gc-04-ProductQuotient.nav" 1516119519 1050 9b94327a0dd85e0d8b7218c91d669cc3 ""
-  "gc-04-ProductQuotient.out" 1516119519 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-04-ProductQuotient.aux" 1516206277 3821 118b454040424fc578b5d08b35610030 ""
+  "gc-04-ProductQuotient.nav" 1516206277 1050 9b94327a0dd85e0d8b7218c91d669cc3 ""
+  "gc-04-ProductQuotient.out" 1516206277 0 d41d8cd98f00b204e9800998ecf8427e ""
   "gc-04-ProductQuotient.tex" 1516119500 3232 c4b184a2b91d02f32d5f03aac96d147b ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
-  "gc-04-ProductQuotient.toc"
-  "gc-04-ProductQuotient.aux"
-  "gc-04-ProductQuotient.snm"
-  "gc-04-ProductQuotient.log"
   "gc-04-ProductQuotient.nav"
-  "gc-04-ProductQuotient.pdf"
   "gc-04-ProductQuotient.out"
+  "gc-04-ProductQuotient.pdf"
+  "gc-04-ProductQuotient.snm"
+  "gc-04-ProductQuotient.toc"
+  "gc-04-ProductQuotient.log"
+  "gc-04-ProductQuotient.aux"
