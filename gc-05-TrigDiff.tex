@@ -90,6 +90,8 @@ converted to radians as in the following example,
   Consider the following table of well-known inverse functions
   commonly used in calculus:
 
+\bigskip
+
   \begin{tabular}{|l|l|}\hline
     \textbf{function} & \textbf{inverse} \\ \hline
     $e^{x}$ & $\ln{}x$ \\ \hline
@@ -104,7 +106,7 @@ converted to radians as in the following example,
   Consider the following most important trigonometric identities:
   \begin{equation}
     \label{eq:shutooth}
-    \sin{}x^{2}+\cos{}x^{2}=1
+    \sin^{2}x+\cos^{2}x=1
   \end{equation}
 \begin{equation}
   \label{eq:iegaexah}
@@ -173,6 +175,77 @@ identities,
   \begin{equation}
     \label{eq:woojahtu}
     \cos(2x)=\cos^{2}x-\sin^{2}x
+  \end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Limit of sin(x)/x}
+  Consider
+\begin{equation}
+  \label{eq:iepichae}
+  \lim_{x\rightarrow{}0}\frac{\sin{}x}{x}
+\end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Limit of sin(x)/x}
+\begin{figure}[h]
+\includegraphics[scale=.24]{./diagrams/limsinxoverx.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Limit of sin(x)/x}
+  In the previous slide, consider the unit circle with
+  $\|\vec{OP}\|=\|\vec{OR}\|=1$ and the angle $x$ at $O$. For simplicity let's
+  assume that $0<x<\pi/2$. The angle $x$ is also the length of the arc
+  between $P$ and $R$. Consequently
+  \begin{equation}
+    \label{eq:iufoobue}
+\|\vec{RT}\|=\sin{}x\leq{}x    
+  \end{equation}
+  and therefore
+  \begin{equation}
+    \label{eq:chaveeju}
+    \frac{\sin{}x}{x}\leq{}1
+  \end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Limit of sin(x)/x}
+  Now consider
+  \begin{equation}
+    \label{eq:uraewiha}
+    x\leq\|\vec{PS}\|+\|\vec{SR}\|\leq\|\vec{PS}\|+\|\vec{SQ}\|=\|\vec{PQ}\|=\tan{}x
+  \end{equation}
+$\|\vec{SR}\|\leq\|\vec{SQ}\|$ because the angle $QRS$ is a right angle.
+(\ref{eq:uraewiha}) means that
+\begin{equation}
+  \label{eq:uebaenih}
+  \cos{}x\leq\frac{\sin{}x}{x}
+\end{equation}
+Since $\lim_{x\rightarrow{}0}\cos{}x=1$ and $\lim_{x\rightarrow{}0}1=1$, we can use the squeeze
+theorem, (\ref{eq:chaveeju}), and (\ref{eq:uebaenih}) for
+\begin{equation}
+  \label{eq:guabighe}
+  \lim_{x\rightarrow{}0}\frac{\sin{}x}{x}=1
+\end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Limit of (cos(x)-1)/x}
+  Consider
+  \begin{equation}
+    \label{eq:ungaeciz}
+    \lim_{x\rightarrow{}0}\frac{\cos{}x-1}{x}=\lim_{x\rightarrow{}0}\left[\frac{\cos{}x-1}{x}\cdot\frac{\cos{}x+1}{\cos{}x+1}\right]=\notag
+  \end{equation}
+  \begin{equation}
+    \label{eq:xiecahze}
+    \lim_{x\rightarrow{}0}\frac{\cos^{2}x-1}{x(\cos{}x+1)}=-\lim_{x\rightarrow{}0}\left[\frac{\sin{}x}{x}\cdot\frac{\xin{}x}{\cos{}x+1}\right]=\notag
+  \end{equation}
+  \begin{equation}
+    \label{eq:angoohee}
+    -1\cdot\left(\frac{0}{1+1}\right)=0
   \end{equation}
 \end{frame}
 
