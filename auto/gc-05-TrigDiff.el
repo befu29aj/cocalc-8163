@@ -53,6 +53,8 @@
     "eq:afeizeix"
     "eq:uulohjeo"
     "eq:shooceid"
+    "eq:ahquoila"
+    "eq:eengaine"
     "eq:hupuxahz"
     "eq:hoirohfo"
     "eq:vithooke"
