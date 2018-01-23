@@ -308,6 +308,45 @@ Use the quotient rule to prove this. Remember that
 \end{frame}
 
 \begin{frame}
+  \frametitle{The Derivative of Arcsine}
+  We can tell from the graph that
+  \begin{enumerate}
+  \item $\frac{d}{dx}\arcsin{}x$ will be positive
+  \item $\frac{d}{dx}\arcsin{}x$ will be defined on the interval $[-1,1]$
+  \end{enumerate}
+Let's restrict our attention to the first quadrant so that we may say
+with confidence for $f(x)=\arcsin{}x$ that
+\begin{equation}
+  \label{eq:sieheuvu}
+  sin(f(x))=x\mbox{ and therefore }\cos{}f(x)=\sqrt{1-\sin^{2}f(x)}
+\end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{The Derivative of Arcsine}
+Take the equation $\sin(f(x))=x$ and differentiate with respect to $x$
+on both sides.
+\begin{equation}
+  \label{eq:heipaeng}
+  \sin(f(x))=x
+\end{equation}
+\begin{equation}
+  \label{eq:xohtavie}
+  \frac{d}{dx}\sin(f(x))=\frac{d}{dx}x
+\end{equation}
+We know the right-hand side equals 1. For the left-hand side, we that
+\begin{equation}
+  \label{eq:keeshoot}
+  \frac{d}{dx}\sin{}x=\cos{}x
+\end{equation}
+but be very careful here
+\begin{equation}
+  \label{eq:ungitoov}
+  \frac{d}{dx}\sin(f(x))\alert{\neq}\cos{}f(x)
+\end{equation}
+\end{frame}
+
+\begin{frame}
   \frametitle{Derivatives of Trigonometric Functions}
 \begin{figure}[h]
 \includegraphics[scale=.6]{./diagrams/trigdiff.png}
