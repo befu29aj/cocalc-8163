@@ -314,11 +314,14 @@ Use the quotient rule to prove this. Remember that
   \item $\frac{d}{dx}\arcsin{}x$ will be positive
   \item $\frac{d}{dx}\arcsin{}x$ will be defined on the interval $[-1,1]$
   \end{enumerate}
-Let's restrict our attention to the first quadrant so that we may say
+
+  \bigskip
+
+  Let's restrict our attention to the first quadrant so that we may say
 with confidence for $f(x)=\arcsin{}x$ that
 \begin{equation}
   \label{eq:sieheuvu}
-  sin(f(x))=x\mbox{ and therefore }\cos{}f(x)=\sqrt{1-\sin^{2}f(x)}
+  sin(f(x))=x\mbox{ and therefore }\cos{}f(x)=\sqrt{1-\sin^{2}f(x)}=\sqrt{1-x^{2}}
 \end{equation}
 \end{frame}
 
@@ -334,7 +337,7 @@ on both sides.
   \label{eq:xohtavie}
   \frac{d}{dx}\sin(f(x))=\frac{d}{dx}x
 \end{equation}
-We know the right-hand side equals 1. For the left-hand side, we that
+We know the right-hand side equals 1. For the left-hand side, we know that
 \begin{equation}
   \label{eq:keeshoot}
   \frac{d}{dx}\sin{}x=\cos{}x
@@ -344,6 +347,26 @@ but be very careful here
   \label{eq:ungitoov}
   \frac{d}{dx}\sin(f(x))\alert{\neq}\cos{}f(x)
 \end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{The Derivative of Arcsine}
+  We need some magic here---exactly the kind of magic provided in the
+  next lesson: it is called the chain rule.
+  \begin{equation}
+    \label{eq:eeceiloh}
+  \frac{d}{dx}\sin(f(x))=\cos{}f(x)\alert{\cdot{}f'(x)}
+  \end{equation}
+  Now that we also have the left-hand side, (\ref{eq:xohtavie}) becomes
+  \begin{equation}
+    \label{eq:ahtiegho}
+    \cos{}f(x)\cdot{}f'(x)}=1
+  \end{equation}
+  and therefore, using (\ref{eq:sieheuvu})
+  \begin{equation}
+    \label{eq:phiquael}
+    \frac{d}{dx}\arcsin{}x=f'(x)=\frac{1}{\cos{}f(x)}=\frac{1}{\sqrt{1-x^{2}}}
+  \end{equation}
 \end{frame}
 
 \begin{frame}
