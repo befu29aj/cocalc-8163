@@ -1,51 +1,14 @@
 % gc-06-ChainRule.tex
 
 \documentclass[xcolor=dvipsnames]{beamer}
-
-\usepackage{cancel}
-\renewcommand{\CancelColor}{\color{red}}
-\usepackage{graphicx}
-\usepackage{wrapfig}
-\usepackage{colortbl}
-\definecolor{myblue}{rgb}{0.8,0.85,1}
-
-\mode<presentation>
-{
-  \usetheme{Warsaw}
-  \setbeamercovered{transparent}
-}
-% \usecolortheme[named=OliveGreen]{structure}
-\setbeamertemplate{navigation symbols}{} 
-\setbeamertemplate{blocks}[rounded][shadow=true] 
-
-\newif\ifBCITCourse
-\BCITCoursetrue
-% \BCITCoursefalse
-\newif\ifWhichCourse
-\WhichCoursetrue
-\WhichCoursefalse
-\ifBCITCourse
-\ifWhichCourse
-\newcommand{\CourseName}{Statistics for Food Technology}
-\newcommand{\CourseNumber}{MATH 2441}
-\newcommand{\CourseInst}{BCIT}
-\else
-\newcommand{\CourseName}{Calculus for Geomatics}
-\newcommand{\CourseNumber}{MATH 2511}
-\newcommand{\CourseInst}{BCIT}
-\fi
-\else
-\newcommand{\CourseName}{Philosophy and Literature}
-\newcommand{\CourseNumber}{PHIL 375}
-\newcommand{\CourseInst}{UBC}
-\fi
+\usepackage{teachbeamer}
 
 \title{Chain Rule}
 \subtitle{{\CourseNumber}, BCIT}
 
 \author{\CourseName}
 
-\date{January 23, 2017}
+\date{January 24, 2018}
 
 % \begin{figure}[h]
 % \includegraphics[scale=.3]{./diagrams/extrema1.png}
