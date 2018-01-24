@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**gc-05-TrigDiff.tex
-(./gc-05-TrigDiff.tex
+**gc-06-ChainRule.tex
+(./gc-06-ChainRule.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -828,8 +828,8 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
 \c@expls=\count163
 \c@exercise=\count164
-) (./gc-05-TrigDiff.aux)
-\openout1 = `gc-05-TrigDiff.aux'.
+) (./gc-06-ChainRule.aux)
+\openout1 = `gc-06-ChainRule.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -924,9 +924,9 @@ LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
 
-(./gc-05-TrigDiff.out) (./gc-05-TrigDiff.out)
+(./gc-06-ChainRule.out) (./gc-06-ChainRule.out)
 \@outlinefile=\write5
-\openout5 = `gc-05-TrigDiff.out'.
+\openout5 = `gc-06-ChainRule.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 17.
@@ -1007,7 +1007,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 17.
 
-(./gc-05-TrigDiff.nav)
+(./gc-06-ChainRule.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 21.
@@ -1015,18 +1015,18 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 34.
+line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1034,51 +1034,15 @@ thkerncmss.
 )
 [2
 
-]
-Package epstopdf Info: Source file: <./diagrams/cosine.eps>
-(epstopdf)                    date: 2018-01-22 16:52:39
-(epstopdf)                    size: 62234 bytes
-(epstopdf)             Output file: <./diagrams/cosine-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-01-22 16:52:46
-(epstopdf)                    size: 7914 bytes
-(epstopdf)             Command: <repstopdf --outfile=./diagrams/cosine-eps-conv
-erted-to.pdf ./diagrams/cosine.eps>
-(epstopdf)             \includegraphics on input line 46.
-Package epstopdf Info: Output file is already uptodate.
- <./diagrams/cosine-eps-converted-to.pdf, id=45, 400.49625pt x 400.49625pt>
-File: ./diagrams/cosine-eps-converted-to.pdf Graphic file (type pdf)
+] [3
 
-<use ./diagrams/cosine-eps-converted-to.pdf>
-Package pdftex.def Info: ./diagrams/cosine-eps-converted-to.pdf used on input l
-ine 46.
-(pdftex.def)             Requested size: 180.22165pt x 180.22165pt.
+] [4
 
-Overfull \vbox (29.41676pt too high) detected at line 46
- []
+] [5
 
-[3
+] [6
 
- <./diagrams/cosine-eps-converted-to.pdf>] [4
-
-]
-<./diagrams/sinecosine.png, id=78, 144.54pt x 79.7379pt>
-File: ./diagrams/sinecosine.png Graphic file (type png)
-
-<use ./diagrams/sinecosine.png>
-Package pdftex.def Info: ./diagrams/sinecosine.png used on input line 75.
-(pdftex.def)             Requested size: 289.07925pt x 159.4754pt.
- [5
-
- <./diagrams/sinecosine.png>]
-<./diagrams/tangent.png, id=87, 408.52625pt x 344.28625pt>
-File: ./diagrams/tangent.png Graphic file (type png)
-
-<use ./diagrams/tangent.png>
-Package pdftex.def Info: ./diagrams/tangent.png used on input line 83.
-(pdftex.def)             Requested size: 204.26262pt x 172.1427pt.
- [6
-
- <./diagrams/tangent.png>] [7
+] [7
 
 ] [8
 
@@ -1086,19 +1050,11 @@ Package pdftex.def Info: ./diagrams/tangent.png used on input line 83.
 
 ] [10
 
-]
-<./diagrams/limsinxoverx.png, id=137, 1010.77625pt x 884.30376pt>
-File: ./diagrams/limsinxoverx.png Graphic file (type png)
+] [11
 
-<use ./diagrams/limsinxoverx.png>
-Package pdftex.def Info: ./diagrams/limsinxoverx.png used on input line 183.
-(pdftex.def)             Requested size: 242.59125pt x 212.23723pt.
- [11
+] [12
 
- <./diagrams/limsinxoverx.png>] [12
-
-]
-[13
+] [13
 
 ] [14
 
@@ -1109,90 +1065,55 @@ Package pdftex.def Info: ./diagrams/limsinxoverx.png used on input line 183.
 ] [17
 
 ]
-<./diagrams/arcsin.png, id=201, 294.09875pt x 309.155pt>
-File: ./diagrams/arcsin.png Graphic file (type png)
-
-<use ./diagrams/arcsin.png>
-Package pdftex.def Info: ./diagrams/arcsin.png used on input line 308.
-(pdftex.def)             Requested size: 147.04901pt x 154.57712pt.
-
-Overfull \vbox (10.32253pt too high) detected at line 308
- []
-
 [18
 
- <./diagrams/arcsin.png>] [19
-
-] [20
-
-] [21
-
-]
-<./diagrams/trigdiff.png, id=242, 417.56pt x 284.06125pt>
-File: ./diagrams/trigdiff.png Graphic file (type png)
-
-<use ./diagrams/trigdiff.png>
-Package pdftex.def Info: ./diagrams/trigdiff.png used on input line 377.
-(pdftex.def)             Requested size: 250.53792pt x 170.43805pt.
- [22
-
- <./diagrams/trigdiff.png>] [23
-
-] [24
-
-] [25
-
-]
-[26
+] [19
 
 ]
 \tf@nav=\write6
-\openout6 = `gc-05-TrigDiff.nav'.
+\openout6 = `gc-06-ChainRule.nav'.
 
 \tf@toc=\write7
-\openout7 = `gc-05-TrigDiff.toc'.
+\openout7 = `gc-06-ChainRule.toc'.
 
 \tf@snm=\write8
-\openout8 = `gc-05-TrigDiff.snm'.
+\openout8 = `gc-06-ChainRule.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 429.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 429.
- (./gc-05-TrigDiff.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 429.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 429.
-Package rerunfilecheck Info: File `gc-05-TrigDiff.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
+ (./gc-06-ChainRule.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
+Package rerunfilecheck Info: File `gc-06-ChainRule.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 429.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 306.
  ) 
 Here is how much of TeX's memory you used:
- 20153 strings out of 493029
- 398346 string characters out of 6136234
- 466566 words of memory out of 5000000
- 23101 multiletter control sequences out of 15000+600000
- 10684 words of font info for 39 fonts, out of 8000000 for 9000
+ 20089 strings out of 493029
+ 397740 string characters out of 6136234
+ 467154 words of memory out of 5000000
+ 23072 multiletter control sequences out of 15000+600000
+ 10390 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,16n,72p,418b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,16n,72p,419b,671s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy8.pfb>
-Output written on gc-05-TrigDiff.pdf (26 pages, 251865 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb>
+Output written on gc-06-ChainRule.pdf (19 pages, 110672 bytes).
 PDF statistics:
- 339 PDF objects out of 1000 (max. 8388607)
- 272 compressed objects within 3 object streams
- 105 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
