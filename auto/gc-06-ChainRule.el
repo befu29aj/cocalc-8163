@@ -56,6 +56,7 @@
     "eq:athaazui"
     "eq:ahgoovim"
     "eq:gaidaime"
+    "eq:iefaigho"
     "eq:vaixohga"
     "eq:iefeuvae"))
  :latex)
