@@ -22,7 +22,8 @@
     "eq:saepowei"
     "eq:husiraim"
     "eq:xoidahgh"
-    "eq:miazosho")
+    "eq:miazosho"
+    "eq:ahyohweo")
    (LaTeX-add-counters
     "aufg"))
  :latex)
