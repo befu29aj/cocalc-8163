@@ -6,19 +6,6 @@
 \usepackage{october}
 \usepackage[table]{xcolor}
 
-% testing overleaf
-
-\newif\ifWhichCourse
-\WhichCoursetrue
-% \WhichCoursefalse
-\ifWhichCourse
-\newcommand{\CourseName}{Technical Mathematics for Food Technology}
-\newcommand{\CourseNumber}{1441}
-\else
-\newcommand{\CourseName}{Technical Mathematics for Geomatics}
-\newcommand{\CourseNumber}{1511}
-\fi
-
 \newcounter{aufg}
 \setcounter{aufg}{0}
 \newcommand{\aufgabe}[0]{\refstepcounter{aufg}\textbf{(\arabic{aufg})}}
