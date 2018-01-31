@@ -18,7 +18,8 @@
    (LaTeX-add-labels
     "eq:ahraeboh"
     "eq:shohxied"
-    "eq:doiwaqui")
+    "eq:doiwaqui"
+    "eq:saepowei")
    (LaTeX-add-counters
     "aufg"))
  :latex)
