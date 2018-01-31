@@ -37,6 +37,8 @@
     "eq:quuquish"
     "eq:ahfahngi"
     "eq:gaibahto"
+    "eq:zofohsoi"
+    "eq:ietaemai"
     "eq:zeitohke"))
  :latex)
 
