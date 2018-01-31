@@ -19,7 +19,8 @@
     "eq:ahraeboh"
     "eq:shohxied"
     "eq:doiwaqui"
-    "eq:saepowei")
+    "eq:saepowei"
+    "eq:husiraim")
    (LaTeX-add-counters
     "aufg"))
  :latex)
