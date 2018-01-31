@@ -19,13 +19,23 @@
 \newcommand{\CourseNumber}{1511}
 \fi
 
+\newcounter{aufg}
+\setcounter{aufg}{0}
+\newcommand{\aufgabe}[0]{\refstepcounter{aufg}\textbf{(\arabic{aufg})}}
+
 \begin{document}
 
 \textbf{Derivatives}
 
 \emph{\CourseName, MATH \CourseNumber}
 
-Use symbolab for problems and solutions.
+{\aufg} Find the tangent line for the following function at the given
+point.
+\begin{equation}
+  \label{eq:ahraeboh}
+  f(x)=\frac{x^{2}-1}{x^{2}+x+1}\mbox{ at }(1,0)
+\end{equation}
+
 
 % \begin{figure}[h]
 % \includegraphics[scale=.6]{./diagrams/prob02.jpg}

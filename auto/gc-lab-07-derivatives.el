@@ -14,7 +14,12 @@
     "october"
     "xcolor")
    (TeX-add-symbols
+    '("aufgabe" 0)
     "CourseName"
-    "CourseNumber"))
+    "CourseNumber")
+   (LaTeX-add-labels
+    "eq:ahraeboh")
+   (LaTeX-add-counters
+    "aufg"))
  :latex)
 
