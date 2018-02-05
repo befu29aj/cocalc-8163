@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  31 JAN 2018 23:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  5 FEB 2018 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1062,6 +1062,8 @@ thkerncmss.
 
 ] [16
 
+] [17
+
 ]
 \tf@nav=\write6
 \openout6 = `gc-07-HigherOrder.nav'.
@@ -1072,12 +1074,12 @@ thkerncmss.
 \tf@snm=\write8
 \openout8 = `gc-07-HigherOrder.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
 
 (./gc-07-HigherOrder.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 231.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 231.
 Package rerunfilecheck Info: File `gc-07-HigherOrder.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1085,13 +1087,13 @@ Package rerunfilecheck Info: File `gc-07-HigherOrder.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
  ) 
 Here is how much of TeX's memory you used:
- 19971 strings out of 493029
- 395057 string characters out of 6136234
- 464769 words of memory out of 5000000
- 22977 multiletter control sequences out of 15000+600000
+ 19977 strings out of 493029
+ 395116 string characters out of 6136234
+ 464794 words of memory out of 5000000
+ 22980 multiletter control sequences out of 15000+600000
  10684 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,421b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1107,10 +1109,10 @@ blic/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy8.pfb>
-Output written on gc-07-HigherOrder.pdf (16 pages, 125707 bytes).
+Output written on gc-07-HigherOrder.pdf (17 pages, 126750 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
