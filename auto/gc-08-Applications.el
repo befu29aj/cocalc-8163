@@ -20,6 +20,9 @@
    (LaTeX-add-labels
     "eq:airaiwie"
     "eq:zeidieba"
+    "eq:zoozohte"
+    "eq:maeneong"
+    "eq:cheemahv"
     "eq:zeipouqu"
     "eq:phosulee"
     "eq:otienaix"
