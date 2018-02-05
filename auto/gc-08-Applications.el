@@ -34,6 +34,8 @@
     "eq:deesaiye"
     "eq:oozeeroj"
     "eq:uquuthae"
+    "eq:zingohlu"
+    "eq:goozahsu"
     "eq:sohngiel"
     "eq:lauwutho"
     "eq:chiowezo"
