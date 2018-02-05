@@ -4,6 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("beamer" "xcolor=dvipsnames")))
    (add-to-list 'LaTeX-verbatim-environments-local "semiverbatim")
+   (add-to-list 'LaTeX-verbatim-environments-local "alltt")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
@@ -17,6 +18,8 @@
     "beamer10"
     "teachbeamer")
    (LaTeX-add-labels
+    "eq:airaiwie"
+    "eq:zeidieba"
     "eq:zeipouqu"
     "eq:phosulee"
     "eq:otienaix"
