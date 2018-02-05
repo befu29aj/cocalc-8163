@@ -1,51 +1,14 @@
 % gc-09-Analyzing.tex
 
 \documentclass[xcolor=dvipsnames]{beamer}
+\usepackage{teachbeamer}
 
-\usepackage{cancel}
-\renewcommand{\CancelColor}{\color{red}}
-\usepackage{graphicx}
-\usepackage{wrapfig}
-\usepackage{colortbl}
-\definecolor{myblue}{rgb}{0.8,0.85,1}
-
-\mode<presentation>
-{
-  \usetheme{Warsaw}
-  \setbeamercovered{transparent}
-}
-% \usecolortheme[named=OliveGreen]{structure}
-\setbeamertemplate{navigation symbols}{} 
-\setbeamertemplate{blocks}[rounded][shadow=true] 
-
-\newif\ifBCITCourse
-\BCITCoursetrue
-% \BCITCoursefalse
-\newif\ifWhichCourse
-\WhichCoursetrue
-\WhichCoursefalse
-\ifBCITCourse
-\ifWhichCourse
-\newcommand{\CourseName}{Statistics for Food Technology}
-\newcommand{\CourseNumber}{MATH 2441}
-\newcommand{\CourseInst}{BCIT}
-\else
-\newcommand{\CourseName}{Calculus for Geomatics}
-\newcommand{\CourseNumber}{MATH 2511}
-\newcommand{\CourseInst}{BCIT}
-\fi
-\else
-\newcommand{\CourseName}{Philosophy and Literature}
-\newcommand{\CourseNumber}{PHIL 375}
-\newcommand{\CourseInst}{UBC}
-\fi
-
-\title{Analyzing Functions}
+\title{Optimization and Analyzing Functions}
 \subtitle{{\CourseNumber}, BCIT}
 
 \author{\CourseName}
 
-\date{February 6, 2017}
+\date{February 5, 2017}
 
 % \begin{figure}[h]
 % \includegraphics[scale=.3]{./diagrams/extrema1.png}
