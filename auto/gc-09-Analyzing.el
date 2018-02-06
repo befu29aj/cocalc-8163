@@ -27,6 +27,8 @@
     "eq:ebukatio"
     "eq:inaidimo"
     "eq:peimoojo"
+    "eq:maugeish"
+    "eq:cheodieh"
     "eq:udaiguph"
     "eq:tohwoiph"
     "eq:ahyoimij"
