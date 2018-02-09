@@ -49,6 +49,8 @@
     "eq:uufiexah"
     "eq:opeemuix"
     "eq:oisheith"
-    "eq:xohhafoe"))
+    "eq:xohhafoe"
+    "eq:ahkeique"
+    "eq:mohsixox"))
  :latex)
 

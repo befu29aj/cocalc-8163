@@ -36,8 +36,6 @@
     "eq:heijeivo"
     "eq:jeimouti"
     "eq:eaghohpo"
-    "eq:boopeesh"
-    "eq:ahkeique"
-    "eq:mohsixox"))
+    "eq:boopeesh"))
  :latex)
 
