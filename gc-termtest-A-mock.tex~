@@ -1,0 +1,150 @@
+% gc-termtest-A-mock.tex
+
+\documentclass[11pt]{article}
+\usepackage{alltt}
+\usepackage{enumerate}
+\usepackage{syllogism} 
+\usepackage{october}
+\usepackage[table]{xcolor}
+
+\begin{document}
+
+\textbf{Term Test A Practice Questions}
+
+(1) Find the limits for the following expressions.
+
+\begin{equation}
+  \label{eq:ageebota}
+  \lim_{x\rightarrow{}0}\sqrt{x^{3}-x}
+\end{equation}
+
+\begin{equation}
+  \label{eq:lietefie}
+  \lim_{x\rightarrow{}-\frac{5}{2}}\frac{2x+5}{5x+2}
+\end{equation}
+
+\begin{equation}
+  \label{eq:waicahng}
+  \lim_{x\rightarrow{}1}\frac{2x+3}{x^{2}+x-2}
+\end{equation}
+
+\begin{equation}
+  \label{eq:moluoloh}
+  \lim_{x\rightarrow{}1}\frac{\sqrt{x^{2}-x}}{x-x^{2}}
+\end{equation}
+
+(2) Find the derivative of the following functions.
+
+\begin{equation}
+  \label{eq:teeheeko}
+  f(x)=\frac{3}{4}\sqrt{2-x}\mbox{, using the definition of derivatives}
+\end{equation}
+
+\begin{equation}
+  \label{eq:xaumaezi}
+  f(x)=\frac{6}{x^{3}}+\frac{2}{x^{2}}-2
+\end{equation}
+
+\begin{equation}
+  \label{eq:utazeafa}
+  f(x)=\frac{3}{x+\sqrt{x}}
+\end{equation}
+
+\begin{equation}
+  \label{eq:feivooch}
+  f(x)=\frac{x}{2x+\frac{1}{3x+1}}
+\end{equation}
+
+\begin{equation}
+  \label{eq:feeraiva}
+  h(r)=\sqrt{4r+\frac{3}{r^{2}+1}}
+\end{equation}
+
+\begin{equation}
+  \label{eq:siebaish}
+  f(x)=\left(\sqrt{x}+\frac{1}{1+\sqrt{x^{2}+2}}\right)^{2}
+\end{equation}
+
+\begin{equation}
+  \label{eq:feiveloh}
+  f(\vartheta)=\sqrt{\cos{}2\vartheta}
+\end{equation}
+
+\begin{equation}
+  \label{eq:oifahtie}
+  G(t)=\sin\sqrt{\vert{}t\vert}
+\end{equation}
+
+\begin{equation}
+  \label{eq:isaithar}
+  f(x)=(1-x)^{2}\cos\frac{1}{x}
+\end{equation}
+
+\begin{equation}
+  \label{eq:ixoathat}
+  f(x)=\ln\ln{}x
+\end{equation}
+
+\begin{equation}
+  \label{eq:airougof}
+  f(x)=\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}
+\end{equation}
+
+(3) Find the equation of the tangent line for the following functions
+and points.
+
+\begin{equation}
+  \label{eq:fiedaghe}
+  f(x)=\frac{2}{3-4\sqrt{x}}, P=(1,?)
+\end{equation}
+
+\begin{equation}
+  \label{eq:oozeewai}
+  v(t)=\frac{1+\sqrt{t}}{1-\sqrt{t}}, P=(?,-3)
+\end{equation}
+
+\begin{equation}
+  \label{eq:heijeivo}
+  f(x)=\sqrt{1+2x^{2}}, P=(2,?)
+\end{equation}
+
+\begin{equation}
+  \label{eq:jeimouti}
+  f(x)=e^{2x}, P=(2,?)
+\end{equation}
+
+(4) Find the second derivatives for the following functions.
+
+\begin{equation}
+  \label{eq:eaghohpo}
+  f(x)=x^{\frac{1}{3}}-x^{-\frac{1}{3}}
+\end{equation}
+
+\begin{equation}
+  \label{eq:boopeesh}
+  f(x)=(x^{2}+3)\sqrt{x}
+\end{equation}
+
+(5) A radioactive substance decays at a rate proportional to the
+amount present. If 30 percent of such a substance decays in 15 years,
+what is the half-life of the substance?
+
+(6) If a body in a room warms up from $5^{\circ}C$ to $10^{\circ}C$ in
+4 minutes, and if the room is being maintained at 20$^{\circ}C$, how
+much longer will the body take to warm up to $15^{\circ}C$?
+
+(7) Analyze the following functions. Indicate whether there are
+asymptotes; calculate their line equations only if you wish.
+
+\begin{equation}
+  \label{eq:ahkeique}
+  f(x)=4-\frac{e^{x}+1}{e^{x}}
+\end{equation}
+
+\begin{equation}
+  \label{eq:mohsixox}
+  f(x)=\frac{3x^{2}-5}{x-2}
+\end{equation}
+
+\end{document}
+
