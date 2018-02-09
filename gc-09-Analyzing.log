@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  9 FEB 2018 22:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  9 FEB 2018 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1257,6 +1257,12 @@ Overfull \vbox (27.19894pt too high) detected at line 433
 
  <./diagrams/asymp6.png>] [39
 
+] [40
+
+] [41
+
+] [42
+
 ]
 Package epstopdf Info: Source file: <./diagrams/ft-11-AnalyzingFunctions.eps>
 (epstopdf)                    date: 2018-01-11 18:44:55
@@ -1267,31 +1273,40 @@ nverted-to.pdf>
 (epstopdf)                    size: 114546 bytes
 (epstopdf)             Command: <repstopdf --outfile=./diagrams/ft-11-Analyzing
 Functions-eps-converted-to.pdf ./diagrams/ft-11-AnalyzingFunctions.eps>
-(epstopdf)             \includegraphics on input line 461.
+(epstopdf)             \includegraphics on input line 476.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=326, 1009.7725pt 
+<./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=344, 1009.7725pt 
 x 558.085pt>
 File: ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>
 Package pdftex.def Info: ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.p
-df used on input line 461.
+df used on input line 476.
 (pdftex.def)             Requested size: 403.90184pt x 223.23004pt.
 
-Overfull \hbox (96.61197pt too wide) in paragraph at lines 461--461
+Overfull \hbox (96.61197pt too wide) in paragraph at lines 476--476
  [] 
  []
 
 
-Overfull \vbox (15.28764pt too high) detected at line 461
+Overfull \vbox (15.28764pt too high) detected at line 476
  []
 
-[40
+[43
 
- <./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [41
+ <./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [44
 
-] [42
+] [45
+
+]
+[46
+
+] [47
+
+] [48
+
+] [49
 
 ]
 \tf@nav=\write6
@@ -1303,12 +1318,11 @@ Overfull \vbox (15.28764pt too high) detected at line 461
 \tf@snm=\write8
 \openout8 = `gc-09-Analyzing.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 495.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 495.
-
-(./gc-09-Analyzing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 495.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 495.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 534.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 534.
+ (./gc-09-Analyzing.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 534.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 534.
 Package rerunfilecheck Info: File `gc-09-Analyzing.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1319,13 +1333,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 495.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 534.
  ) 
 Here is how much of TeX's memory you used:
- 20243 strings out of 493029
- 400110 string characters out of 6136234
- 467110 words of memory out of 5000000
- 23171 multiletter control sequences out of 15000+600000
+ 20275 strings out of 493029
+ 400407 string characters out of 6136234
+ 467160 words of memory out of 5000000
+ 23187 multiletter control sequences out of 15000+600000
  10684 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,419b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1339,10 +1353,10 @@ nts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb>
-Output written on gc-09-Analyzing.pdf (42 pages, 571765 bytes).
+Output written on gc-09-Analyzing.pdf (49 pages, 577079 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 325 compressed objects within 4 object streams
- 117 named destinations out of 1000 (max. 500000)
+ 462 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 133 named destinations out of 1000 (max. 500000)
  150 words of extra memory for PDF output out of 10000 (max. 10000000)
 
