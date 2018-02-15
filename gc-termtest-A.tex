@@ -13,9 +13,10 @@
 \OneOrTwofalse
 \ifOneOrTwo
 \newcommand{\eibe}{1}
-\newcommand{\ufoj}{2y^{2}+14=x+12y}
-\newcommand{\mair}{\frac{1}{5}x^{2}+\frac{1}{4}y^{2}+\frac{2}{5}x+\frac{1}{6}y=\frac{139}{180}}
-\newcommand{\utit}{\frac{\frac{x^{2}-14x+48}{x^{2}-64}}{\frac{x^{2}-5x-6}{x^{2}+10x+16}}}
+\newcommand{\ufoj}{\lim_{x\rightarrow{}5}\left(\frac{1}{x-5}-\frac{10}{x^{2}-25}\right)}
+\newcommand{\mair}{y=\frac{1}{5\sin{}x+2\cos{}x}}
+\newcommand{\utit}{0.5}
+
 \newcommand{\jief}{\sqrt{{\left(x^{2} - 3\right)}^{2} - {\left(2x + 4\right)} {\left(2x - 4\right)}}}
 \newcommand{\caib}{The inaccessible distance $AB$ across the pond is to be found from the survey data shown in the figure. The given distances were measured from point $O$ by means of stadia.}
 \newcommand{\eizi}{riceknight491b.png}
@@ -50,9 +51,10 @@
 
 \else
 \newcommand{\eibe}{2}
-\newcommand{\ufoj}{3x^{2}+8=-12x-y}
-\newcommand{\mair}{\frac{1}{4}x^{2}+\frac{1}{2}y^{2}+\frac{1}{4}x=y+\frac{7}{16}}
-\newcommand{\utit}{\frac{x^{2}-3x-10}{x^{2}-25}\div\frac{x^{2}-6x-16}{x^{2}+x-20}}
+\newcommand{\ufoj}{\lim_{x\rightarrow{}4}\left(\frac{1}{x-4}-\frac{8}{x^{2}-16}\right)}
+\newcommand{\mair}{y=\frac{1}{5\cos{}x+2\sin{}x}}
+\newcommand{\utit}{\frac{1}{2}}
+
 \newcommand{\jief}{\sqrt{{\left(x^{2} - 5\right)}^{2} - {\left(4x + 12\right)} {\left(4x - 12\right)}}}
 \newcommand{\caib}{Find the angle $\phi$ in the figure given the measurements provided.}
 \newcommand{\eizi}{riceknight494a.png}
@@ -98,13 +100,13 @@
 \aufgabe{5} Evaluate the limit
 \begin{equation}
   \label{eq:wohghoda}
-  \lim_{x\rightarrow{}5}\left(\frac{1}{x-5}-\frac{10}{x^{2}-25}\right)\notag
+  {\ufoj}\notag
 \end{equation}
 
 \aufgabe{8} Find the equation of the tangent line to the curve
 \begin{equation}
   \label{eq:leegaigh}
-  y=\frac{1}{5\sin{}x+2\cos{}x}\notag
+  \notag
 \end{equation}
 at the point $(0,0.5)$. 
 
