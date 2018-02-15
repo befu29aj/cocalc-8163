@@ -16,14 +16,28 @@
     "october"
     "xcolor")
    (TeX-add-symbols
-    '("aufgabe" 1))
+    '("aufgabe" 1)
+    "eibe"
+    "ufoj"
+    "mair"
+    "utit"
+    "jief"
+    "caib"
+    "eizi"
+    "afie"
+    "uphe"
+    "kieg"
+    "aequ"
+    "aiza"
+    "ajoo"
+    "icoo"
+    "phae")
    (LaTeX-add-labels
     "eq:wohghoda"
     "eq:leegaigh"
     "eq:javahvap"
     "eq:ohjoceej"
-    "eq:loesheop"
-    "eq:phauruwi")
+    "eq:loesheop")
    (LaTeX-add-counters
     "aufg"))
  :latex)
