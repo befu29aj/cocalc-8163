@@ -1,0 +1,80 @@
+% gc-termtest-A.tex
+
+\documentclass[11pt]{article}
+\usepackage{alltt}
+\usepackage{enumerate}
+\usepackage{syllogism} 
+\usepackage{october}
+\usepackage[table]{xcolor}
+\pagestyle{empty}
+
+% testing overleaf
+
+\newcounter{aufg}
+\setcounter{aufg}{0}
+\newcommand{\aufgabe}[1]{\refstepcounter{aufg}\textbf{(\arabic{aufg})}
+[#1 points]}
+
+\begin{document}
+
+\textbf{Term Test A}
+
+This is a test.
+
+\aufgabe{5} Evaluate the limit
+\begin{equation}
+  \label{eq:wohghoda}
+  \lim_{x\rightarrow{}5}\left(\frac{1}{x-5}-\frac{10}{x^{2}-25}\right)\notag
+\end{equation}
+
+\aufgabe{8} Find the equation of the tangent line to the curve
+\begin{equation}
+  \label{eq:leegaigh}
+  y=\frac{1}{5\sin{}x+2\cos{}x}\notag
+\end{equation}
+at the point $(0,0.5)$. 
+
+\aufgabe{7} Find the domain and the derivative of
+\begin{equation}
+  \label{eq:javahvap}
+  f(x)=\frac{\ln{}x}{3+\ln{}x}\notag
+\end{equation}
+Make sure to simplify the derivative as much as possible.
+
+\aufgabe{5} Find the derivative of 
+\begin{equation}
+  \label{eq:ohjoceej}
+  g(t)=-7e^{t\sin{}t}\notag
+\end{equation}
+
+\aufgabe{7} The half-life of Palladium-100 is 4 days. After 20 days a
+sample of Palladium-100 has been reduced to a mass of 1 mg. What was
+the initial mass (in mg) of the sample?
+
+\aufgabe{8} Find the $x$-intercepts, critical points, and inflection
+points of 
+\begin{equation}
+  \label{eq:loesheop}
+  f(x)=\frac{2x^{2}+7x+3}{x-1}\notag
+\end{equation}
+Provide the second derivative in its simplest form. If there are
+asymptotes for the function $f(x)$, specify their slope $k$
+($k=\infty$ for a vertical asymptote, $k=0$ for a horizontal
+asymptote, and $k\neq{}0$ for a slanted asymptote).
+
+Just saying, 2017-12-08, that this is a beautiful function to analyze:
+
+\begin{equation}
+  \label{eq:phauruwi}
+  f(x)=\frac{x-1}{3x^{2}}
+\end{equation}
+
+the calculations are in ft-lab-20171208.pdf in graffiti.
+
+% \begin{equation}
+%   \label{eq:pomaifah}
+%   -\frac{2 \, {\left(4 \, x + 7\right)}}{{\left(x - 1\right)}^{2}} + \frac{4}{x - 1} + \frac{2 \, {\left(2 \, x^{2} + 7 \, x + 3\right)}}{{\left(x - 1\right)}^{3}}\notag
+% \end{equation}
+
+\end{document}
+
