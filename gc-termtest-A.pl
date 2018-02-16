@@ -16,7 +16,7 @@ print termtest "\\begin{equation}\n";
 print termtest "  \\label{eq:leegaigh}\n";
 print termtest "  $v003[$i1]\\notag\n";
 print termtest "\\end{equation}\n";
-print termtest "at the point \$(0,$v004[$i1])\$.\n\n";
+print termtest "at the point \$($v011[$i1],$v004[$i1])\$.\n\n";
 };
 
 $aufgabe[2]=sub {
@@ -86,6 +86,7 @@ $v007[0]="The half-life of Polonium-210 is 139 days, but your sample will not be
 $v008[0]="65";
 $v009[0]="35";
 $v010[0]="50";
+$v011[0]="0";
 
 $v001[1]="2";
 $v002[1]="\\lim_{x\\rightarrow{}4}\\left(\\frac{1}{x-4}-\\frac{8}{x^{2}-16}\\right)";
@@ -97,6 +98,7 @@ $v007[1]="The half-life of Palladium-100 is 4 days. After 20 days a sample of Pa
 $v008[1]="70";
 $v009[1]="30";
 $v010[1]="45";
+$v011[0]="\\frac{1}{2}";
 
 for ($i1=0;$i1<=$#nm;++$i1)
 {
