@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1518636303 "gc-09-Analyzing.tex" "gc-09-Analyzing.pdf" "gc-09-Analyzing" 1518636306
+["pdflatex"] 1518712376 "gc-09-Analyzing.tex" "gc-09-Analyzing.pdf" "gc-09-Analyzing" 1518712383
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -216,16 +216,16 @@
   "diagrams/opt.png" 1518210763 41604 a43005a6e703f3cb8a4aead9a38d5029 ""
   "diagrams/optcone.png" 1518216105 27646 bd406333c0f89b466a320ebb501a9011 ""
   "diagrams/optleaf.png" 1518217005 51738 d960053a38a52ed562f83cff4f2dc405 ""
-  "gc-09-Analyzing.aux" 1518636306 11175 de59113412be838e311ad2d0c25a5daf ""
-  "gc-09-Analyzing.nav" 1518636306 4868 db14e4cae1f17c338ed71b886e67104e ""
-  "gc-09-Analyzing.out" 1518636304 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-09-Analyzing.aux" 1518712383 11175 de59113412be838e311ad2d0c25a5daf ""
+  "gc-09-Analyzing.nav" 1518712383 4868 db14e4cae1f17c338ed71b886e67104e ""
+  "gc-09-Analyzing.out" 1518712377 0 d41d8cd98f00b204e9800998ecf8427e ""
   "gc-09-Analyzing.tex" 1518636292 14683 3d9aea5db2f51f4c44fb9725e9dafb15 ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
   "gc-09-Analyzing.pdf"
-  "gc-09-Analyzing.toc"
-  "gc-09-Analyzing.nav"
-  "gc-09-Analyzing.out"
-  "gc-09-Analyzing.aux"
   "gc-09-Analyzing.snm"
+  "gc-09-Analyzing.toc"
+  "gc-09-Analyzing.aux"
+  "gc-09-Analyzing.out"
   "gc-09-Analyzing.log"
+  "gc-09-Analyzing.nav"
