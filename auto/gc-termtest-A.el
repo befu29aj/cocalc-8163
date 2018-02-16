@@ -26,18 +26,14 @@
     "eizi"
     "afie"
     "uphe"
-    "kieg"
-    "aequ"
-    "aiza"
-    "ajoo"
-    "icoo"
-    "phae")
+    "kieg")
    (LaTeX-add-labels
     "eq:wohghoda"
     "eq:leegaigh"
     "eq:javahvap"
     "eq:ohjoceej"
-    "eq:loesheop")
+    "eq:loesheop"
+    "eq:eighohbi")
    (LaTeX-add-counters
     "aufg"))
  :latex)
