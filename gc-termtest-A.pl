@@ -81,8 +81,8 @@ $v002[0]="\\lim_{x\\rightarrow{}5}\\left(\\frac{1}{x-5}-\\frac{10}{x^{2}-25}\\ri
 $v003[0]="y=\\frac{1}{5\\sin{}x+2\\cos{}x}";
 $v004[0]="0.5";
 $v005[0]="3";
-$v006[0]="g(t)=-7e^{t\\cos{}t}";
-$v007[0]="Polonium-210 The half-life of polonium is 139 days, but your sample will not be useful to you after 95\\% of the radioactive nuclei present on the day the sample arrives has disintegrated. For about how many days after the sample arrives will you be able to use the polonium?";
+$v006[0]="g(t)=4e^{t\\cos{}t}";
+$v007[0]="The half-life of Polonium-210 is 139 days, but your sample will not be useful to you after 95\\% of the radioactive nuclei present on the day the sample arrives has disintegrated. For about how many days after the sample arrives will you be able to use the polonium?";
 $v008[0]="65";
 $v009[0]="35";
 $v010[0]="50";
