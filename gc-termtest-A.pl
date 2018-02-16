@@ -94,7 +94,7 @@ $v003[1]="y=\\frac{1}{5\\cos{}x+2\\sin{}x}";
 $v004[1]="\\frac{1}{2}";
 $v005[1]="2";
 $v006[1]="g(t)=-7e^{t\\sin{}t}";
-$v007[1]="The half-life of Palladium-100 is 4 days. After 20 days a sample of Palladium-100 has been reduced to a mass of 1 mg. What was the initial mass (in mg) of the sample?";
+$v007[1]="The half-life of Palladium-100 is 4 days. You have a sample of 3.26mg. How many days will pass before it is reduced to 1mg?";
 $v008[1]="70";
 $v009[1]="30";
 $v010[1]="45";
