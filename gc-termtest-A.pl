@@ -98,7 +98,7 @@ $v007[1]="The half-life of Palladium-100 is 4 days. After 20 days a sample of Pa
 $v008[1]="70";
 $v009[1]="30";
 $v010[1]="45";
-$v011[0]="\\frac{1}{2}";
+$v011[1]="\\frac{\\pi}{2}";
 
 for ($i1=0;$i1<=$#nm;++$i1)
 {
