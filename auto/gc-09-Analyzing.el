@@ -22,7 +22,11 @@
     "wili"
     "ahhi"
     "usax"
-    "bohh")
+    "bohh"
+    "reeq"
+    "aeza"
+    "emah"
+    "biet")
    (LaTeX-add-labels
     "eq:thapoich"
     "eq:gohshaem"
