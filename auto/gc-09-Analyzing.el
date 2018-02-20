@@ -17,6 +17,12 @@
     "beamer"
     "beamer10"
     "teachbeamer")
+   (TeX-add-symbols
+    "hohq"
+    "wili"
+    "ahhi"
+    "usax"
+    "bohh")
    (LaTeX-add-labels
     "eq:thapoich"
     "eq:gohshaem"
@@ -42,8 +48,6 @@
     "eq:eeguyeex"
     "eq:shohyoom"
     "eq:zieshaiv"
-    "eq:cahjeiho"
-    "eq:hahchaim"
     "eq:ehielush"
     "eq:peimoojo"
     "eq:maugeish"
