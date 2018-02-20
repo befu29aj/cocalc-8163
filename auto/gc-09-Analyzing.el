@@ -18,15 +18,15 @@
     "beamer10"
     "teachbeamer")
    (TeX-add-symbols
+    "reeq"
+    "aeza"
+    "emah"
+    "biet"
     "hohq"
     "wili"
     "ahhi"
     "usax"
-    "bohh"
-    "reeq"
-    "aeza"
-    "emah"
-    "biet")
+    "bohh")
    (LaTeX-add-labels
     "eq:thapoich"
     "eq:gohshaem"
