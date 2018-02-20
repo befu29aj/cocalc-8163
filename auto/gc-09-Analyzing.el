@@ -37,6 +37,8 @@
     "eq:xxyxx7"
     "eq:jaithean"
     "eq:ukohyaej"
+    "eq:loocootu"
+    "eq:zoojeefo"
     "eq:cahjeiho"
     "eq:hahchaim"
     "eq:ehielush"
