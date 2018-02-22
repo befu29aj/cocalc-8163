@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1519161095 "gc-10-Hyperbolic.tex" "gc-10-Hyperbolic.pdf" "gc-10-Hyperbolic" 1519161096
+["pdflatex"] 1519261056 "gc-10-Hyperbolic.tex" "gc-10-Hyperbolic.pdf" "gc-10-Hyperbolic" 1519261058
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -208,16 +208,16 @@
   "diagrams/hyper.png" 1515696295 8210 0407d572621cbe3b8896174b757ea103 ""
   "diagrams/linapp1.png" 1515696295 18740 fee20423a0694ef065808ba76b0c6bd9 ""
   "diagrams/ramapo.png" 1519161088 15136 83a818607ffb98a48cb8b2a8eac62d84 ""
-  "gc-10-Hyperbolic.aux" 1519161096 8022 6c5f3870b139c95cbd1bb4da352741d6 ""
-  "gc-10-Hyperbolic.nav" 1519161096 2729 bdfca6c190082268f33e6c618dfc8197 ""
-  "gc-10-Hyperbolic.out" 1519161095 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-10-Hyperbolic.aux" 1519261058 8022 6c5f3870b139c95cbd1bb4da352741d6 ""
+  "gc-10-Hyperbolic.nav" 1519261058 2729 bdfca6c190082268f33e6c618dfc8197 ""
+  "gc-10-Hyperbolic.out" 1519261057 0 d41d8cd98f00b204e9800998ecf8427e ""
   "gc-10-Hyperbolic.tex" 1519160985 11898 f98ea7f12f42abd6921743b7639ebb37 ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
-  "gc-10-Hyperbolic.aux"
-  "gc-10-Hyperbolic.nav"
-  "gc-10-Hyperbolic.log"
-  "gc-10-Hyperbolic.toc"
   "gc-10-Hyperbolic.pdf"
+  "gc-10-Hyperbolic.toc"
+  "gc-10-Hyperbolic.nav"
   "gc-10-Hyperbolic.out"
+  "gc-10-Hyperbolic.log"
+  "gc-10-Hyperbolic.aux"
   "gc-10-Hyperbolic.snm"
