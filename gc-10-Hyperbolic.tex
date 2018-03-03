@@ -109,12 +109,13 @@ by $dV$.
 
 \begin{frame}
   \frametitle{Differentials Exercises I}
-{\ubung} Find the linearization $L(x)$ of the function at $a$.
+{\ubung} Find the linearization $L(x)$ of the function at $a$ and
+use it to approximate the function value at $b$.
 \begin{enumerate}
-\item $\displaystyle f(x)=x^{4}+3x^{2},a=-1$
-\item $\displaystyle f(x)=\ln{}x,a=1$
-\item $\displaystyle f(x)=\cos{}x,a=\pi/2$
-\item $\displaystyle f(x)=x^{\frac{3}{4}},a=16$
+\item $\displaystyle f(x)=x^{4}+3x^{2},a=-1,b=-0.923$
+\item $\displaystyle f(x)=\ln{}x,a=1,b=1.1$
+\item $\displaystyle f(x)=\cos{}x,a=\pi/2,b=82^{\circ}$
+\item $\displaystyle f(x)=x^{\frac{3}{4}},a=16,b=16.3$
 \end{enumerate}
 \end{frame}
 
@@ -250,7 +251,7 @@ domain of the real numbers. We define
 The following can be checked easily:
 \begin{equation}
   \label{eq:wahquain}
-  \cosh{}x+\sinh{}x=e^{x}
+  \cosh{}x+\sinh{}x=e^{x}\mbox{ (compare this to Euler's Formula)}
 \end{equation}
 \begin{equation}
   \label{eq:thaevuan}
@@ -319,14 +320,17 @@ $\cos(x)$ and $\sin(x)$ parametrize the unit circle $x^{2}+y^{2}=1$.
 
 \begin{frame}
   \frametitle{The USS Ramapo in Mountainous Waves}
-How fast did the waves travel across the ocean if the depth of the ocean
-  was 3000 metres?
+  {\ubung} How fast did the waves travel across the ocean if the depth
+  of the ocean was 3000 metres?
 \begin{figure}[h]
 \includegraphics[scale=.5]{./diagrams/ramapo.png}
 \end{figure}
+The ship's crew measured the period of the waves at $14.8$ seconds.
+Does this number agree with the velocity you calculated?
+
 Notice that if you could measure the velocity of the waves you could
 calculate the depth of the ocean using \alert{inverse hyperbolic
-  functions}.
+  functions}. 
 \end{frame}
 
 \begin{frame}
@@ -351,21 +355,23 @@ is an even function.
   \frametitle{Exercises}
 {\ubung} Differentiate
 \begin{equation}
-  \label{eq:pasaanee}
-  f(x)=\tanh(1+e^{2x})
+  \label{eq:sahwiesh}
+  f(x)=\sinh(\cosh{}z)
 \end{equation}
 \begin{equation}
   \label{eq:gaitocee}
   g(y)=\cosh(\ln{}x)
 \end{equation}
 \begin{equation}
-  \label{eq:sahwiesh}
-  h(z)=\sinh(\cosh{}z)
+  \label{eq:pasaanee}
+  h(z)=\tanh(1+e^{2x})
 \end{equation}
 \end{frame}
 
 \begin{frame}
   \frametitle{Exercises}
+  % solution: see gc-lec-20180302.pdf (graffiti) page 1
+  % this is a nice segue to inverse hyperbolic trig functions
 {\ubung} At what point of the curve
 \begin{equation}
   \label{eq:geipaifo}
@@ -376,17 +382,15 @@ does the tangent have slope 1?
 
 \begin{frame}
   \frametitle{Exercises}
-{\ubung} If
-\begin{equation}
-  \label{eq:ohgaquoh}
-  x=\ln(\sec\vartheta+\tan\vartheta)
-\end{equation}
-show that
-\begin{equation}
-  \label{eq:sheighuw}
-  \sec\vartheta=\cosh{}x
-\end{equation}
-
+{\ubung} 
+% solution: see coshANDsec.html
+Choose the correct answer for what follows from $x=\ln(\sec\vartheta+\tan\vartheta)$:
+\begin{enumerate}
+\item $\cosh{}x=\sin\vartheta$
+\item $\cosh{}x=\cos\vartheta$
+\item $\cosh{}x=\csc\vartheta$
+\item $\cosh{}x=\sec\vartheta$
+\end{enumerate}
 \end{frame}
 
 \begin{frame}

@@ -3,6 +3,7 @@ use List::Util 'shuffle';
 print "The problem with Newton's Cooling Law is too difficult, not knowing the initial temperature.\n";
 print "As an alternative I suggest Example 6 in Thomas' Calculus, page 508.\n";
 print "You may also want to replace the limit question with something easier.\n";
+print "There is an alternative term test in gc-termtest-A-davidworthen.tex.\n";
 
 srand;
 

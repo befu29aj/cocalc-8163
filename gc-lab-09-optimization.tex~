@@ -1,0 +1,35 @@
+% gc-lab-10-optimization.tex
+
+\documentclass[11pt]{article}
+\usepackage{enumerate}
+\usepackage{syllogism} 
+\usepackage{october}
+\usepackage[table]{xcolor}
+
+\newcounter{aufg}
+\setcounter{aufg}{0}
+\newcommand{\aufgabe}[0]{\refstepcounter{aufg}\textbf{(\arabic{aufg})}}
+
+\begin{document}
+
+\textbf{Optimization}
+
+\emph{\CourseName, \CourseNumber}
+
+{\aufgabe} The cost of fuel for running a train is proportional to the
+square of the speed maintained, and is \$50 per hour when the speed is
+20 mph. Other charges, such as labour, for example, are \$200 per
+hour. What should be the speed for a 500-mile trip in order that the
+total cost shall be as little as possible?
+
+{\aufgabe} The product of the concentration of hydrogen ions,
+$C_{h^{+}}$, and hydroxyl ions, $C_{oh^{-}}$, in any aqueous solution
+is a constant $=10^{-14}$. At what concentration of hydrogen ions will
+the sum of hydrogen ions and hydroxyl ions be a minimum?
+
+% \begin{figure}[h]
+% \includegraphics[scale=.6]{./diagrams/prob02.jpg}
+% \end{figure}
+
+\end{document}
+
