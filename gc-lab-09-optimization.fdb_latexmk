@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1520039978 "gc-lab-09-optimization.tex" "gc-lab-09-optimization.pdf" "gc-lab-09-optimization" 1520039979
+["pdflatex"] 1520040248 "gc-lab-09-optimization.tex" "gc-lab-09-optimization.pdf" "gc-lab-09-optimization" 1520040249
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -78,10 +78,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1506161354 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
   "diagrams/cooleyopt.png" 1520039957 28957 68c165d0731f98621b7361a600f4548f ""
-  "gc-lab-09-optimization.aux" 1520039979 8 a94a2480d3289e625eea47cd1b285758 ""
-  "gc-lab-09-optimization.tex" 1520039957 1546 f1c939e7e10178ddac3dfbf57b20528c ""
+  "gc-lab-09-optimization.aux" 1520040249 8 a94a2480d3289e625eea47cd1b285758 ""
+  "gc-lab-09-optimization.tex" 1520040246 1546 2ed91461e452c02d0f60fd36431638d1 ""
   "october.sty" 1517424030 2997 265ecb1cf7c10b3151e59742b19f912c ""
   (generated)
-  "gc-lab-09-optimization.aux"
   "gc-lab-09-optimization.pdf"
+  "gc-lab-09-optimization.aux"
   "gc-lab-09-optimization.log"
