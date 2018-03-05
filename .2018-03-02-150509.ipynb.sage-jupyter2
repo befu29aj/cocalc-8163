@@ -23,4 +23,4 @@
 {"type":"cell","id":"f8afca","pos":4,"input":"Set the derivative to zero and solve the equation $$\\frac{125}{2}=\\frac{100000}{s^{2}}$$ Cross-multiply for $s=40$. The cost is minimal at 40 mph. (Strictly speaking, you should find the second derivative to ensure that the critical point is a minimum.)","cell_type":"markdown"}
 {"type":"file","last_load":1520031916127}
 {"type":"nbconvert","args":["--to","html"],"state":"done","start":1520036095641,"time":1520036097462}
-{"type":"settings","kernel":"sagemath","backend_state":"running","trust":true,"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":257744896}}
+{"type":"settings","kernel":"sagemath","backend_state":"running","trust":true,"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":180199424}}
