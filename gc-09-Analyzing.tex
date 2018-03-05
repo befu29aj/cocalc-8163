@@ -227,6 +227,123 @@ f(x)=\ln\left(\cos{}x\right)
 \end{frame}
 
 \begin{frame}
+  \frametitle{Exercise}
+  {\ubung} A farmer has 2400ft of fencing and wants to fence off a
+  rectangular field that borders a straight river. She needs no fence
+  along the river. What are the dimensions of the field that has the
+  largest area?
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise}
+  {\ubung} A cylindrical can is to be made to hold one litre of oil.
+  Find the dimensions that wil minimize the cost of the metal to
+  manufacture the can.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise}
+  {\ubung} Find the area of the largest rectangle that can be
+  inscribed in a semicircle of radius $r$.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise}
+  {\ubung} A cone with height $h$ and radius $r$ is inscribed in a
+  larger cone with height $H$ and radius $R$ so that its vertex is at
+  the centre of the base of the larger cone. Find $h$ in terms of the
+  dimensions of the larger cone that makes the volume of the smaller
+  cone maximal.
+\begin{figure}[h]
+\includegraphics[scale=.75]{./diagrams/coneopt.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise}
+  {\ubung} For a fish swimming at a speed $v$ relative to the water,
+  the energy expenditure per unit time is proportional to $v^{3}$. It
+  is believed that migrating fish try to minimize the total energy
+  required to swim a fixed distance. If the fish are swimming against
+  a current $u$ ($u<v$), then the time required to swim a distance $L$
+  is $L/(v-u)$ and the total energy $E$ required to swim the distance
+  is given by
+  \begin{equation}
+    \label{eq:aiyeiyoo}
+    E(v)=av^{3}\cdot\frac{L}{v-u}
+  \end{equation}
+  where $a$ is the proportionality constant. Determine the value of
+  $v$ that minimizes $E$.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise}
+  {\ubung} How close does the semi-circle $y=\sqrt{16-x^{2}}$ come to
+  the point $P=(1,\sqrt{3})$?
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise Solution}
+  Note that the semi-circle $y=\sqrt{16-x^{2}}$ is part of a circle
+  with a centre of $M=(0,0)$ and radius $r=4$. If $Q=(x,y)$ is the
+  point on the semi-circle closest to $P$, then the distance between
+  $P$ and $Q$ is
+\begin{equation}
+  \label{eq:aziobaeg}
+  f(x)=\sqrt{(x-1)^{2}+(y-\sqrt{3})^{2}}
+\end{equation}
+Since $Q$ is on the semi-circle, we can replace $y=\sqrt{16-x^{2}}$ to
+get 
+\begin{equation}
+  \label{eq:shahquua}
+  f(x)=\sqrt{(x-1)^{2}+(\sqrt{16-x^{2}}-\sqrt{3})^{2}}
+\end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise Solution}
+  The distance between $P$ and $Q$ is
+\begin{equation}
+  \label{eq:ohghoote}
+  f(x)=\sqrt{(x-1)^{2}+(\sqrt{16-x^{2}}-\sqrt{3})^{2}}=\sqrt{g(x)}
+\end{equation}
+Call the expression under the square root sign $g(x)$. Then
+\begin{equation}
+  \label{eq:ouwophai}
+  f'(x)=\frac{1}{2}\cdot\left(g(x)\right)^{-\frac{1}{2}}\cdot{}g'(x)
+\end{equation}
+Of these three factors, only $g'(x)$ can be zero. Setting $f'(x)=0$ is
+therefore equivalent to $g'(x)=0$. Note that
+\begin{equation}
+  \label{eq:poqueebo}
+  g'(x)=2(x-1)+2\left(\sqrt{16-x^{2}}-\sqrt{3}\right)\cdot\left(\frac{1}{2}(16-x^{2})^{-\frac{1}{2}}\cdot(-2x)\right)\notag
+\end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise Solution}
+Simplify and expand to
+\begin{equation}
+  \label{eq:deiquoot}
+  \frac{1}{2}g'(x)=(x-1)-x+\frac{\sqrt{3}x}{\sqrt{16-x^{2}}}
+\end{equation}
+$g'(x)=0$ just when
+\begin{equation}
+  \label{eq:xoonahju}
+  1=\frac{\sqrt{3}x}{\sqrt{16-x^{2}}}
+\end{equation}
+Square both sides for the polynomial equation
+\begin{equation}
+  \label{eq:uabaevoo}
+4x^{2}-16=0
+\end{equation}
+and the two solutions $x_{1}=-2$ and $x_{2}=2$. The first solution is
+where the distance between $P$ and $Q$ is at a maximum. The second
+solution is where the distance is at a minimum. Therefore, the point
+$Q=(2,2\sqrt{3})$ is the answer to the question in this exercise.
+\end{frame}
+
+\begin{frame}
   \frametitle{Optimization Word Problems}
 {\ubung} Find the area of the largest rectangle that can be inscribed
 in a semicircle of radius $r$ (two vertices of the rectangle must be
