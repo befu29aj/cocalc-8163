@@ -50,6 +50,7 @@
     "eq:xughieta"
     "eq:mahpeilu"
     "eq:eigahrai"
+    "eq:pahxoquu"
     "eq:erahdahv"
     "eq:heetheer"
     "eq:quahgoec"
