@@ -51,6 +51,7 @@
     "eq:mahpeilu"
     "eq:eigahrai"
     "eq:pahxoquu"
+    "eq:roquaevi"
     "eq:erahdahv"
     "eq:heetheer"
     "eq:quahgoec"
