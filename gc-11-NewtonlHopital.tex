@@ -325,24 +325,19 @@ or for
 
 \begin{frame}
   \frametitle{Exercise Solution}
+  \begin{equation}
+    \label{eq:erahdahv}
+    \lim_{x\rightarrow\infty}(\sqrt{x^{2}+x}-x)=\lim_{x\rightarrow\infty}(\sqrt{x(x+1)}-x)=\lim_{x\rightarrow\infty}(\sqrt{x}(\sqrt{x+1}-\sqrt{x}))
+  \end{equation}
   Multiply by the conjugate for
   \begin{equation}
-    \label{eq:tureunge}
-    \lim_{x\rightarrow\infty}(\sqrt{x^{2}+x}-x)=\lim_{x\rightarrow{}\infty}\frac{x}{\sqrt{x^{2}+x}+x}
+    \label{eq:heetheer}
+    \lim_{x\rightarrow\infty}(\sqrt{x}(\sqrt{x+1}-\sqrt{x}))=\lim_{x\rightarrow{}\infty}\frac{\sqrt{x}}{\sqrt{x+1}+\sqrt{x}}
   \end{equation}
-Then use l'H{\^o}pital's Rule
+  Take the reciprocal for
   \begin{equation}
-    \label{eq:watiepee}
-    \lim_{x\rightarrow{}\infty}\frac{x}{\sqrt{x^{2}+x}+x}\stackrel{\mbox{\tiny LHR}}{=}\lim_{x\rightarrow{}\infty}\frac{2\sqrt{x^{2}+x}}{2x+1+2\sqrt{x^{2}+x}}
-  \end{equation}
-\end{frame}
-
-\begin{frame}
-  \frametitle{Exercise Solution}
-  Take the reciprocal
-  \begin{equation}
-    \label{eq:gohciefe}
-    \lim_{x\rightarrow{}\infty}\frac{2\sqrt{x^{2}+x}}{2x+1+2\sqrt{x^{2}+x}}=\frac{1}{\lim_{x\rightarrow{}\infty}\frac{2x+1+2\sqrt{x^{2}+x}}{2\sqrt{x^{2}+x}}}
+    \label{eq:quahgoec}
+    \lim_{x\rightarrow{}\infty}\frac{\sqrt{x}}{\sqrt{x+1}+\sqrt{x}}=\left(\lim_{x\rightarrow{}\infty}1+\sqrt{\frac{x+1}{x}}\right)^{-1}=\frac{1}{2}
   \end{equation}
 \end{frame}
 
