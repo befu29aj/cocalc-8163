@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1520370712 "gc-11-NewtonlHopital.tex" "gc-11-NewtonlHopital.pdf" "gc-11-NewtonlHopital" 1520370713
+["pdflatex"] 1520370924 "gc-11-NewtonlHopital.tex" "gc-11-NewtonlHopital.pdf" "gc-11-NewtonlHopital" 1520370926
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -209,16 +209,16 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1506161354 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
   "diagrams/lhopital_ed.png" 1515696295 33527 3341a77c499ee7819e2ac5a32741c16b ""
-  "gc-11-NewtonlHopital.aux" 1520370713 9072 f7e22459b2badcacc1171209146de83e ""
-  "gc-11-NewtonlHopital.nav" 1520370713 3194 cdc35f428d80baaff4e90ca237ffaba3 ""
-  "gc-11-NewtonlHopital.out" 1520370712 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "gc-11-NewtonlHopital.tex" 1520370705 10089 534dd6226e50e01e7c889d2293383b27 ""
+  "gc-11-NewtonlHopital.aux" 1520370926 9170 3eafeb5638145455299778267303ea97 ""
+  "gc-11-NewtonlHopital.nav" 1520370926 3194 cdc35f428d80baaff4e90ca237ffaba3 ""
+  "gc-11-NewtonlHopital.out" 1520370925 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-11-NewtonlHopital.tex" 1520370919 10142 5e790e70ff7a1cbd58156c16536616f2 ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
-  "gc-11-NewtonlHopital.out"
-  "gc-11-NewtonlHopital.toc"
   "gc-11-NewtonlHopital.nav"
-  "gc-11-NewtonlHopital.aux"
-  "gc-11-NewtonlHopital.snm"
   "gc-11-NewtonlHopital.log"
+  "gc-11-NewtonlHopital.out"
+  "gc-11-NewtonlHopital.snm"
+  "gc-11-NewtonlHopital.aux"
   "gc-11-NewtonlHopital.pdf"
+  "gc-11-NewtonlHopital.toc"
