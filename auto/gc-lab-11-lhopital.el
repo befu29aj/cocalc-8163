@@ -16,18 +16,18 @@
    (TeX-add-symbols
     '("aufgabe" 0))
    (LaTeX-add-labels
-    "eq:aiyeiyoo"
+    "eq:eemeeyae"
+    "eq:taihahri"
+    "eq:vuciecha"
     "eq:xeigheuy"
     "eq:ohtharoh"
     "eq:iejuangi"
     "eq:oungiegu"
     "eq:ohpaejae"
+    "eq:aiyeiyoo"
+    "eq:gasuchoh"
     "eq:ohtooyiv"
-    "eq:laingiun"
-    "eq:vuciecha"
-    "eq:taihahri"
-    "eq:eemeeyae"
-    "eq:gasuchoh")
+    "eq:laingiun")
    (LaTeX-add-counters
     "aufg"))
  :latex)
