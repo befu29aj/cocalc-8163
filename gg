@@ -7,3 +7,4 @@ system "git commit -am \"$cm\"";
 system "git push";
 # print "git push\n";
 print "git add . && git commit -am \"$cm cocalc\" && git push\n";
+system "echo \"git add . && git commit -am \\\"$cm cocalc\\\" && git push\" | xsel -i";
