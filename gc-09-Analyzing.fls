@@ -361,6 +361,9 @@ INPUT ./diagrams/opt.png
 INPUT ./diagrams/opt.png
 INPUT ./diagrams/opt.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT ./diagrams/coneopt.png
+INPUT ./diagrams/coneopt.png
+INPUT ./diagrams/coneopt.png
 INPUT ./diagrams/optcone.png
 INPUT ./diagrams/optcone.png
 INPUT ./diagrams/optcone.png

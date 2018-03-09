@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  22 FEB 2018 00:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  7 MAR 2018 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1123,146 +1123,175 @@ Overfull \vbox (9.77264pt too high) detected at line 101
 
 ] [22
 
-] <./diagrams/optcone.png, id=198, 344.28625pt x 397.485pt>
-File: ./diagrams/optcone.png Graphic file (type png)
+] [23
 
-<use ./diagrams/optcone.png>
-Package pdftex.def Info: ./diagrams/optcone.png used on input line 237.
-(pdftex.def)             Requested size: 103.28667pt x 119.24641pt.
- [23
-
- <./diagrams/optcone.png>] [24
+] [24
 
 ] [25
 
-] [26
+]
+<./diagrams/coneopt.png, id=217, 211.79124pt x 176.66pt>
+File: ./diagrams/coneopt.png Graphic file (type png)
+
+<use ./diagrams/coneopt.png>
+Package pdftex.def Info: ./diagrams/coneopt.png used on input line 260.
+(pdftex.def)             Requested size: 158.84303pt x 132.49466pt.
+ [26
+
+ <./diagrams/coneopt.png (PNG copy)>] [27
 
 ]
-<./diagrams/optleaf.png, id=227, 200.75pt x 265.99374pt>
-File: ./diagrams/optleaf.png Graphic file (type png)
+[28
 
-<use ./diagrams/optleaf.png>
-Package pdftex.def Info: ./diagrams/optleaf.png used on input line 280.
-(pdftex.def)             Requested size: 80.29857pt x 106.3956pt.
- [27
-
- <./diagrams/optleaf.png>]
-<./diagrams/optleafsol.png, id=234, 537.00626pt x 629.35126pt>
-File: ./diagrams/optleafsol.png Graphic file (type png)
-
-<use ./diagrams/optleafsol.png>
-Package pdftex.def Info: ./diagrams/optleafsol.png used on input line 287.
-(pdftex.def)             Requested size: 187.955pt x 220.27623pt.
- [28
-
- <./diagrams/optleafsol.png>] [29
+] [29
 
 ] [30
 
-]
-[31
+] [31
 
 ] [32
 
-] [33
+]
+<./diagrams/optcone.png, id=270, 344.28625pt x 397.485pt>
+File: ./diagrams/optcone.png Graphic file (type png)
 
-] [34
+<use ./diagrams/optcone.png>
+Package pdftex.def Info: ./diagrams/optcone.png used on input line 361.
+(pdftex.def)             Requested size: 103.28667pt x 119.24641pt.
+ [33
+
+ <./diagrams/optcone.png>] [34
 
 ] [35
 
 ] [36
 
-] [37
+]
+<./diagrams/optleaf.png, id=299, 200.75pt x 265.99374pt>
+File: ./diagrams/optleaf.png Graphic file (type png)
 
-] [38
+<use ./diagrams/optleaf.png>
+Package pdftex.def Info: ./diagrams/optleaf.png used on input line 404.
+(pdftex.def)             Requested size: 80.29857pt x 106.3956pt.
+ [37
+
+ <./diagrams/optleaf.png>]
+<./diagrams/optleafsol.png, id=307, 537.00626pt x 629.35126pt>
+File: ./diagrams/optleafsol.png Graphic file (type png)
+
+<use ./diagrams/optleafsol.png>
+Package pdftex.def Info: ./diagrams/optleafsol.png used on input line 411.
+(pdftex.def)             Requested size: 187.955pt x 220.27623pt.
+ [38
+
+ <./diagrams/optleafsol.png>] [39
+
+] [40
 
 ]
-<./diagrams/asymp1.png, id=319, 816.04875pt x 692.5875pt>
-File: ./diagrams/asymp1.png Graphic file (type png)
+[41
 
-<use ./diagrams/asymp1.png>
-Package pdftex.def Info: ./diagrams/asymp1.png used on input line 470.
-(pdftex.def)             Requested size: 204.01169pt x 173.14644pt.
+] [42
 
-Overfull \vbox (1.34294pt too high) detected at line 470
- []
+] [43
 
-[39
-
- <./diagrams/asymp1.png>]
-<./diagrams/asymp2.png, id=327, 853.1875pt x 681.54625pt>
-File: ./diagrams/asymp2.png Graphic file (type png)
-
-<use ./diagrams/asymp2.png>
-Package pdftex.def Info: ./diagrams/asymp2.png used on input line 482.
-(pdftex.def)             Requested size: 213.29636pt x 170.38614pt.
- [40
-
- <./diagrams/asymp2.png>] [41
-
-]
-<./diagrams/asymp3.png, id=342, 863.225pt x 862.22125pt>
-File: ./diagrams/asymp3.png Graphic file (type png)
-
-<use ./diagrams/asymp3.png>
-Package pdftex.def Info: ./diagrams/asymp3.png used on input line 511.
-(pdftex.def)             Requested size: 215.80573pt x 215.55478pt.
-
-Overfull \vbox (27.44987pt too high) detected at line 511
- []
-
-[42
-
- <./diagrams/asymp3.png>]
-<./diagrams/asymp4.png, id=350, 857.2025pt x 694.595pt>
-File: ./diagrams/asymp4.png Graphic file (type png)
-
-<use ./diagrams/asymp4.png>
-Package pdftex.def Info: ./diagrams/asymp4.png used on input line 524.
-(pdftex.def)             Requested size: 214.3001pt x 173.64832pt.
-
-Overfull \vbox (11.44846pt too high) detected at line 524
- []
-
-[43
-
- <./diagrams/asymp4.png>] [44
+] [44
 
 ] [45
 
+] [46
+
+] [47
+
+] [48
+
 ]
-<./diagrams/asymp5.png, id=374, 858.20625pt x 866.23625pt>
+<./diagrams/asymp1.png, id=390, 816.04875pt x 692.5875pt>
+File: ./diagrams/asymp1.png Graphic file (type png)
+
+<use ./diagrams/asymp1.png>
+Package pdftex.def Info: ./diagrams/asymp1.png used on input line 594.
+(pdftex.def)             Requested size: 204.01169pt x 173.14644pt.
+
+Overfull \vbox (1.34294pt too high) detected at line 594
+ []
+
+[49
+
+ <./diagrams/asymp1.png>]
+<./diagrams/asymp2.png, id=399, 853.1875pt x 681.54625pt>
+File: ./diagrams/asymp2.png Graphic file (type png)
+
+<use ./diagrams/asymp2.png>
+Package pdftex.def Info: ./diagrams/asymp2.png used on input line 606.
+(pdftex.def)             Requested size: 213.29636pt x 170.38614pt.
+ [50
+
+ <./diagrams/asymp2.png>] [51
+
+]
+<./diagrams/asymp3.png, id=415, 863.225pt x 862.22125pt>
+File: ./diagrams/asymp3.png Graphic file (type png)
+
+<use ./diagrams/asymp3.png>
+Package pdftex.def Info: ./diagrams/asymp3.png used on input line 635.
+(pdftex.def)             Requested size: 215.80573pt x 215.55478pt.
+
+Overfull \vbox (27.44987pt too high) detected at line 635
+ []
+
+[52
+
+ <./diagrams/asymp3.png>]
+<./diagrams/asymp4.png, id=423, 857.2025pt x 694.595pt>
+File: ./diagrams/asymp4.png Graphic file (type png)
+
+<use ./diagrams/asymp4.png>
+Package pdftex.def Info: ./diagrams/asymp4.png used on input line 648.
+(pdftex.def)             Requested size: 214.3001pt x 173.64832pt.
+
+Overfull \vbox (11.44846pt too high) detected at line 648
+ []
+
+[53
+
+ <./diagrams/asymp4.png>] [54
+
+] [55
+
+]
+<./diagrams/asymp5.png, id=447, 858.20625pt x 866.23625pt>
 File: ./diagrams/asymp5.png Graphic file (type png)
 
 <use ./diagrams/asymp5.png>
-Package pdftex.def Info: ./diagrams/asymp5.png used on input line 564.
+Package pdftex.def Info: ./diagrams/asymp5.png used on input line 688.
 (pdftex.def)             Requested size: 300.3767pt x 303.18723pt.
 
-Overfull \vbox (81.64482pt too high) detected at line 564
+Overfull \vbox (81.64482pt too high) detected at line 688
  []
 
-[46
+[56
 
  <./diagrams/asymp5.png>]
-<./diagrams/asymp6.png, id=381, 849.1725pt x 861.2175pt>
+<./diagrams/asymp6.png, id=454, 849.1725pt x 861.2175pt>
 File: ./diagrams/asymp6.png Graphic file (type png)
 
 <use ./diagrams/asymp6.png>
-Package pdftex.def Info: ./diagrams/asymp6.png used on input line 576.
+Package pdftex.def Info: ./diagrams/asymp6.png used on input line 700.
 (pdftex.def)             Requested size: 212.2926pt x 215.30385pt.
 
-Overfull \vbox (27.19894pt too high) detected at line 576
+Overfull \vbox (27.19894pt too high) detected at line 700
  []
 
-[47
+[57
 
- <./diagrams/asymp6.png>] [48
+ <./diagrams/asymp6.png>] [58
 
-] [49
+] [59
 
-] [50
+] [60
 
-] [51
+] [61
 
 ]
 Package epstopdf Info: Source file: <./diagrams/ft-11-AnalyzingFunctions.eps>
@@ -1274,40 +1303,40 @@ nverted-to.pdf>
 (epstopdf)                    size: 114546 bytes
 (epstopdf)             Command: <repstopdf --outfile=./diagrams/ft-11-Analyzing
 Functions-eps-converted-to.pdf ./diagrams/ft-11-AnalyzingFunctions.eps>
-(epstopdf)             \includegraphics on input line 619.
+(epstopdf)             \includegraphics on input line 743.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=419, 1009.7725pt 
+<./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=491, 1009.7725pt 
 x 558.085pt>
 File: ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>
 Package pdftex.def Info: ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.p
-df used on input line 619.
+df used on input line 743.
 (pdftex.def)             Requested size: 403.90184pt x 223.23004pt.
 
-Overfull \hbox (96.61197pt too wide) in paragraph at lines 619--619
+Overfull \hbox (96.61197pt too wide) in paragraph at lines 743--743
  [] 
  []
 
 
-Overfull \vbox (15.28764pt too high) detected at line 619
+Overfull \vbox (15.28764pt too high) detected at line 743
  []
 
-[52
+[62
 
- <./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [53
+ <./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [63
 
-] [54
+] [64
 
 ]
-[55
+[65
 
-] [56
+] [66
 
-] [57
+] [67
 
-] [58
+] [68
 
 ]
 \tf@nav=\write6
@@ -1319,11 +1348,11 @@ Overfull \vbox (15.28764pt too high) detected at line 619
 \tf@snm=\write8
 \openout8 = `gc-09-Analyzing.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 677.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 677.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 801.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 801.
  (./gc-09-Analyzing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 677.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 677.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 801.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 801.
 Package rerunfilecheck Info: File `gc-09-Analyzing.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1331,13 +1360,13 @@ Package rerunfilecheck Info: File `gc-09-Analyzing.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 677.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 801.
  ) 
 Here is how much of TeX's memory you used:
- 20359 strings out of 493029
- 401303 string characters out of 6136234
- 467588 words of memory out of 5000000
- 23235 multiletter control sequences out of 15000+600000
+ 20422 strings out of 493029
+ 402007 string characters out of 6136234
+ 467814 words of memory out of 5000000
+ 23268 multiletter control sequences out of 15000+600000
  10684 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,419b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1351,10 +1380,10 @@ nts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb>
-Output written on gc-09-Analyzing.pdf (58 pages, 633920 bytes).
+Output written on gc-09-Analyzing.pdf (68 pages, 654001 bytes).
 PDF statistics:
- 542 PDF objects out of 1000 (max. 8388607)
- 435 compressed objects within 5 object streams
- 168 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 621 PDF objects out of 1000 (max. 8388607)
+ 502 compressed objects within 6 object streams
+ 197 named destinations out of 1000 (max. 500000)
+ 160 words of extra memory for PDF output out of 10000 (max. 10000000)
 
