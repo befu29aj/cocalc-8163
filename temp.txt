@@ -7,3 +7,9 @@ How close does the semi-circle $y=\sqrt{16-x^{2}}$ come to the point $P=(1,\sqrt
 How close does the semi-circle $y=\sqrt{16-x^{2}}$ come to the point $P=(1,\sqrt{3})$?
 
 How close does the semi-circle $y=\sqrt{16-x^{2}}$ come to the point $P=(1,\sqrt{3})$?
+
+For a fish swimming at a speed $v$ relative to the water, the energy expenditure per unit time is proportional to $v^{3}$. It is believed that migrating fish try to minimize the total energy required to swim a fixed distance. If the fish are swimming against a current $u$ ($u<v$), then the time required to swim a distance $L$ is $L/(v-u)$ and the total energy $E$ required to swim the distance is given by $$E(v)=av^{3}\cdot\frac{L}{v-u}$$ where $a$ is the proportionality constant. Determine the value of $v$ that minimizes $E$.
+
+A cone with height $h$ and radius $r$ is inscribed in a larger cone with height $H$ and radius $R$ so that its vertex is at the centre of the base of the larger cone. Find $h$ in terms of the dimensions of the larger cone that makes the volume of the smaller cone maximal.
+
+Of the infinitely many lines that are tangent to the curve $$y=-\sin{}x$$ and pass through the origin, there is one that has the largest slope. Use Newton's Method to find the slope of that line.
