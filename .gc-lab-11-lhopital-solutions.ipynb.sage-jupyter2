@@ -21,4 +21,4 @@
 {"type":"cell","id":"f10914","pos":3,"input":"$$\\lim_{x\\rightarrow{}0^{+}}\\frac{-\\sin^{2}x}{x\\cos{}x}=\\frac{0}{0}$$","cell_type":"markdown"}
 {"type":"cell","id":"f4ec38","pos":11,"input":"**Step 3:** Differentiate and set to zero. $$A'(r)=2\\left(2r\\pi-\\frac{1}{r^{2}}\\right)=0$$","cell_type":"markdown"}
 {"type":"file","last_load":1520629622694}
-{"type":"settings","kernel":"sagemath","backend_state":"running","trust":true,"kernel_usage":{"cpu":0,"memory":257839104},"kernel_state":"idle"}
+{"type":"settings","kernel":"sagemath","backend_state":"running","trust":true,"kernel_usage":{"cpu":0,"memory":236818432},"kernel_state":"idle"}
