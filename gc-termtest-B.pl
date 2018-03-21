@@ -87,8 +87,8 @@ $v011[1]="";
 
 for ($i1=0;$i1<=$#nm;++$i1)
 {
-open(termtest,">./gc-termtest-A$vn[$i1].tex");
-print termtest "% gc-termtest-A.tex\n\n";
+open(termtest,">./gc-termtest-B$vn[$i1].tex");
+print termtest "% gc-termtest-B.tex\n\n";
 print termtest "\\documentclass[11pt]{article}\n";
 print termtest "\\usepackage{alltt}\n";
 print termtest "\\usepackage{enumerate}\n";
@@ -102,7 +102,7 @@ print termtest "\\newcommand{\\aufgabe}[1]{\\refstepcounter{aufg}\\textbf{(\\ara
 
 print termtest "\\begin{document}\n\n";
 
-print termtest "\\textbf{Term Test A version $vn[$i1]}\n\n";
+print termtest "\\textbf{Term Test B version $vn[$i1]}\n\n";
 
 @bufgabe=shuffle(@aufgabe);
 
