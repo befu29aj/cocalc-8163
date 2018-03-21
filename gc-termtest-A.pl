@@ -1,3 +1,4 @@
+# gc-termtest-A.pl
 use List::Util 'shuffle';
 
 print "The problem with Newton's Cooling Law is too difficult, not knowing the initial temperature.\n";
