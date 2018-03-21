@@ -6,7 +6,7 @@ srand;
 $aufgabe[0]=sub {
     print termtest "An open-top box is to be made by cutting small congruent squares from the corners of a $v001[$i1] inch by $v001[$i1] inch sheet of tin and bending up the sides. How large should the squares cut from the corners be to make the box hold as much as possible?\n";
     print termtest "\\begin{figure}[h]\n";
-    print termtest "\\includegraphics[scale=0.5]{./gc-termtestB-v$vn[$i1]-01.png}\n";
+    print termtest "\\includegraphics[scale=0.5]{./diagrams/gc-termtestB-v$vn[$i1]-01.png}\n";
     print termtest "\\end{figure}\n";
 };
 
@@ -62,8 +62,8 @@ $vn[0]="1";
 $vn[1]="2";
 
 $v001[0]="13";
-$v002[0]="\lim_{x\rightarrow\frac{\pi}{4}}\frac{\sin{}x-\cos{}x}{x-\frac{\pi}{4}}";
-$v003[0]="\lim_{x\rightarrow\frac{\pi}{2}}\frac{2x-\pi}{\cos{}x}";
+$v002[0]="\\lim_{x\\rightarrow\\frac{\pi}{4}}\\frac{\\sin{}x-\\cos{}x}{x-\\frac{\\pi}{4}}";
+$v003[0]="\\lim_{x\\rightarrow\\frac{\\pi}{2}}\\frac{2x-\\pi}{\\cos{}x}";
 $v004[0]="0.4";
 $v005[0]="1.4";
 $v006[0]="";
@@ -74,8 +74,8 @@ $v010[0]="";
 $v011[0]="";
 
 $v001[1]="11";
-$v002[1]="\lim_{x\rightarrow\frac{\pi}{3}}\frac{\cos{}x-0.5}{x-\frac{\pi}{3}}";
-$v003[1]="\lim_{t\rightarrow0}\frac{\sin{}t^{2}}{t}";
+$v002[1]="\\lim_{x\\rightarrow\\frac{\\pi}{3}}\\frac{\\cos{}x-0.5}{x-\\frac{\\pi}{3}}";
+$v003[1]="\\lim_{t\\rightarrow0}\\frac{\\ysin{}t^{2}}{t}";
 $v004[1]="0.7";
 $v005[1]="1.7";
 $v006[1]="";
