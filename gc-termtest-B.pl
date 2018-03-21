@@ -75,7 +75,7 @@ $v011[0]="";
 
 $v001[1]="11";
 $v002[1]="\\lim_{x\\rightarrow\\frac{\\pi}{3}}\\frac{\\cos{}x-0.5}{x-\\frac{\\pi}{3}}";
-$v003[1]="\\lim_{t\\rightarrow0}\\frac{\\ysin{}t^{2}}{t}";
+$v003[1]="\\lim_{t\\rightarrow{}0}\\frac{\\sin{}\\left(t^{2}\\right)}{t}";
 $v004[1]="0.7";
 $v005[1]="1.7";
 $v006[1]="";
