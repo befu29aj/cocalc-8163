@@ -4,7 +4,7 @@ use List::Util 'shuffle';
 srand;
 
 $aufgabe[0]=sub {
-    print termtest "An open-top box is to be made by cutting small congruent squares from the corners of a $v001[$i1] inch by $v001[$i1] inch sheet of tin and bending up the sides. How large should the squares cut from the corners be to make the box hold as much as possible?\n";
+    print termtest "An open-top box is to be made by cutting small congruent squares from the corners of a$v006[$i1] $v001[$i1] inch by $v001[$i1] inch sheet of tin and bending up the sides. How large should the squares cut from the corners be to make the box hold as much as possible?\n";
     print termtest "\\begin{figure}[h]\n";
     print termtest "\\includegraphics[scale=0.5]{./diagrams/gc-termtestB-v$vn[$i1]-01.png}\n";
     print termtest "\\end{figure}\n";
@@ -36,12 +36,12 @@ $aufgabe[3]=sub {
 };
 
 $aufgabe[4]=sub {
-    print termtest "A conical tent is to have 1000ft\$^{2}\$ capacity. Find its dimensions if the amount of canvas is to be a minimum. Disregard the floor. Note that the formula for the volume of a cone is\n";
+    print termtest "A conical tent is to have 1000ft\$^{3}\$ capacity. Find its dimensions if the amount of canvas is to be a minimum. Disregard the floor. Note that the formula for the volume of a cone is\n";
     print termtest "\\begin{equation}\n";
     print termtest "\\label{eq:uapaighi}\n";
-    print termtest "V=\\frac{1}{3}r^{2}\\pi\\cdot{}h\\notag\n";
+    print termtest "V=\\frac{1}{3}r^{2}\\pi{}h\\notag\n";
     print termtest "\\end{equation}\n";
-    print termtest "The formula for the area of the curved lateral surface of a cone (without the floor) is\n";
+    print termtest "The formula for the area of the lateral surface of a cone (without the floor) is\n";
     print termtest "\\begin{equation}\n";
     print termtest "\\label{eq:chaekaec}\n";
     print termtest "A=\\pi{}rs\\notag\n";
@@ -95,7 +95,7 @@ $v002[1]="\\lim_{x\\rightarrow\\frac{\\pi}{3}}\\frac{\\cos{}x-0.5}{x-\\frac{\\pi
 $v003[1]="\\lim_{t\\rightarrow{}0}\\frac{\\sin{}\\left(t^{2}\\right)}{t}";
 $v004[1]="0.7";
 $v005[1]="1.7";
-$v006[1]="";
+$v006[1]="n";
 $v007[1]="";
 $v008[1]="";
 $v009[1]="";
