@@ -37,7 +37,7 @@ $aufgabe[3]=sub {
     print termtest "\\label{eq:aathieyi}\n";
     print termtest "x=1+$v004[$i1]\\sin{}x\\notag\n";
     print termtest "\\end{equation}\n";
-    print termtest "Graphing the function \$f(x)=x-1-{\ohdo}\\sin{}x\$ suggests that the function has a root near \$x=$v005[$i1]\$. Use one application of Newton's method to improve this estimate. That is, start with \$x_{1}=$v005[$i1]\$ and find \$x_{2}\$.\n";
+    print termtest "Graphing the function \$f(x)=x-1-$v004[$i1]\\sin{}x\$ suggests that the function has a root near \$x=$v005[$i1]\$. Use one application of Newton's method to improve this estimate. That is, start with \$x_{1}=$v005[$i1]\$ and find \$x_{2}\$.\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
