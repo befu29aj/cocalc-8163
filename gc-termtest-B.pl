@@ -35,6 +35,23 @@ $aufgabe[3]=sub {
     print termtest "Graphing the function \$f(x)=x-1-$v004[$i1]\\sin{}x\$ suggests that the function has a root near \$x=$v005[$i1]\$. Use one application of Newton's method to improve this estimate. That is, start with \$x_{1}=$v005[$i1]\$ and find \$x_{2}\$.\n";
 };
 
+$aufgabe[4]=sub {
+    print termtest "A conical tent is to have 1000ft\$^{2}\$ capacity. Find its dimensions if the amount of canvas is to be a minimum. Disregard the floor. Note that the formula for the volume of a cone is\n";
+    print termtest "\\begin{equation}\n";
+    print termtest "\\label{eq:uapaighi}\n";
+    print termtest "V=\\frac{1}{3}r^{2}\\pi\\cdot{}h\\notag\n";
+    print termtest "\\end{equation}\n";
+    print termtest "The formula for the area of the curved lateral surface of a cone (without the floor) is\n";
+    print termtest "\\begin{equation}\n";
+    print termtest "\\label{eq:chaekaec}\n";
+    print termtest "A=\\pi{}rs\\notag\n";
+    print termtest "\\end{equation}\n";
+    print termtest "where \$s\$ is the slant height (see diagram).\n";
+    print termtest "\\begin{figure}[h]\n";
+    print termtest "\\includegraphics[scale=0.5]{./diagrams/coneslantheight.png}\n";
+    print termtest "\\end{figure}\n";
+};
+
 for ($y2=0;$y2<=$#aufgabe;++$y2)
 {
     $z5=rand;
