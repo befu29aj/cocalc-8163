@@ -52,6 +52,28 @@ $aufgabe[4]=sub {
     print termtest "\\end{figure}\n";
 };
 
+$aufgabe[5]=sub {
+    print termtest "Analyze the following function (do not worry about asymptotes and whether the function is even/odd). This means that you need to find the following:\n";
+    print termtest "\\begin{itemize}\n";
+    print termtest "\\item domain and range\n";
+    print termtest "\\item \$x\$-intercepts\n";
+    print termtest "\\item critical points (indicate if they are maxima or minima)\n";
+    print termtest "\\item inflection points\n";
+    print termtest "\\end{itemize}\n";
+    print termtest "\\begin{equation}\n";
+    print termtest "\\label{eq:phauruwi}\n";
+    print termtest "f(x)=\\frac{$v007[$i1]x-1}{$v008[$i1]x^{2}}\n";
+    print termtest "\\end{equation}\n";
+};
+
+$aufgabe[6]=sub {
+    print termtest "Differentiate\n";
+    print termtest "\\begin{equation}\n";
+    print termtest "\\label{eq:aphaefex}\n";
+    print termtest "g(t)=\ln\left($v009[$i1]\left(2t\right)\right)\n";
+    print termtest "\\end{equation}\n";
+};
+
 for ($y2=0;$y2<=$#aufgabe;++$y2)
 {
     $z5=rand;
@@ -84,9 +106,9 @@ $v003[0]="\\lim_{x\\rightarrow\\frac{\\pi}{2}}\\frac{2x-\\pi}{\\cos{}x}";
 $v004[0]="0.4";
 $v005[0]="1.4";
 $v006[0]="";
-$v007[0]="";
-$v008[0]="";
-$v009[0]="";
+$v007[0]="2";
+$v008[0]="2";
+$v009[0]="\\sinh";
 $v010[0]="";
 $v011[0]="";
 
@@ -97,8 +119,8 @@ $v004[1]="0.7";
 $v005[1]="1.7";
 $v006[1]="n";
 $v007[1]="";
-$v008[1]="";
-$v009[1]="";
+$v008[1]="3";
+$v009[1]="\\cosh";
 $v010[1]="";
 $v011[1]="";
 
