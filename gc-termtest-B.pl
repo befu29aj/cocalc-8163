@@ -70,7 +70,7 @@ $aufgabe[6]=sub {
     print termtest "Differentiate\n";
     print termtest "\\begin{equation}\n";
     print termtest "\\label{eq:aphaefex}\n";
-    print termtest "g(t)=\ln\left($v009[$i1]\left(2t\right)\right)\n";
+    print termtest "g(t)=\\ln\\left($v009[$i1]\\left(2t\\right)\\right)\n";
     print termtest "\\end{equation}\n";
 };
 
