@@ -5,7 +5,7 @@ srand;
 
 $aufgabe[0]=sub {
     print termtest "An open-top box is to be made by cutting small congruent squares from the corners of a$v006[$i1] $v001[$i1] inch by $v001[$i1] inch sheet of tin and bending up the sides. How large should the squares cut from the corners be to make the box hold as much as possible?\n";
-    print termtest "\\begin{figure}[h]\n";
+    print termtest "\\begin{figure}[H]\n";
     print termtest "\\includegraphics[scale=0.5]{./diagrams/gc-termtestB-v$vn[$i1]-01.png}\n";
     print termtest "\\end{figure}\n";
 };
@@ -47,7 +47,7 @@ $aufgabe[4]=sub {
     print termtest "A=\\pi{}rs\\notag\n";
     print termtest "\\end{equation}\n";
     print termtest "where \$s\$ is the slant height (see diagram).\n";
-    print termtest "\\begin{figure}[h]\n";
+    print termtest "\\begin{figure}[H]\n";
     print termtest "\\includegraphics[scale=0.5]{./diagrams/coneslantheight.png}\n";
     print termtest "\\end{figure}\n";
 };
@@ -62,7 +62,7 @@ $aufgabe[5]=sub {
     print termtest "\\end{itemize}\n";
     print termtest "\\begin{equation}\n";
     print termtest "\\label{eq:phauruwi}\n";
-    print termtest "f(x)=\\frac{$v007[$i1]x-1}{$v008[$i1]x^{2}}\n";
+    print termtest "f(x)=\\frac{$v007[$i1]x-1}{$v008[$i1]x^{2}}\\notag\n";
     print termtest "\\end{equation}\n";
 };
 
@@ -70,7 +70,7 @@ $aufgabe[6]=sub {
     print termtest "Differentiate\n";
     print termtest "\\begin{equation}\n";
     print termtest "\\label{eq:aphaefex}\n";
-    print termtest "g(t)=\\ln\\left($v009[$i1]\\left(2t\\right)\\right)\n";
+    print termtest "g(t)=\\ln\\left($v009[$i1]\\left(2t\\right)\\right)\\notag\n";
     print termtest "\\end{equation}\n";
 };
 
@@ -86,13 +86,13 @@ for ($y4=0;$y4<=$#z3;++$y4)
     $z2[$y4]=$z4[1];
 }
 
-$p[0]="5";
-$p[1]="5";
-$p[2]="5";
-$p[3]="5";
-$p[4]="5";
-$p[5]="5";
-$p[6]="5";
+$p[0]="7";
+$p[1]="7";
+$p[2]="7";
+$p[3]="7";
+$p[4]="7";
+$p[5]="7";
+$p[6]="6";
 
 $nm[0]="termtest1";
 $nm[1]="termtest2";
@@ -132,6 +132,7 @@ print termtest "\\documentclass[11pt]{article}\n";
 print termtest "\\usepackage{alltt}\n";
 print termtest "\\usepackage{enumerate}\n";
 print termtest "\\usepackage{syllogism} \n";
+print termtest "\\usepackage{float} \n";
 print termtest "\\usepackage{october}\n";
 print termtest "\\usepackage[table]{xcolor}\n";
 print termtest "\\pagestyle{empty}\n\n";
