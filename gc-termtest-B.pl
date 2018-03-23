@@ -74,6 +74,14 @@ $aufgabe[6]=sub {
     print termtest "\\end{equation}\n";
 };
 
+$aufgabe[7]=sub {
+    print termtest "Simplify, using the definition of hyperbolic trigonometric functions,\n";
+    print termtest "\\begin{equation}\n";
+    print termtest "\\label{eq:yohseixo}\n";
+    print termtest "\\sqrt{2\\pi\\sinh\\left(\\ln\\pi\\right)+1}\\notag\n";
+    print termtest "\\end{equation}\n";
+};
+
 for ($y2=0;$y2<=$#aufgabe;++$y2)
 {
     $z5=rand;
@@ -86,13 +94,14 @@ for ($y4=0;$y4<=$#z3;++$y4)
     $z2[$y4]=$z4[1];
 }
 
-$p[0]="7";
-$p[1]="7";
-$p[2]="7";
-$p[3]="7";
-$p[4]="7";
-$p[5]="7";
+$p[0]="6";
+$p[1]="6";
+$p[2]="6";
+$p[3]="6";
+$p[4]="6";
+$p[5]="6";
 $p[6]="6";
+$p[7]="6";
 
 $nm[0]="termtest1";
 $nm[1]="termtest2";
