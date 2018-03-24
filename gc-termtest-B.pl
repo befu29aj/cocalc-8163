@@ -110,7 +110,7 @@ $vn[0]="1";
 $vn[1]="2";
 
 $v001[0]="13";
-$v002[0]="\\lim_{x\\rightarrow\\frac{\pi}{4}}\\frac{\\sin{}x-\\cos{}x}{x-\\frac{\\pi}{4}}";
+$v002[0]="\\lim_{x\\rightarrow\\frac{\\pi}{4}}\\frac{\\sin{}x-\\cos{}x}{x-\\frac{\\pi}{4}}";
 $v003[0]="\\lim_{x\\rightarrow\\frac{\\pi}{2}}\\frac{2x-\\pi}{\\cos{}x}";
 $v004[0]="0.4";
 $v005[0]="1.4";
