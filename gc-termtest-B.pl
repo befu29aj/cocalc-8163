@@ -133,35 +133,39 @@ $v009[1]="\\cosh";
 $v010[1]="";
 $v011[1]="";
 
-for ($i1=0;$i1<=$#nm;++$i1)
-{
-open(termtest,">./gc-termtest-B$vn[$i1].tex");
-print termtest "% gc-termtest-B.tex\n\n";
-print termtest "\\documentclass[11pt]{article}\n";
-print termtest "\\usepackage{alltt}\n";
-print termtest "\\usepackage{enumerate}\n";
-print termtest "\\usepackage{syllogism} \n";
-print termtest "\\usepackage{float} \n";
-print termtest "\\usepackage{october}\n";
-print termtest "\\usepackage[table]{xcolor}\n";
-print termtest "\\pagestyle{empty}\n\n";
-print termtest "\\newcounter{aufg}\n";
-print termtest "\\setcounter{aufg}{0}\n";
-print termtest "\\newcommand{\\aufgabe}[1]{\\refstepcounter{aufg}\\textbf{(\\arabic{aufg})}[#1 points]}\n\n";
+#################################
+# do not run this, manipulate gc-termtest-B1.tex and gc-termtest-B2.tex instead
+#################################
 
-print termtest "\\begin{document}\n\n";
+# for ($i1=0;$i1<=$#nm;++$i1)
+# {
+# open(termtest,">./gc-termtest-B$vn[$i1].tex");
+# print termtest "% gc-termtest-B.tex\n\n";
+# print termtest "\\documentclass[11pt]{article}\n";
+# print termtest "\\usepackage{alltt}\n";
+# print termtest "\\usepackage{enumerate}\n";
+# print termtest "\\usepackage{syllogism} \n";
+# print termtest "\\usepackage{float} \n";
+# print termtest "\\usepackage{october}\n";
+# print termtest "\\usepackage[table]{xcolor}\n";
+# print termtest "\\pagestyle{empty}\n\n";
+# print termtest "\\newcounter{aufg}\n";
+# print termtest "\\setcounter{aufg}{0}\n";
+# print termtest "\\newcommand{\\aufgabe}[1]{\\refstepcounter{aufg}\\textbf{(\\arabic{aufg})}[#1 points]}\n\n";
 
-print termtest "\\textbf{Term Test B version $vn[$i1]}\n\n";
+# print termtest "\\begin{document}\n\n";
 
-@bufgabe=shuffle(@aufgabe);
+# print termtest "\\textbf{Term Test B version $vn[$i1]}\n\n";
 
-for ($i2=0;$i2<=$#aufgabe;++$i2)
-{
-    print termtest "\\aufgabe{$p[$i2]} ";
-    $bufgabe[$i2]->();
-    print termtest "\n";
-}
+# @bufgabe=shuffle(@aufgabe);
 
-print termtest "\\end{document}\n";
-close(termtest);
-}
+# for ($i2=0;$i2<=$#aufgabe;++$i2)
+# {
+#     print termtest "\\aufgabe{$p[$i2]} ";
+#     $bufgabe[$i2]->();
+#     print termtest "\n";
+# }
+
+# print termtest "\\end{document}\n";
+# close(termtest);
+# }

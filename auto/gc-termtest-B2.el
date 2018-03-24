@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "gc-termtest-B1"
+ "gc-termtest-B2"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "11pt")))
@@ -19,14 +19,14 @@
    (TeX-add-symbols
     '("aufgabe" 1))
    (LaTeX-add-labels
-    "eq:ahkisoav"
     "eq:aphaefex"
+    "eq:voolohqu"
+    "eq:ahkisoav"
+    "eq:yohseixo"
+    "eq:phauruwi"
     "eq:aathieyi"
     "eq:uapaighi"
-    "eq:chaekaec"
-    "eq:phauruwi"
-    "eq:yohseixo"
-    "eq:voolohqu")
+    "eq:chaekaec")
    (LaTeX-add-counters
     "aufg"))
  :latex)
