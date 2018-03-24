@@ -22,11 +22,11 @@
     "eq:ahkisoav"
     "eq:aphaefex"
     "eq:aathieyi"
+    "eq:voolohqu"
     "eq:uapaighi"
     "eq:chaekaec"
     "eq:phauruwi"
-    "eq:yohseixo"
-    "eq:voolohqu")
+    "eq:yohseixo")
    (LaTeX-add-counters
     "aufg"))
  :latex)
