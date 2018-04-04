@@ -1,4 +1,8 @@
 # gc-termtest-B.pl
+
+# The optimization problem with the conical tent is way too difficult.
+# Solutions for this term test are in gc-termtest-B-solutions.ipynb
+    
 use List::Util 'shuffle';
 
 srand;
