@@ -385,6 +385,9 @@ INPUT ./diagrams/areacurves.png
 INPUT ./diagrams/squarish.png
 INPUT ./diagrams/squarish.png
 INPUT ./diagrams/squarish.png
+INPUT ./diagrams/squarish-desmos.png
+INPUT ./diagrams/squarish-desmos.png
+INPUT ./diagrams/squarish-desmos.png
 INPUT ./diagrams/crosssec.png
 INPUT ./diagrams/crosssec.png
 INPUT ./diagrams/crosssec.png
@@ -420,6 +423,9 @@ INPUT ./diagrams/washer.png
 INPUT ./diagrams/radii.png
 INPUT ./diagrams/radii.png
 INPUT ./diagrams/radii.png
+INPUT ./diagrams/torus.png
+INPUT ./diagrams/torus.png
+INPUT ./diagrams/torus.png
 INPUT ./diagrams/pollen.png
 INPUT ./diagrams/pollen.png
 INPUT ./diagrams/pollen.png
