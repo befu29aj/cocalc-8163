@@ -79,7 +79,7 @@ $aufgabe[6]=sub {
 };
 
 $aufgabe[7]=sub {
-    print termtest "Simplify, using the definition of hyperbolic trigonometric functions,\n";
+    print termtest "For this question, you must show each step as if you did not have a calculator. Simplify, using the definition of hyperbolic trigonometric functions,\n";
     print termtest "\\begin{equation}\n";
     print termtest "\\label{eq:yohseixo}\n";
     print termtest "\\sqrt{2\\pi\\sinh\\left(\\ln\\pi\\right)+1}\\notag\n";
