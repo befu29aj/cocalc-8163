@@ -31,6 +31,8 @@
     "eq:ohtooquu"
     "eq:raejibei"
     "eq:ebaikeiw"
+    "eq:chieyech"
+    "eq:xeiliaci"
     "eq:eeyohpha"
     "eq:oshachie"
     "eq:ahchoode"

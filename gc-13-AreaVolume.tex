@@ -308,8 +308,28 @@ generate a solid. Find the volume of the solid.
   {\ubung} Find the definite integral expressing the volume of the
   solid torus with major radius $R$ and minor radius $r$.
 \begin{figure}[h]
-  \includegraphics[scale=0.25]{./diagrams/torus.png}
+  \includegraphics[scale=0.6]{./diagrams/torus.png}
 \end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Solid Torus Volume}
+  Define the following two functions:
+  \begin{equation}
+    \label{eq:chieyech}
+    f_{1}(x)=\sqrt{r^{2}-x^{2}}+R
+  \end{equation}
+  \begin{equation}
+    \label{eq:chieyech}
+    f_{2}(x)=-\sqrt{r^{2}-x^{2}}+R
+  \end{equation}
+  Use the washer method for the following volume calculation,
+  \begin{equation}
+    \label{eq:xeiliaci}
+    V=\pi\int_{-r}^{r}\left(\left(\sqrt{r^{2}-x^{2}}+R\right)^{2}-\left(-\sqrt{r^{2}-x^{2}}+R\right)^{2}\right)\,dx
+  \end{equation}
+We do not know yet how to solve an integral like this. Stay tuned for
+the next lesson to find out.
 \end{frame}
 
 \begin{frame}
