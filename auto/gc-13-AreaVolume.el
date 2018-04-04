@@ -33,6 +33,8 @@
     "eq:ebaikeiw"
     "eq:chieyech"
     "eq:xeiliaci"
+    "eq:ahbohyae"
+    "eq:ohaesuci"
     "eq:eeyohpha"
     "eq:oshachie"
     "eq:ahchoode"

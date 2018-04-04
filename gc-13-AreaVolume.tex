@@ -305,8 +305,8 @@ generate a solid. Find the volume of the solid.
 
 \begin{frame}
   \frametitle{Washer Method Exercise}
-  {\ubung} Find the definite integral expressing the volume of the
-  solid torus with major radius $R$ and minor radius $r$.
+  {\ubung} Find the volume of the solid torus with major radius $R$
+  and minor radius $r$.
 \begin{figure}[h]
   \includegraphics[scale=0.6]{./diagrams/torus.png}
 \end{figure}
@@ -317,19 +317,31 @@ generate a solid. Find the volume of the solid.
   Define the following two functions:
   \begin{equation}
     \label{eq:chieyech}
-    f_{1}(x)=\sqrt{r^{2}-x^{2}}+R
+    f_{1}(x)=R+\sqrt{r^{2}-x^{2}}
   \end{equation}
   \begin{equation}
     \label{eq:chieyech}
-    f_{2}(x)=-\sqrt{r^{2}-x^{2}}+R
+    f_{2}(x)=R-\sqrt{r^{2}-x^{2}}
   \end{equation}
   Use the washer method for the following volume calculation,
   \begin{equation}
     \label{eq:xeiliaci}
-    V=\pi\int_{-r}^{r}\left(\left(\sqrt{r^{2}-x^{2}}+R\right)^{2}-\left(-\sqrt{r^{2}-x^{2}}+R\right)^{2}\right)\,dx
+    V=\pi\int_{-r}^{r}\left(\left(R+\sqrt{r^{2}-x^{2}}\right)^{2}-\left(R-\sqrt{r^{2}-x^{2}}\right)^{2}\right)\,dx
   \end{equation}
-We do not know yet how to solve an integral like this. Stay tuned for
-the next lesson to find out.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Solid Torus Volume}
+  Simplify the last equation to
+  \begin{equation}
+    \label{eq:ahbohyae}
+    V=4R\pi\int_{-r}^{r}\left(\sqrt{r^{2}-x^{2}}\right)\,dx
+  \end{equation}
+  The integral is just the area of a semicircle! Therefore,
+  \begin{equation}
+    \label{eq:ohaesuci}
+    V=2\pi{}Rr^{2}
+  \end{equation}
 \end{frame}
 
 \begin{frame}
