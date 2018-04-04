@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  6 MAR 2018 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  21 MAR 2018 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1052,27 +1052,41 @@ thkerncmss.
 
 ] [11
 
-] [12
+]
+<./diagrams/optsine.png, id=116, 667.49374pt x 322.20375pt>
+File: ./diagrams/optsine.png Graphic file (type png)
 
-] [13
+<use ./diagrams/optsine.png>
+Package pdftex.def Info: ./diagrams/optsine.png used on input line 158.
+(pdftex.def)             Requested size: 200.24966pt x 96.66187pt.
+ [12
 
-] [14
+ <./diagrams/optsine.png>] [13
 
 ]
-<./diagrams/lhopital_ed.png, id=142, 500.87125pt x 250.9375pt>
+<./diagrams/boxinsine.png, id=132, 637.38126pt x 439.6425pt>
+File: ./diagrams/boxinsine.png Graphic file (type png)
+
+<use ./diagrams/boxinsine.png>
+Package pdftex.def Info: ./diagrams/boxinsine.png used on input line 179.
+(pdftex.def)             Requested size: 191.21585pt x 131.89375pt.
+ [14
+
+ <./diagrams/boxinsine.png>] [15
+
+]
+<./diagrams/lhopital_ed.png, id=151, 500.87125pt x 250.9375pt>
 File: ./diagrams/lhopital_ed.png Graphic file (type png)
 
 <use ./diagrams/lhopital_ed.png>
-Package pdftex.def Info: ./diagrams/lhopital_ed.png used on input line 214.
+Package pdftex.def Info: ./diagrams/lhopital_ed.png used on input line 227.
 (pdftex.def)             Requested size: 300.52505pt x 150.56364pt.
- [15
+ [16
 
- <./diagrams/lhopital_ed.png>] [16
+ <./diagrams/lhopital_ed.png>] [17
 
 ]
-[17
-
-] [18
+[18
 
 ] [19
 
@@ -1090,25 +1104,29 @@ Package pdftex.def Info: ./diagrams/lhopital_ed.png used on input line 214.
 
 ] [26
 
+] [27
+
+] [28
+
 ]
-Overfull \hbox (16.41937pt too wide) detected at line 353
+Overfull \hbox (16.41937pt too wide) detected at line 378
 [][][] []\OT1/cmss/m/n/10.95 ([] \OMS/cmsy/m/n/10.95 ^^@ \OT1/mathkerncmss/m/sl
 /10.95 x\OT1/cmss/m/n/10.95 ) = []([] \OMS/cmsy/m/n/10.95 ^^@ \OT1/mathkerncmss
 /m/sl/10.95 x\OT1/cmss/m/n/10.95 ) = []([]([] \OMS/cmsy/m/n/10.95 ^^@ []\OT1/cm
 ss/m/n/10.95 ))
  []
 
-[27
-
-] [28
-
-] [29
+[29
 
 ] [30
 
 ] [31
 
 ] [32
+
+] [33
+
+] [34
 
 ]
 \tf@nav=\write6
@@ -1120,11 +1138,11 @@ ss/m/n/10.95 ))
 \tf@snm=\write8
 \openout8 = `gc-11-NewtonlHopital.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 396.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
  (./gc-11-NewtonlHopital.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 421.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 421.
 Package rerunfilecheck Info: File `gc-11-NewtonlHopital.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1132,13 +1150,13 @@ Package rerunfilecheck Info: File `gc-11-NewtonlHopital.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 396.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
  ) 
 Here is how much of TeX's memory you used:
- 20091 strings out of 493029
- 396516 string characters out of 6136234
- 466306 words of memory out of 5000000
- 23042 multiletter control sequences out of 15000+600000
+ 20111 strings out of 493029
+ 396856 string characters out of 6136234
+ 465331 words of memory out of 5000000
+ 23055 multiletter control sequences out of 15000+600000
  10852 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,424b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1155,10 +1173,10 @@ sfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on gc-11-NewtonlHopital.pdf (32 pages, 196042 bytes).
+Output written on gc-11-NewtonlHopital.pdf (34 pages, 227686 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
- 106 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 368 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
+ 111 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -373,6 +373,7 @@ INPUT ./diagrams/optleaf.png
 INPUT ./diagrams/optleafsol.png
 INPUT ./diagrams/optleafsol.png
 INPUT ./diagrams/optleafsol.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT ./diagrams/asymp1.png
 INPUT ./diagrams/asymp1.png
 INPUT ./diagrams/asymp1.png
@@ -416,3 +417,4 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
