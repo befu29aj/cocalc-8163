@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  4 APR 2018 23:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  5 APR 2018 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1104,51 +1104,51 @@ Package pdftex.def Info: ./diagrams/squarish.png used on input line 113.
  <./diagrams/squarish.png>] [10
 
 ]
-<./diagrams/squarish-desmos.png, id=113, 890.32625pt x 876.27374pt>
+<./diagrams/squarish-desmos.png, id=116, 890.32625pt x 876.27374pt>
 File: ./diagrams/squarish-desmos.png Graphic file (type png)
 
 <use ./diagrams/squarish-desmos.png>
-Package pdftex.def Info: ./diagrams/squarish-desmos.png used on input line 127.
+Package pdftex.def Info: ./diagrams/squarish-desmos.png used on input line 140.
 
 (pdftex.def)             Requested size: 267.09993pt x 262.88414pt.
 
-Overfull \vbox (41.34174pt too high) detected at line 127
+Overfull \vbox (41.34174pt too high) detected at line 140
  []
 
 [11
 
  <./diagrams/squarish-desmos.png>]
-<./diagrams/crosssec.png, id=120, 286.06876pt x 344.28625pt>
+<./diagrams/crosssec.png, id=123, 286.06876pt x 344.28625pt>
 File: ./diagrams/crosssec.png Graphic file (type png)
 
 <use ./diagrams/crosssec.png>
-Package pdftex.def Info: ./diagrams/crosssec.png used on input line 167.
+Package pdftex.def Info: ./diagrams/crosssec.png used on input line 180.
 (pdftex.def)             Requested size: 128.72974pt x 154.92737pt.
 
-Overfull \vbox (0.93661pt too high) detected at line 167
+Overfull \vbox (0.93661pt too high) detected at line 180
  []
 
 [12
 
  <./diagrams/crosssec.png>]
-<./diagrams/pyramidvol.png, id=128, 556.0775pt x 568.1225pt>
+<./diagrams/pyramidvol.png, id=131, 556.0775pt x 568.1225pt>
 File: ./diagrams/pyramidvol.png Graphic file (type png)
 
 <use ./diagrams/pyramidvol.png>
-Package pdftex.def Info: ./diagrams/pyramidvol.png used on input line 178.
+Package pdftex.def Info: ./diagrams/pyramidvol.png used on input line 191.
 (pdftex.def)             Requested size: 166.82454pt x 170.43805pt.
 
-Overfull \vbox (5.42484pt too high) detected at line 178
+Overfull \vbox (5.42484pt too high) detected at line 191
  []
 
 [13
 
  <./diagrams/pyramidvol.png>]
-<./diagrams/cavalieri.jpg, id=138, 60.225pt x 35.4123pt>
+<./diagrams/cavalieri.jpg, id=141, 60.225pt x 35.4123pt>
 File: ./diagrams/cavalieri.jpg Graphic file (type jpg)
 
 <use ./diagrams/cavalieri.jpg>
-Package pdftex.def Info: ./diagrams/cavalieri.jpg used on input line 191.
+Package pdftex.def Info: ./diagrams/cavalieri.jpg used on input line 204.
 (pdftex.def)             Requested size: 120.44968pt x 70.82437pt.
  [14
 
@@ -1161,47 +1161,47 @@ Package epstopdf Info: Source file: <./diagrams/conevol.eps>
 (epstopdf)                    size: 7446 bytes
 (epstopdf)             Command: <repstopdf --outfile=./diagrams/conevol-eps-con
 verted-to.pdf ./diagrams/conevol.eps>
-(epstopdf)             \includegraphics on input line 209.
+(epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/conevol-eps-converted-to.pdf, id=145, 400.49625pt x 304.13625pt>
+<./diagrams/conevol-eps-converted-to.pdf, id=148, 400.49625pt x 304.13625pt>
 File: ./diagrams/conevol-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./diagrams/conevol-eps-converted-to.pdf>
 Package pdftex.def Info: ./diagrams/conevol-eps-converted-to.pdf used on input 
-line 209.
+line 222.
 (pdftex.def)             Requested size: 160.19566pt x 121.65233pt.
  [15
 
  <./diagrams/conevol-eps-converted-to.pdf>] [16
 
-] <./diagrams/disk_ed.png, id=177, 401.5pt x 200.75pt>
+] <./diagrams/disk_ed.png, id=180, 401.5pt x 200.75pt>
 File: ./diagrams/disk_ed.png Graphic file (type png)
 
 <use ./diagrams/disk_ed.png>
-Package pdftex.def Info: ./diagrams/disk_ed.png used on input line 240.
+Package pdftex.def Info: ./diagrams/disk_ed.png used on input line 253.
 (pdftex.def)             Requested size: 260.9719pt x 130.48595pt.
  [17
 
  <./diagrams/disk_ed.png>]
-<./diagrams/spherevol.png, id=185, 608.2725pt x 430.60875pt>
+<./diagrams/spherevol.png, id=188, 608.2725pt x 430.60875pt>
 File: ./diagrams/spherevol.png Graphic file (type png)
 
 <use ./diagrams/spherevol.png>
-Package pdftex.def Info: ./diagrams/spherevol.png used on input line 253.
+Package pdftex.def Info: ./diagrams/spherevol.png used on input line 266.
 (pdftex.def)             Requested size: 243.30469pt x 172.24043pt.
 
-Overfull \vbox (3.62721pt too high) detected at line 253
+Overfull \vbox (3.62721pt too high) detected at line 266
  []
 
 [18
 
  <./diagrams/spherevol.png>]
-<./diagrams/revthr.png, id=193, 398.48875pt x 146.5475pt>
+<./diagrams/revthr.png, id=196, 398.48875pt x 146.5475pt>
 File: ./diagrams/revthr.png Graphic file (type png)
 
 <use ./diagrams/revthr.png>
-Package pdftex.def Info: ./diagrams/revthr.png used on input line 267.
+Package pdftex.def Info: ./diagrams/revthr.png used on input line 280.
 (pdftex.def)             Requested size: 278.94022pt x 102.58253pt.
  [19
 
@@ -1209,43 +1209,43 @@ Package pdftex.def Info: ./diagrams/revthr.png used on input line 267.
 File: ./diagrams/revthr.png Graphic file (type png)
 
 <use ./diagrams/revthr.png>
-Package pdftex.def Info: ./diagrams/revthr.png used on input line 285.
+Package pdftex.def Info: ./diagrams/revthr.png used on input line 298.
 (pdftex.def)             Requested size: 278.94022pt x 102.58253pt.
  [20
 
 ]
-<./diagrams/washer.png, id=209, 519.9425pt x 301.125pt>
+<./diagrams/washer.png, id=212, 519.9425pt x 301.125pt>
 File: ./diagrams/washer.png Graphic file (type png)
 
 <use ./diagrams/washer.png>
-Package pdftex.def Info: ./diagrams/washer.png used on input line 295.
+Package pdftex.def Info: ./diagrams/washer.png used on input line 308.
 (pdftex.def)             Requested size: 337.95862pt x 195.72891pt.
 
-Overfull \hbox (30.66875pt too wide) in paragraph at lines 295--295
+Overfull \hbox (30.66875pt too wide) in paragraph at lines 308--308
  [] 
  []
 
 
-Overfull \vbox (28.58653pt too high) detected at line 295
+Overfull \vbox (28.58653pt too high) detected at line 308
  []
 
 [21
 
  <./diagrams/washer.png (PNG copy)>]
-<./diagrams/radii.png, id=216, 490.83376pt x 693.59125pt>
+<./diagrams/radii.png, id=219, 490.83376pt x 693.59125pt>
 File: ./diagrams/radii.png Graphic file (type png)
 
 <use ./diagrams/radii.png>
-Package pdftex.def Info: ./diagrams/radii.png used on input line 305.
+Package pdftex.def Info: ./diagrams/radii.png used on input line 318.
 (pdftex.def)             Requested size: 122.70813pt x 173.39738pt.
  [22
 
  <./diagrams/radii.png>]
-<./diagrams/torus.png, id=223, 228.25275pt x 112.0185pt>
+<./diagrams/torus.png, id=226, 228.25275pt x 112.0185pt>
 File: ./diagrams/torus.png Graphic file (type png)
 
 <use ./diagrams/torus.png>
-Package pdftex.def Info: ./diagrams/torus.png used on input line 314.
+Package pdftex.def Info: ./diagrams/torus.png used on input line 327.
 (pdftex.def)             Requested size: 136.9527pt x 67.2116pt.
  [23
 
@@ -1256,15 +1256,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{eq:chieyech})
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.332 \end{frame}
+l.345 \end{frame}
                  ] [25
 
 ]
-<./diagrams/pollen.png, id=248, 926.46124pt x 595.22375pt>
+<./diagrams/pollen.png, id=250, 926.46124pt x 595.22375pt>
 File: ./diagrams/pollen.png Graphic file (type png)
 
 <use ./diagrams/pollen.png>
-Package pdftex.def Info: ./diagrams/pollen.png used on input line 358.
+Package pdftex.def Info: ./diagrams/pollen.png used on input line 371.
 (pdftex.def)             Requested size: 231.61473pt x 148.80557pt.
  [26
 
@@ -1279,11 +1279,11 @@ Package pdftex.def Info: ./diagrams/pollen.png used on input line 358.
 
 ] [31
 
-] <./diagrams/telwire.png, id=295, 826.08624pt x 356.33125pt>
+] <./diagrams/telwire.png, id=297, 826.08624pt x 356.33125pt>
 File: ./diagrams/telwire.png Graphic file (type png)
 
 <use ./diagrams/telwire.png>
-Package pdftex.def Info: ./diagrams/telwire.png used on input line 449.
+Package pdftex.def Info: ./diagrams/telwire.png used on input line 462.
 (pdftex.def)             Requested size: 181.73953pt x 78.39311pt.
  [32
 
@@ -1291,27 +1291,27 @@ Package pdftex.def Info: ./diagrams/telwire.png used on input line 449.
 File: ./diagrams/telwire.png Graphic file (type png)
 
 <use ./diagrams/telwire.png>
-Package pdftex.def Info: ./diagrams/telwire.png used on input line 467.
+Package pdftex.def Info: ./diagrams/telwire.png used on input line 480.
 (pdftex.def)             Requested size: 181.73953pt x 78.39311pt.
  [33
 
 ] [34
 
 ]
-<./diagrams/frustumarea.png, id=318, 566.115pt x 388.45125pt>
+<./diagrams/frustumarea.png, id=320, 566.115pt x 388.45125pt>
 File: ./diagrams/frustumarea.png Graphic file (type png)
 
 <use ./diagrams/frustumarea.png>
-Package pdftex.def Info: ./diagrams/frustumarea.png used on input line 492.
+Package pdftex.def Info: ./diagrams/frustumarea.png used on input line 505.
 (pdftex.def)             Requested size: 169.8358pt x 116.53627pt.
  [35
 
  <./diagrams/frustumarea.png>]
-<./diagrams/revosurf1.png, id=326, 338.26375pt x 449.68pt>
+<./diagrams/revosurf1.png, id=328, 338.26375pt x 449.68pt>
 File: ./diagrams/revosurf1.png Graphic file (type png)
 
 <use ./diagrams/revosurf1.png>
-Package pdftex.def Info: ./diagrams/revosurf1.png used on input line 502.
+Package pdftex.def Info: ./diagrams/revosurf1.png used on input line 515.
 (pdftex.def)             Requested size: 101.4799pt x 134.90503pt.
  [36
 
@@ -1319,16 +1319,16 @@ Package pdftex.def Info: ./diagrams/revosurf1.png used on input line 502.
 File: ./diagrams/revosurf1.png Graphic file (type png)
 
 <use ./diagrams/revosurf1.png>
-Package pdftex.def Info: ./diagrams/revosurf1.png used on input line 512.
+Package pdftex.def Info: ./diagrams/revosurf1.png used on input line 525.
 (pdftex.def)             Requested size: 101.4799pt x 134.90503pt.
  [37
 
 ]
-<./diagrams/conelateral.png, id=340, 741.77126pt x 658.46pt>
+<./diagrams/conelateral.png, id=342, 741.77126pt x 658.46pt>
 File: ./diagrams/conelateral.png Graphic file (type png)
 
 <use ./diagrams/conelateral.png>
-Package pdftex.def Info: ./diagrams/conelateral.png used on input line 522.
+Package pdftex.def Info: ./diagrams/conelateral.png used on input line 535.
 (pdftex.def)             Requested size: 185.44235pt x 164.6146pt.
  [38
 
@@ -1344,12 +1344,12 @@ Package pdftex.def Info: ./diagrams/conelateral.png used on input line 522.
 \tf@snm=\write8
 \openout8 = `gc-13-AreaVolume.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 529.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 529.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 542.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 542.
 
 (./gc-13-AreaVolume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 529.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 529.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 542.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 542.
 Package rerunfilecheck Info: File `gc-13-AreaVolume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1360,13 +1360,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 529.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 542.
  ) 
 Here is how much of TeX's memory you used:
- 20243 strings out of 493029
- 400131 string characters out of 6136234
- 464973 words of memory out of 5000000
- 23166 multiletter control sequences out of 15000+600000
+ 20266 strings out of 493029
+ 400674 string characters out of 6136234
+ 464023 words of memory out of 5000000
+ 23187 multiletter control sequences out of 15000+600000
  14788 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,420b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1383,10 +1383,10 @@ fonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on gc-13-AreaVolume.pdf (39 pages, 2044495 bytes).
+Output written on gc-13-AreaVolume.pdf (39 pages, 2045642 bytes).
 PDF statistics:
- 419 PDF objects out of 1000 (max. 8388607)
- 320 compressed objects within 4 object streams
- 109 named destinations out of 1000 (max. 500000)
+ 421 PDF objects out of 1000 (max. 8388607)
+ 322 compressed objects within 4 object streams
+ 111 named destinations out of 1000 (max. 500000)
  194 words of extra memory for PDF output out of 10000 (max. 10000000)
 

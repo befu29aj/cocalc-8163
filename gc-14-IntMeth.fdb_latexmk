@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1522885413 "gc-14-IntMeth.tex" "gc-14-IntMeth.pdf" "gc-14-IntMeth" 1522885415
+["pdflatex"] 1522950047 "gc-14-IntMeth.tex" "gc-14-IntMeth.pdf" "gc-14-IntMeth" 1522950050
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -222,16 +222,16 @@
   "diagrams/improper2.png" 1515696295 10611 eaee5ebd6a7cd3770467f4c078a448a0 ""
   "diagrams/improper3.png" 1515696295 72164 1fdfed5db1d59193d3b2820dfb8017c7 ""
   "diagrams/improper4.png" 1515696295 108175 fb16f0ea9d6792e9b86973c732b77d1d ""
-  "gc-14-IntMeth.aux" 1522885415 15118 d916994188055b337b4db437da7b8eb3 ""
-  "gc-14-IntMeth.nav" 1522885415 4031 0b79794912b9a46da27b25fe125381d6 ""
-  "gc-14-IntMeth.out" 1522885414 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-14-IntMeth.aux" 1522950049 15118 d916994188055b337b4db437da7b8eb3 ""
+  "gc-14-IntMeth.nav" 1522950049 4031 0b79794912b9a46da27b25fe125381d6 ""
+  "gc-14-IntMeth.out" 1522950047 0 d41d8cd98f00b204e9800998ecf8427e ""
   "gc-14-IntMeth.tex" 1522885389 22278 17bb4dee27d3b691f421f38d5069b4d6 ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
-  "gc-14-IntMeth.nav"
+  "gc-14-IntMeth.pdf"
+  "gc-14-IntMeth.log"
+  "gc-14-IntMeth.toc"
   "gc-14-IntMeth.aux"
   "gc-14-IntMeth.snm"
-  "gc-14-IntMeth.log"
-  "gc-14-IntMeth.pdf"
   "gc-14-IntMeth.out"
-  "gc-14-IntMeth.toc"
+  "gc-14-IntMeth.nav"
