@@ -382,12 +382,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmss
 INPUT ./diagrams/areacurves.png
 INPUT ./diagrams/areacurves.png
 INPUT ./diagrams/areacurves.png
-INPUT ./diagrams/squarish.png
-INPUT ./diagrams/squarish.png
-INPUT ./diagrams/squarish.png
-INPUT ./diagrams/squarish-desmos.png
-INPUT ./diagrams/squarish-desmos.png
-INPUT ./diagrams/squarish-desmos.png
 INPUT ./diagrams/crosssec.png
 INPUT ./diagrams/crosssec.png
 INPUT ./diagrams/crosssec.png
