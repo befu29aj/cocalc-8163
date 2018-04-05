@@ -240,6 +240,67 @@ Evaluate the following definite integrals.
 \end{frame}
 
 \begin{frame}
+  \frametitle{Finding an Area Example}
+  {\ubung} The figure shows a region consisting of all points inside a
+  square that are closer to the centre than to the sides of the
+  square. Find the area of the region. (This is a difficult problem.
+  Only try it if you are looking for a challenge.)
+  \begin{figure}[h]
+    \includegraphics[scale=0.5]{./diagrams/squarish.png}
+  \end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding an Area Example}
+  \begin{description}
+  \item[Hint 1] Think of the curve to integrate in terms of the
+    diagram on the next slide.
+  \item[Hint 2] The definite integral is
+    \begin{equation}
+      \label{eq:loocooch}
+      A=4\int_{0}^{2-\sqrt{2}}\left(x-\sqrt{2}+2\sqrt{1-\sqrt{2}x}\right)\,dx
+    \end{equation}
+  \end{description}
+  The solution is approximately $A=0.87581$.
+  % For calculations see Schmierbuch 2573ff and diagram squarish on
+  % desmos.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding an Area Example}
+  \begin{figure}[h]
+    \includegraphics[scale=0.3]{./diagrams/squarish-desmos.png}
+  \end{figure}
+\end{frame}
+
+% \begin{frame}
+%   \frametitle{Finding an Area Solution}
+% First, notice that the area $A$ equals
+% \begin{equation}
+%   \label{eq:aeghieyu}
+%   A=(2w)^{2}+8\int_{0}^{w}[g(x)-f(x)]\,dx
+% \end{equation}
+% where $w$ is the $x$-coordinate of the top right point on the blue
+% figure; $f(x)=w$ and $g(x)$ is the function going along the top of the
+% blue figure. Since
+% \begin{equation}
+%   \label{eq:seephoes}
+%   1-w=\frac{1}{\sqrt{2}}
+% \end{equation}
+% it follows that
+% \begin{equation}
+%   \label{eq:weipeewi}
+%   w=1-\frac{1}{\sqrt{2}}
+% \end{equation}
+% and
+% \begin{equation}
+%   \label{eq:kehuichu}
+%   g(x)=\frac{1-x^{2}}{2}
+% \end{equation}
+% This appears to be incorrect.
+% \end{frame}
+
+\begin{frame}
   \frametitle{Integration Tables}
   Here are integration tables and tables of derivatives to last you
   for a while:
