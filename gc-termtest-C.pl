@@ -86,7 +86,7 @@ $aufgabe[5]=sub {
 };
 
 $aufgabe[6]=sub {
-    print termtest "Use integration by parts to find the following integral. Remember that you can find the antiderivative of \$f(x)=\\ln{}x\$ by writing \$f(x)=\\ln{}x\\cdot{}1\$ and then integrating by parts.\n\\begin{equation}\n\\label{eq:nophieyu}\\int\\left(\\ln{}x\\right)^{2}\\,dx\n";
+    print termtest "Use integration by parts to find the following integral. Remember that you can find the antiderivative of \$f(x)=\\ln{}x\$ by writing \$f(x)=\\ln{}x\\cdot{}1\$ and then integrating by parts.\n\\begin{equation}\n\\label{eq:nophieyu}\\int\\left(\\ln{}x\\right)^{2}\\,dx\n\\end{equation}\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
