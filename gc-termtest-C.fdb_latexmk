@@ -1,0 +1,12 @@
+# Fdb version 3
+["pdflatex"] 1524093647 "gc-termtest-C.pl" "gc-termtest-C.pdf" "gc-termtest-C" 1524093647
+  "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1506161354 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
+  "gc-termtest-C.aux" 1524093647 8 a94a2480d3289e625eea47cd1b285758 ""
+  "gc-termtest-C.pl" 1524093644 4749 0dd89e7d004e5cc3b553a6cca87417eb ""
+  (generated)
+  "gc-termtest-C.log"
+  "gc-termtest-C.pdf"
