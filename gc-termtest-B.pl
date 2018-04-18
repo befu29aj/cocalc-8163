@@ -5,7 +5,8 @@
     
 use List::Util 'shuffle';
 
-srand;
+$seed="lohxeequ";
+srand($seed);
 
 $aufgabe[0]=sub {
     print termtest "An open-top box is to be made by cutting small congruent squares from the corners of a$v006[$i1] $v001[$i1] inch by $v001[$i1] inch sheet of tin and bending up the sides. How large should the squares cut from the corners be to make the box hold as much as possible?\n";

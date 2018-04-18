@@ -448,6 +448,36 @@ The solution for the definite integral is $2$.
 \end{frame}
 
 \begin{frame}
+  \frametitle{Arc Length of Natural Logarithm}
+  \beispiel{Arc Length of Natural Logarithm} Find the arc length of
+  $f(x)=\ln{}x$ from $x=a$ to $x=b$. This is a difficult problem with
+  many interesting ways to find a solution. First note that the arc
+  length $L$ is
+  \begin{equation}
+    \label{eq:theijaeg}
+    L=\int_{a}^{b}\sqrt{1+[f'(x)]^{2}}\,dx=\int_{a}^{b}\frac{\sqrt{1+x^{2}}}{x}\,dx
+  \end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Arc Length of Natural Logarithm Solution}
+  For the first way, substitute $\tan{}u=x$ and use the trigonometric
+  identity $\tan^{2}x+1=\sec^{2}x$ for
+  \begin{equation}
+    \label{eq:phahpiqu}
+    L=\int_{a}^{b}\frac{\sqrt{1+x^{2}}}{x}\,dx=\int_{a}^{b}\frac{\sec{}u}{\tan{}u}\sec^{2}u\,du
+  \end{equation}
+  Split up the integral using again $\sec^{2}u=\tan^{2}u+1$ for
+  \begin{equation}
+    \label{eq:beidahch}
+    L=\int_{a}^{b}\frac{\sin{}u}{\cos^{2}u}\,du+\int_{a}^{b}\csc{}u\,du
+  \end{equation}
+  For the first term, substitute $v=\cos{}u$. For the second term, use
+  integral 96 on Thomas' Table of Integrals for the antiderivative of
+  $\csc$.
+\end{frame}
+
+\begin{frame}
   \frametitle{Integration by Parts}
   There is no product rule for integration, so integrals of the form
   \begin{equation}
