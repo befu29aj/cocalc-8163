@@ -82,7 +82,7 @@ $aufgabe[4]=sub {
 };
 
 $aufgabe[5]=sub {
-    print termtest "Find the length of the following curve.\n\\begin{equation}\n\\label{eq:thoageib}\nx=\\int_{0}^{y}\\sqrt{\\sec^{4}t-1}\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}y\\leq\frac{\\pi}$v010[$i1]\n\\end{equation}\n";
+    print termtest "Find the length of the following curve.\n\\begin{equation}\n\\label{eq:thoageib}\nx=\\int_{0}^{y}\\sqrt{\\sec^{4}t-1}\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}y\\leq\\frac{\\pi}$v010[$i1]\n\\end{equation}\n";
 };
 
 $aufgabe[6]=sub {
