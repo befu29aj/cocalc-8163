@@ -82,7 +82,7 @@ $aufgabe[4]=sub {
 };
 
 $aufgabe[5]=sub {
-    print termtest "Find the length of the following curve.\n\\begin{equation}\n\\label{eq:thoageib}\nx=\\int_{0}^{y}\\sqrt{\\sec^{4}t-1}\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}y\\leq\\frac{\\pi}$v010[$i1]\n\\end{equation}\n";
+    print termtest "Find the length of the following curve.\n\\begin{equation}\ny=\\int_{0}^{x}\\sqrt{\\sec^{4}t-1}\\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}x\\leq\\frac{\\pi}$v010[$i1]\n\\end{equation}\nRemember that according to the Fundamental Theorem of Calculus, if \$g(x)=\\int_{a}^{x}f(t)\\,dt\$, then \$g'(x)=f(x)\$.";
 };
 
 $aufgabe[6]=sub {
@@ -113,7 +113,7 @@ $v003[0]="\\cos";
 $v004[0]="2";
 $v005[0]="\\frac{\\pi}{6}";
 $v006[0]="\\frac{\\pi}{4}";
-$v007[0]="";
+$v007[0]="You may want to use integral 66 from Thomas' Brief Table of of Integrals,\n\\begin{equation}\n\\int\\cos^{2}ax\\,dx=\\frac{x}{2}+\\frac{\\sin{}2ax}{4a}\\end{equation}";
 $v008[0]="2";
 $v009[0]="3";
 $v010[0]="3";
