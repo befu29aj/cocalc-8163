@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "gc-termtest-C1"
+ "gc-termtest-C2"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "11pt")))
@@ -18,8 +18,8 @@
    (TeX-add-symbols
     '("aufgabe" 1))
    (LaTeX-add-labels
-    "eq:eedookuo"
-    "eq:aiquuojo")
+    "eq:aiquuojo"
+    "eq:eedookuo")
    (LaTeX-add-counters
     "aufg"))
  :latex)
