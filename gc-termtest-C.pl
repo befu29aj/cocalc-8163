@@ -88,7 +88,7 @@ $aufgabe[5]=sub {
 
 $aufgabe[6]=sub {
     # print termtest "Use integration by parts to find the following integral. Remember that you can find the antiderivative of \$f(x)=\\ln{}x\$ by writing \$f(x)=\\ln{}x\\cdot{}1\$ and then integrating by parts.\n\\begin{equation}\n\\label{eq:nophieyu}\\int\\left(\\ln{}x\\right)^{2}\\,dx\n\\end{equation}\n";
-    print termtest "Use substitution to evaluate the definite integral\\begin{equation}\\int_{4}^{1}\\frac{(\\sqrt{x}+1)^{4}}{2\\sqrt{x}}\\,dx\\end{equation}\n";
+    print termtest "Use the substitution \$u=\\sqrt{x}+1\$ to evaluate the definite integral\n\\begin{equation}\n\\int_{4}^{1}\\frac{(\\sqrt{x}+1)^{4}}{2\\sqrt{x}}\\,dx\n\\end{equation}\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
@@ -173,6 +173,7 @@ print termtest "\\newcommand{\\aufgabe}[1]{\\refstepcounter{aufg}\\textbf{(\\ara
 print termtest "\\begin{document}\n\n";
 
 print termtest "\\textbf{Term Test C version $vn[$i1]}\n\n";
+print termtest "Note that for \$f(x)=\\tan{}x\$ the derivative is \$f'(x)=\\sec^{2}x\$.\n\n";
 
 @bufgabe=shuffle(@aufgabe);
 
