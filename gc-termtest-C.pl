@@ -78,15 +78,17 @@ $aufgabe[3]=sub {
 };
 
 $aufgabe[4]=sub {
-    print termtest "Evaluate the following integral.\n\\begin{equation}\n\\label{eq:teingahg}\n\\int_{$v005[$i1]}^{$v006[$i1]}$v003[$i1]^{3}$v004[$i1]t\\,dt\n\\end{equation}\n";
+    # print termtest "Evaluate the following integral.\n\\begin{equation}\n\\label{eq:teingahg}\n\\int_{$v005[$i1]}^{$v006[$i1]}$v003[$i1]^{3}$v004[$i1]t\\,dt\n\\end{equation}\n";
+    print termtest "Breathing is cyclic and a full respiratory cycle from the beginning of inhalation to the end of exhalation takes about 5 seconds. The maximum rate of air flow into the lungs is about 0.5 litres per second. This explains, in part, why the function\n\\begin{equation}f(t)=\\frac{1}{2}\\sin\\left(\\frac{2\\pi}{5}t\\right)\n\end{equation}\nhas often been used to model the rate of air flow into the lungs. Use this model to find the volume of inhaled air in the lungs at time \$t\$.\n";
 };
 
 $aufgabe[5]=sub {
-    print termtest "Find the length of the following curve.\n\\begin{equation}\ny=\\int_{0}^{x}\\sqrt{\\sec^{4}t-1}\\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}x\\leq\\frac{\\pi}$v010[$i1]\n\\end{equation}\nRemember that according to the Fundamental Theorem of Calculus, if \$g(x)=\\int_{a}^{x}f(t)\\,dt\$, then \$g'(x)=f(x)\$.";
+    print termtest "Find the length of the following curve.\n\\begin{equation}\ny=\\int_{0}^{x}\\sqrt{\\sec^{4}t-1}\\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}x\\leq\\frac{\\pi}$v010[$i1]\n\\end{equation}\nRemember that according to the Fundamental Theorem of Calculus, if \$g(x)=\\int_{a}^{x}f(t)\\,dt\$, then \$g'(x)=f(x)\$.\n";
 };
 
 $aufgabe[6]=sub {
-    print termtest "Use integration by parts to find the following integral. Remember that you can find the antiderivative of \$f(x)=\\ln{}x\$ by writing \$f(x)=\\ln{}x\\cdot{}1\$ and then integrating by parts.\n\\begin{equation}\n\\label{eq:nophieyu}\\int\\left(\\ln{}x\\right)^{2}\\,dx\n\\end{equation}\n";
+    # print termtest "Use integration by parts to find the following integral. Remember that you can find the antiderivative of \$f(x)=\\ln{}x\$ by writing \$f(x)=\\ln{}x\\cdot{}1\$ and then integrating by parts.\n\\begin{equation}\n\\label{eq:nophieyu}\\int\\left(\\ln{}x\\right)^{2}\\,dx\n\\end{equation}\n";
+    print termtest "Use substitution to evaluate the definite integral\\begin{equation}\\int_{4}^{1}\\frac{(\\sqrt{x}+1)^{4}}{2\\sqrt{x}}\\,dx\\end{equation}\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
@@ -113,7 +115,7 @@ $v003[0]="\\cos";
 $v004[0]="2";
 $v005[0]="\\frac{\\pi}{6}";
 $v006[0]="\\frac{\\pi}{4}";
-$v007[0]="You may want to use integral 66 from Thomas' Brief Table of of Integrals,\n\\begin{equation}\n\\int\\cos^{2}ax\\,dx=\\frac{x}{2}+\\frac{\\sin{}2ax}{4a}\\end{equation}";
+$v007[0]="You may want to use integral 66 from Thomas' Brief Table of of Integrals,\n\\begin{equation}\n\\int\\cos^{2}ax\\,dx=\\frac{x}{2}+\\frac{\\sin{}2ax}{4a}+C\\end{equation}";
 $v008[0]="2";
 $v009[0]="3";
 $v010[0]="3";
