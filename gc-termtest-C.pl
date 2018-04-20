@@ -79,7 +79,7 @@ $aufgabe[3]=sub {
 
 $aufgabe[4]=sub {
     # print termtest "Evaluate the following integral.\n\\begin{equation}\n\\label{eq:teingahg}\n\\int_{$v005[$i1]}^{$v006[$i1]}$v003[$i1]^{3}$v004[$i1]t\\,dt\n\\end{equation}\n";
-    print termtest "Breathing is cyclic and a full respiratory cycle from the beginning of inhalation to the end of exhalation takes about 5 seconds. The maximum rate of air flow into the lungs is about 0.5 litres per second. This explains, in part, why the function\n\\begin{equation}f(t)=\\frac{1}{2}\\sin\\left(\\frac{2\\pi}{5}t\\right)\n\end{equation}\nhas often been used to model the rate of air flow into the lungs. Use this model to find the volume of inhaled air in the lungs at time \$t\$.\n";
+    print termtest "Breathing is cyclic and a full respiratory cycle from the beginning of inhalation to the end of exhalation takes about 5 seconds. The maximum rate of air flow into the lungs is about 0.5 litres per second. This explains, in part, why the function\n\\begin{equation}\nf(t)=\\frac{1}{2}\\sin\\left(\\frac{2\\pi}{5}t\\right)\n\\end{equation}\nhas often been used to model the rate of air flow into the lungs. Use this model to find the volume of inhaled air in the lungs at time \$t\$.\n";
 };
 
 $aufgabe[5]=sub {
