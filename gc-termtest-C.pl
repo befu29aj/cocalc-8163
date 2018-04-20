@@ -82,7 +82,7 @@ $aufgabe[4]=sub {
 };
 
 $aufgabe[5]=sub {
-    print termtest "Find the length of the following curve.\n\\begin{equation}\ny=\\int_{0}^{x}\\sqrt{\\sec^{4}t-1}\\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}xif \$g(x)=\\int_{a}^{x}f(t)\\,dt\$, then \$g'(x)=f(x)\$.";
+    print termtest "Find the length of the following curve.\n\\begin{equation}\ny=\\int_{0}^{x}\\sqrt{\\sec^{4}t-1}\\,dt,-\\frac{\\pi}$v010[$i1]\\leq{}x\\leq\\frac{\\pi}$v010[$i1]\n\\end{equation}\nRemember that according to the Fundamental Theorem of Calculus, if \$g(x)=\\int_{a}^{x}f(t)\\,dt\$, then \$g'(x)=f(x)\$.";
 };
 
 $aufgabe[6]=sub {
