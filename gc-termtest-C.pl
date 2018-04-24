@@ -115,7 +115,7 @@ $v003[0]="\\cos";
 $v004[0]="2";
 $v005[0]="\\frac{\\pi}{6}";
 $v006[0]="\\frac{\\pi}{4}";
-$v007[0]="You may want to use integral 66 from Thomas' Brief Table of of Integrals,\n\\begin{equation}\n\\int\\cos^{2}ax\\,dx=\\frac{x}{2}+\\frac{\\sin{}2ax}{4a}+C\\end{equation}";
+$v007[0]="You may want to use integral 66 from Thomas' Brief Table of Integrals,\n\\begin{equation}\n\\int\\cos^{2}ax\\,dx=\\frac{x}{2}+\\frac{\\sin{}2ax}{4a}+C\n\\end{equation}";
 $v008[0]="2";
 $v009[0]="3";
 $v010[0]="3";
