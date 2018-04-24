@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1522965972 "gc-14-IntMeth.tex" "gc-14-IntMeth.pdf" "gc-14-IntMeth" 1522965975
+["pdflatex"] 1524583317 "gc-14-IntMeth.tex" "gc-14-IntMeth.pdf" "gc-14-IntMeth" 1524583319
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -17,6 +17,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1136768653 1296 d77f431d10d47c8ea2cc18cf45346274 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm" 1136768653 1272 e2d13f0df30bf3ad990bb9d028e37f34 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm" 1136768653 1520 ca2bb4b78ac9800bd686e30c6d19ef95 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
@@ -213,16 +214,16 @@
   "diagrams/improper4.png" 1515696295 108175 fb16f0ea9d6792e9b86973c732b77d1d ""
   "diagrams/squarish-desmos.png" 1522883488 30762 2ed20fe1f783645b793c3a29dca4b3b1 ""
   "diagrams/squarish.png" 1515696296 6151 7ba3a5c373afc0cc00db96265564e97f ""
-  "gc-14-IntMeth.aux" 1522965975 18699 7968d5b74c591fab145d66ba13ee139d ""
-  "gc-14-IntMeth.nav" 1522965975 6542 4ccb0e532f9271d6ef45059eb05f6044 ""
-  "gc-14-IntMeth.out" 1522965973 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "gc-14-IntMeth.tex" 1522965972 26580 59d71a5eea2f06820fbb25c96a23f459 ""
+  "gc-14-IntMeth.aux" 1524583319 20546 a070c96ec4cddc35863f16d9b322634b ""
+  "gc-14-IntMeth.nav" 1524583319 7379 29add8312c59c0c7297dfbb086d00e9c ""
+  "gc-14-IntMeth.out" 1524583317 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-14-IntMeth.tex" 1524583310 30587 07fc138a8e2b5ab677c8348ef4a7f846 ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
-  "gc-14-IntMeth.toc"
-  "gc-14-IntMeth.aux"
   "gc-14-IntMeth.out"
   "gc-14-IntMeth.log"
-  "gc-14-IntMeth.snm"
   "gc-14-IntMeth.pdf"
+  "gc-14-IntMeth.aux"
+  "gc-14-IntMeth.snm"
   "gc-14-IntMeth.nav"
+  "gc-14-IntMeth.toc"
