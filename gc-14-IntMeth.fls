@@ -369,7 +369,6 @@ INPUT ./diagrams/improper3.png
 INPUT ./diagrams/improper4.png
 INPUT ./diagrams/improper4.png
 INPUT ./diagrams/improper4.png
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 OUTPUT gc-14-IntMeth.nav
 OUTPUT gc-14-IntMeth.toc
 OUTPUT gc-14-IntMeth.snm
