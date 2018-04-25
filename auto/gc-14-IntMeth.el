@@ -3,14 +3,14 @@
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("beamer" "xcolor=dvipsnames")))
-   (add-to-list 'LaTeX-verbatim-environments-local "semiverbatim")
    (add-to-list 'LaTeX-verbatim-environments-local "alltt")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-environments-local "semiverbatim")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
@@ -47,7 +47,7 @@
     "eq:aeteepah"
     "eq:loocooch"
     "eq:eewuquex"
-    "eq:qualaiqu"
+    "eq:bahyathe"
     "eq:xohphohh"
     "eq:mixausho"
     "eq:ohleseej"
@@ -105,14 +105,16 @@
     "eq:feirueho"
     "eq:ietahpha"
     "eq:saeheing"
+    "eq:haedeeli"
+    "eq:oxeiyooh"
+    "eq:oaruveep"
+    "eq:eefeishe"
     "eq:cheifiwo"
     "eq:eiquiena"
     "eq:yielohwi"
     "eq:oocoibuo"
     "eq:eebaesie"
     "eq:aezihuth"
-    "eq:wiexohje"
-    "eq:eedookuo"
-    "eq:aiquuojo"))
+    "eq:wiexohje"))
  :latex)
 
