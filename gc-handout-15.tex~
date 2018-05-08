@@ -1,0 +1,5 @@
+\documentclass{article}
+\usepackage{pdfpages}
+\begin{document}
+\includepdf[pages=1-40,nup=1x2,landscape=true,frame=false,noautoscale=true,scale=1.2,delta=0mm 5mm]{gc-15-Taylor.pdf}
+\end{document}
