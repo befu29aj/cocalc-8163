@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 16:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1147,14 +1147,10 @@ File: ./diagrams/sinappr.png Graphic file (type png)
 
 <use ./diagrams/sinappr.png>
 Package pdftex.def Info: ./diagrams/sinappr.png used on input line 693.
-(pdftex.def)             Requested size: 612.28601pt x 302.128pt.
+(pdftex.def)             Requested size: 367.37534pt x 181.27864pt.
 
-Overfull \hbox (304.99614pt too wide) in paragraph at lines 693--693
+Overfull \hbox (60.08546pt too wide) in paragraph at lines 693--693
  [] 
- []
-
-
-Overfull \vbox (94.18561pt too high) detected at line 693
  []
 
 [39
