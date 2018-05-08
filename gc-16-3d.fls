@@ -386,6 +386,14 @@ INPUT ./diagrams/threed2.png
 INPUT ./diagrams/threed3.png
 INPUT ./diagrams/threed3.png
 INPUT ./diagrams/threed3.png
+INPUT ./diagrams/judy.eps
+INPUT ./diagrams/judy.eps
+INPUT ./diagrams/judy.eps
+INPUT ./diagrams/judy.eps
+INPUT ./diagrams/judy-eps-converted-to.pdf
+INPUT ./diagrams/judy-eps-converted-to.pdf
+INPUT ./diagrams/judy-eps-converted-to.pdf
+INPUT ./diagrams/judy-eps-converted-to.pdf
 OUTPUT gc-16-3d.nav
 OUTPUT gc-16-3d.toc
 OUTPUT gc-16-3d.snm
@@ -394,7 +402,10 @@ INPUT ./gc-16-3d.out
 INPUT ./gc-16-3d.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb

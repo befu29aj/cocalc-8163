@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1525797629 "gc-15-Taylor.tex" "gc-15-Taylor.pdf" "gc-15-Taylor" 1525797630
+["pdflatex"] 1525797660 "gc-15-Taylor.tex" "gc-15-Taylor.pdf" "gc-15-Taylor" 1525797662
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -214,16 +214,16 @@
   "diagrams/harm1.jpg" 1515696295 24762 31d8efe43f6f47c5c597d31d87d14d23 ""
   "diagrams/inttes1.png" 1515696295 1762 a6a2ff1fa49c8a8a9647457872c4a1a4 ""
   "diagrams/sinappr.png" 1525797378 74597 9e0027a60301cb2dac6be97ae9389e1d ""
-  "gc-15-Taylor.aux" 1525797630 14785 65555a28642cd7d8fa25f9db82b4bdf6 ""
-  "gc-15-Taylor.nav" 1525797630 4217 3b0b06ec1eb675094cb12a01b93f427b ""
-  "gc-15-Taylor.out" 1525797629 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-15-Taylor.aux" 1525797662 14785 65555a28642cd7d8fa25f9db82b4bdf6 ""
+  "gc-15-Taylor.nav" 1525797662 4217 3b0b06ec1eb675094cb12a01b93f427b ""
+  "gc-15-Taylor.out" 1525797661 0 d41d8cd98f00b204e9800998ecf8427e ""
   "gc-15-Taylor.tex" 1525797627 24555 1c7eab7d3ce8acd7ef7f8bfe495aac14 ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
-  "gc-15-Taylor.toc"
-  "gc-15-Taylor.log"
-  "gc-15-Taylor.snm"
-  "gc-15-Taylor.out"
   "gc-15-Taylor.pdf"
   "gc-15-Taylor.aux"
   "gc-15-Taylor.nav"
+  "gc-15-Taylor.out"
+  "gc-15-Taylor.log"
+  "gc-15-Taylor.snm"
+  "gc-15-Taylor.toc"

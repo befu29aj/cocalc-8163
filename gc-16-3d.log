@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1224,32 +1224,30 @@ Overfull \vbox (7.73723pt too high) detected at line 687
  <./diagrams/threed3.png>] [41
 
 ]
-
-LaTeX Warning: File `./diagrams/judy.eps' not found on input line 708.
-
 Package epstopdf Info: Source file: <./diagrams/judy.eps>
+(epstopdf)                    date: 2018-05-08 16:45:33
+(epstopdf)                    size: 65186 bytes
 (epstopdf)             Output file: <./diagrams/judy-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./diagrams/judy-eps-conver
 ted-to.pdf ./diagrams/judy.eps>
 (epstopdf)             \includegraphics on input line 708.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=./diagrams/judy-eps-converted-to.pdf ./diagrams/j
+udy.eps)...executed safely (allowed).
 
-! Package pdftex.def Error: File `./diagrams/judy-eps-converted-to.pdf' not fou
-nd.
+Package epstopdf Info: Result file: <./diagrams/judy-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-08 16:45:36
+(epstopdf)                    size: 8342 bytes.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.708 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<./diagrams/judy-eps-converted-to.pdf, id=362, 601.24625pt x 360.34625pt>
+File: ./diagrams/judy-eps-converted-to.pdf Graphic file (type pdf)
 
-[42
+<use ./diagrams/judy-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/judy-eps-converted-to.pdf used on input lin
+e 708.
+(pdftex.def)             Requested size: 300.62238pt x 180.17268pt.
+ [42
 
-] [43
+ <./diagrams/judy-eps-converted-to.pdf>] [43
 
 ]
 
@@ -1362,29 +1360,31 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 864.
  ) 
 Here is how much of TeX's memory you used:
- 20343 strings out of 493029
- 400798 string characters out of 6136234
+ 20347 strings out of 493029
+ 400965 string characters out of 6136234
  468816 words of memory out of 5000000
- 23211 multiletter control sequences out of 15000+600000
+ 23215 multiletter control sequences out of 15000+600000
  10852 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,412b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-tt10.pfb>
-Output written on gc-16-3d.pdf (52 pages, 1424483 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+i8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on gc-16-3d.pdf (52 pages, 1451617 bytes).
 PDF statistics:
- 531 PDF objects out of 1000 (max. 8388607)
- 432 compressed objects within 5 object streams
+ 549 PDF objects out of 1000 (max. 8388607)
+ 446 compressed objects within 5 object streams
  170 named destinations out of 1000 (max. 500000)
- 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
