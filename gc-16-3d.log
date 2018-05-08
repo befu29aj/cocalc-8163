@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1228,15 +1228,12 @@ Package epstopdf Info: Source file: <./diagrams/judy.eps>
 (epstopdf)                    date: 2018-05-08 16:45:33
 (epstopdf)                    size: 65186 bytes
 (epstopdf)             Output file: <./diagrams/judy-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-08 16:45:36
+(epstopdf)                    size: 8342 bytes
 (epstopdf)             Command: <repstopdf --outfile=./diagrams/judy-eps-conver
 ted-to.pdf ./diagrams/judy.eps>
 (epstopdf)             \includegraphics on input line 708.
-runsystem(repstopdf --outfile=./diagrams/judy-eps-converted-to.pdf ./diagrams/j
-udy.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./diagrams/judy-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-05-08 16:45:36
-(epstopdf)                    size: 8342 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 <./diagrams/judy-eps-converted-to.pdf, id=362, 601.24625pt x 360.34625pt>
 File: ./diagrams/judy-eps-converted-to.pdf Graphic file (type pdf)
@@ -1249,85 +1246,45 @@ e 708.
 
  <./diagrams/judy-eps-converted-to.pdf>] [43
 
-]
+] <./diagrams/constraint-a.pdf, id=392, 300.00081pt x 158.82336pt>
+File: ./diagrams/constraint-a.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `constraint-a.pdf' not found on input line 737.
+<use ./diagrams/constraint-a.pdf>
+Package pdftex.def Info: ./diagrams/constraint-a.pdf used on input line 737.
+(pdftex.def)             Requested size: 300.00006pt x 158.82297pt.
+ [44
 
+ <./diagrams/constraint-a.pdf>]
+<./diagrams/constraint-b.pdf, id=403, 300.00081pt x 158.82336pt>
+File: ./diagrams/constraint-b.pdf Graphic file (type pdf)
 
-! Package pdftex.def Error: File `constraint-a.pdf' not found.
+<use ./diagrams/constraint-b.pdf>
+Package pdftex.def Info: ./diagrams/constraint-b.pdf used on input line 744.
+(pdftex.def)             Requested size: 300.00006pt x 158.82297pt.
+ [45
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.737 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ <./diagrams/constraint-b.pdf>]
+<./diagrams/constraint-c.pdf, id=417, 300.00081pt x 158.82336pt>
+File: ./diagrams/constraint-c.pdf Graphic file (type pdf)
 
-[44
+<use ./diagrams/constraint-c.pdf>
+Package pdftex.def Info: ./diagrams/constraint-c.pdf used on input line 751.
+(pdftex.def)             Requested size: 300.00006pt x 158.82297pt.
+ [46
 
-]
+ <./diagrams/constraint-c.pdf>]
+<./diagrams/constraint-d.pdf, id=430, 300.00081pt x 158.82336pt>
+File: ./diagrams/constraint-d.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `constraint-b.pdf' not found on input line 744.
+<use ./diagrams/constraint-d.pdf>
+Package pdftex.def Info: ./diagrams/constraint-d.pdf used on input line 758.
+(pdftex.def)             Requested size: 300.00006pt x 158.82297pt.
+ [47
 
-
-! Package pdftex.def Error: File `constraint-b.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.744 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[45
-
-]
-
-LaTeX Warning: File `constraint-c.pdf' not found on input line 751.
-
-
-! Package pdftex.def Error: File `constraint-c.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.751 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[46
+ <./diagrams/constraint-d.pdf>] [48
 
 ]
-
-LaTeX Warning: File `constraint-d.pdf' not found on input line 758.
-
-
-! Package pdftex.def Error: File `constraint-d.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.758 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[47
-
-] [48
-
-] [49
+[49
 
 ] [50
 
@@ -1360,10 +1317,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 864.
  ) 
 Here is how much of TeX's memory you used:
- 20347 strings out of 493029
- 400965 string characters out of 6136234
+ 20363 strings out of 493029
+ 401489 string characters out of 6136234
  468816 words of memory out of 5000000
- 23215 multiletter control sequences out of 15000+600000
+ 23231 multiletter control sequences out of 15000+600000
  10852 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,412b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1372,19 +1329,20 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
-i8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on gc-16-3d.pdf (52 pages, 1451617 bytes).
+/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+sbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on gc-16-3d.pdf (52 pages, 1465628 bytes).
 PDF statistics:
- 549 PDF objects out of 1000 (max. 8388607)
- 446 compressed objects within 5 object streams
+ 580 PDF objects out of 1000 (max. 8388607)
+ 472 compressed objects within 5 object streams
  170 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 
