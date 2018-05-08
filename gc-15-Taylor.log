@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  8 MAY 2018 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1208,7 +1208,7 @@ ublic/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/m
 sbm10.pfb>
-Output written on gc-15-Taylor.pdf (43 pages, 283928 bytes).
+Output written on gc-15-Taylor.pdf (43 pages, 283938 bytes).
 PDF statistics:
  482 PDF objects out of 1000 (max. 8388607)
  400 compressed objects within 4 object streams
