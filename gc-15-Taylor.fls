@@ -377,6 +377,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmss
 INPUT ./diagrams/harm1.jpg
 INPUT ./diagrams/harm1.jpg
 INPUT ./diagrams/harm1.jpg
+INPUT ./diagrams/sinappr.png
+INPUT ./diagrams/sinappr.png
+INPUT ./diagrams/sinappr.png
 OUTPUT gc-15-Taylor.nav
 OUTPUT gc-15-Taylor.toc
 OUTPUT gc-15-Taylor.snm
