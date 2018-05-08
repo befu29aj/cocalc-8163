@@ -1,0 +1,9 @@
+\frametitle{Graphical Representations: 3D}
+  Here is some octave (matlab) code that simulates three dimensions in
+  the plane using colours.
+\begin{alltt}
+x=linspace(-2,2,50);\newline
+y=linspace(-2,2,50);\newline
+[xx,yy]=meshgrid(x,y);\newline
+mesh(xx,yy,4-(xx.^2+yy.^2))
+\end{alltt}
