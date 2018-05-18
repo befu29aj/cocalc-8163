@@ -1,0 +1,164 @@
+% gc-finalexam-2018.tex
+
+\documentclass[11pt]{article}
+\usepackage{alltt}
+\usepackage{enumerate}
+\usepackage{syllogism} 
+\usepackage{october}
+\usepackage[table]{xcolor}
+\pagestyle{empty}
+
+\newcounter{aufg}
+\setcounter{aufg}{0}
+\newcommand{\aufgabe}[1]{\refstepcounter{aufg}\textbf{(\arabic{aufg})}
+[#1 points]}
+
+\begin{document}
+
+\textbf{Final Exam}
+
+There are eight questions with a total of 60 points. You may need the
+following:
+% You may need one of the following trigonometric identities:
+\begin{equation}
+  \label{eq:eechiwoo}
+  \sin(\alpha+\beta)=\sin\alpha\cos\beta+\sin\beta\cos\alpha
+\end{equation}
+\begin{equation}
+  \label{eq:bahwapoh}
+  \cos(\alpha+\beta)=\cos\alpha\cos\beta+\sin\beta\sin\alpha
+\end{equation}
+% \begin{equation}
+%   \label{eq:youyaida}
+%   \sec^{2}\vartheta-1=\tan^{2}\vartheta
+% \end{equation}
+\begin{equation}
+  \label{eq:veiyoeno}
+  \frac{d}{d\vartheta}\tan{}\vartheta=\sec^{2}\vartheta
+\end{equation}
+
+\aufgabe{4} Find an equation of the line tangent to the following
+curve at the given point.
+\begin{equation}
+  \label{eq:cahbiech}
+  y=\frac{4x}{x^{2}+3},x=3
+\end{equation}
+% \begin{equation}
+%   \label{eq:faipheey}
+%   y=3x^{3}+\sin{}x,x=\frac{\pi}{3}
+% \end{equation}
+% Briggs Cochran 221:41--42
+
+\aufgabe{6} Evaluate the following limits. 
+\begin{equation}
+  \label{eq:yahsubee}
+\lim_{x\rightarrow{}0}\frac{x-\sin{}x}{x^{3}}
+\end{equation}
+% Cooley 467-6
+\begin{equation}
+  \label{eq:zovainga}
+\lim_{n\rightarrow\infty}\sum_{k=1}^{n}\frac{2^{k}}{3^{k+2}}
+\end{equation}
+% Briggs Cochran 587:19
+
+\aufgabe{6} All boxes with a square base and a volume of 50ft$^{3}$
+have a surface area given by
+\begin{equation}
+  \label{eq:aepahgua}
+  S(x)=2x^{2}+\frac{200}{x}
+\end{equation}
+where $x$ is the length of the sides of the base. Find the absolute
+minimum of the surface area function. What are the dimensions of the
+box with minimum surface area?
+% Briggs Cochran 231:68
+
+\aufgabe{6} Consider the two curves $y=\sin{}x$ and $y=\sin{}(2x)$.
+They intersect three times between $x=0$ and $x=\pi$, call these
+intersection points $A,B,C$ from left to right. What is the total area
+between these two curves from $x=B$ to $x=C$? If part of this area is
+below the $x$-axis, it is added to the total area, not subtracted. 
+% Briggs Cochran 388:16
+
+\newpage
+
+\aufgabe{12} Evaluate the following definite integrals. For
+(\ref{eq:thoonohj}), present your answer as $\ln(n/m)$, where $n$ and
+$m$ are whole numbers.
+\begin{equation}
+  \label{eq:thoonohj}
+  \int_{-1}^{1}\frac{3x}{x^{2}+2x-8}\,dx
+\end{equation}
+% Briggs Cochran 477 and self
+% \begin{equation}
+%   \label{eq:veizaiva}
+%   \int_{0}^{\frac{\pi}{2}}\sin^{3}(2\vartheta)\,d\vartheta
+% \end{equation}
+% concocted by self
+\begin{equation}
+  \label{eq:therudei}
+  \int_{0}^{\infty}e^{-3x}\,dx
+\end{equation}
+% Briggs Cochran 503:1
+
+\aufgabe{10} Consider the following three points:
+\begin{equation}
+  \label{eq:seceeghi}
+  P=(3,1,2)\hspace{.5in}Q=(0,-6,3)\hspace{.5in}R=(-1,-5,5)
+\end{equation}
+$P,Q,R$ form a triangle, and
+\begin{equation}
+  \label{eq:aibebael}
+  \vec{PQ}\times\vec{PR}=\left(
+    \begin{array}{c}
+      -3     & 
+           1 & 
+               -2 
+    \end{array}
+\right)
+\end{equation}
+
+\begin{enumerate}
+\item Provide the line equation for the plane containing the triangle.
+\item Calculate the three interior angles of the triangle.
+\end{enumerate}
+% concocted by self
+
+\aufgabe{8} Find the critical points of the following function. Use
+the Second Derivative Test to determine (if possible) whether each
+critical point corresponds to a local maximum, local minimum, or
+saddle point.
+\begin{equation}
+  \label{eq:sheoceif}
+f(x,y)=(4x-1)^{2}+(2y+4)^{2}+1  
+\end{equation}
+% Briggs Cochran 861:16
+
+\aufgabe{6} Let
+\begin{equation}
+  \label{eq:yeitiebe}
+  f(x)=\frac{1}{1+2x}
+\end{equation}
+Use the Maclaurin series expansion to approximate
+\begin{equation}
+  \label{eq:mafohchu}
+  f(x)\approx{}c_{0}+c_{1}x+c_{2}x^{2}+c_{3}x^{3}+c_{4}x^{4}
+\end{equation}
+Then, provide the full expansion
+\begin{equation}
+  \label{eq:quaizobu}
+  f(x)=\sum_{n=0}^{\infty}c_{n}x^{n}
+\end{equation}
+% Briggs Cochran 621:14
+
+\end{document}
+
+\begin{equation}
+  \label{eq:ieneizai}
+  \begin{array}{rcl}
+    \sum{}xy&=&62034 \\
+    \sum{}x&=&791 \\
+    \sum{}y&=&775 \\
+    \sum{}x^{2}&=&63701 \\
+    \sum{}y^{2}&=&60937 \\
+  \end{array}
+\end{equation}
