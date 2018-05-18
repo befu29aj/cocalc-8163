@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1526069030 "gc-16-3d.tex" "gc-16-3d.pdf" "gc-16-3d" 1526069033
+["pdflatex"] 1526398277 "gc-16-3d.tex" "gc-16-3d.pdf" "gc-16-3d" 1526398280
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -226,17 +226,17 @@
   "diagrams/threed1.png" 1515696296 114388 ba9ce182f73f92c76112be9256eefe1e ""
   "diagrams/threed2.png" 1515696296 113555 228f5196aefd59ff9f62729ae3027ac1 ""
   "diagrams/threed3.png" 1515696296 110494 5aeff4fc0e04f98e568379e74bc15de5 ""
-  "gc-16-3d.aux" 1526069033 14777 78fa336ddc48f656b71b8990908281bb ""
-  "gc-16-3d.nav" 1526069033 5240 44b88686ea177dc6cde7ef60379f5828 ""
-  "gc-16-3d.out" 1526069031 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "gc-16-3d.tex" 1526069026 25431 ba222945d0a33639b847747dcb3212f0 ""
+  "gc-16-3d.aux" 1526398280 15004 511f48cd5554e278a6477a3797f61398 ""
+  "gc-16-3d.nav" 1526398280 5333 1ab75ccea4bc48e3249622ac24e642fe ""
+  "gc-16-3d.out" 1526398277 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "gc-16-3d.tex" 1526398274 25680 8990d1e0fb6e629e4b6f3b0141d64bd1 ""
   "teachbeamer.sty" 1516048989 1591 0df24347808dab7f2918ed74b95eedf8 ""
   (generated)
   "gc-16-3d.nav"
-  "gc-16-3d.toc"
+  "gc-16-3d.pdf"
   "gc-16-3d.vrb"
   "gc-16-3d.aux"
   "gc-16-3d.log"
+  "gc-16-3d.toc"
   "gc-16-3d.out"
   "gc-16-3d.snm"
-  "gc-16-3d.pdf"
