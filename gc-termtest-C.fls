@@ -1,9 +1,0 @@
-PWD /home/user/cocalc-8163
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT gc-termtest-C.pl
-OUTPUT gc-termtest-C.log
-OUTPUT gc-termtest-C.pdf
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
